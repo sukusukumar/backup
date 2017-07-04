@@ -1,0 +1,30 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-11-08 03:49+0100\n"
+"Last-Translator: Anne Kremer <akremer@aer.de>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/scripts/constants/iframe_constants.js:7
+msgid "CVC"
+msgstr "CVC"
+
+#: app/scripts/constants/iframe_constants.js:8
+msgid "Card Holder"
+msgstr "Card holder"
+
+#: app/scripts/constants/iframe_constants.js:5
+msgid "Card Number"
+msgstr "Card number"
+
+#: app/scripts/constants/iframe_constants.js:6
+msgid "Validity"
+msgstr "Validity"
+

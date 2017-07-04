@@ -1,0 +1,179 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Bhaskar Thammali <bhaskar.thammali@valuelabs.com>, 2016. #zanata
+# Katrin Paetzold <kpaetzold@aer.de>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-11-09 12:49+0100\n"
+"Last-Translator: Katrin Paetzold <kpaetzold@aer.de>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/settings/settings.html:655
+msgid "Add another text for a different document"
+msgstr "Add another text for a different document"
+
+#: app/views/settings/settings.html:424
+msgid "Airlines:"
+msgstr "Airlines:"
+
+#: app/views/settings/settings.html:186
+msgid "Airport settings"
+msgstr "Airport settings"
+
+#: app/views/settings/settings.html:155
+msgid "Basic search mask"
+msgstr "Basic search mask"
+
+#: app/views/settings/settings.html:391
+msgid "Cabin class & Airlines"
+msgstr "Cabin class & Airlines"
+
+#: app/views/settings/settings.html:260
+msgid "Calendar & date settings"
+msgstr "Calendar & date settings"
+
+#: app/views/settings/settings.html:269
+msgid "Days to departure:"
+msgstr "Days to departure:"
+
+#: app/views/settings/settings.html:400
+msgid "Default cabin class:"
+msgstr "Default cabin class:"
+
+#: app/views/settings/settings.html:331
+msgid "Default country for holidays & school vacations:"
+msgstr "Default country for holidays & school vacations:"
+
+#: app/views/settings/settings.html:195
+msgid "Default departure airport:"
+msgstr "Default departure airport:"
+
+#: app/views/settings/settings.html:217
+msgid "Default destination airport:"
+msgstr "Default destination airport:"
+
+#: app/views/settings/settings.html:283
+msgid "Default duration:"
+msgstr "Default duration:"
+
+#: app/views/settings/settings.html:369
+msgid "Default passenger types & no:"
+msgstr "Default passenger types & no:"
+
+#: app/views/settings/settings.html:144
+msgid "Default search mask:"
+msgstr "Default search mask:"
+
+#: app/views/settings/settings.html:345
+msgid "Default state for holidays & school vacations:"
+msgstr "Default state for holidays & school vacations:"
+
+#: app/views/settings/settings.html:472
+msgid "Default tariff selection:"
+msgstr "Default tariff selection:"
+
+#: app/views/settings/settings.html:508
+msgid "Document settings"
+msgstr "Document settings"
+
+#: app/views/settings/settings.html:621
+msgid "Document type:"
+msgstr "Document type:"
+
+#: app/views/settings/settings.html:164
+msgid "Extended search mask"
+msgstr "Extended search mask"
+
+#: app/views/settings/settings.html:29
+msgid "General settings"
+msgstr "General settings"
+
+#: app/views/settings/settings.html:70
+msgid "Language:"
+msgstr "Language:"
+
+#: app/views/settings/settings.html:133
+msgid "Minus"
+msgstr "Minus"
+
+#: app/views/settings/settings.html:6
+msgid "My pacKIT settings"
+msgstr "Flight IBE settings"
+
+#: app/views/settings/settings.html:360
+msgid "Passengers"
+msgstr "Passengers"
+
+#: app/views/settings/settings.html:135
+msgid "Plus"
+msgstr "Plus"
+
+#: app/views/settings/settings.html:641
+msgid "Pre-defined text for introduction:"
+msgstr "Pre-defined text for introduction:"
+
+#: app/views/settings/settings.html:204
+#: app/views/settings/settings.html:226
+msgid "Radius:"
+msgstr "Radius:"
+
+#: app/views/settings/settings.html:671
+msgid "Reset"
+msgstr "Reset"
+
+#: app/views/settings/settings.html:668
+msgid "Save"
+msgstr "Save"
+
+#: app/views/settings/settings.html:99
+msgid "Send booking confirmation automatically:"
+msgstr "Send booking confirmation automatically:"
+
+#: app/views/settings/settings.html:119
+msgid "Send copy of email confirmation to:"
+msgstr "Send copy of email confirmation to:"
+
+#: app/views/settings/settings.html:176
+msgid "Standard settings"
+msgstr "Standard settings"
+
+#: app/views/settings/settings.html:463
+msgid "Tariffs"
+msgstr "Tariffs"
+
+#: app/views/settings/settings.html:178
+msgid "The standard settings contain the following values:"
+msgstr "The standard settings contain the following values:"
+
+#: app/views/settings/settings.html:642
+msgid "This text can be overwritten in the application itself."
+msgstr "This text can be overwritten in the application itself."
+
+#: app/views/settings/settings.html:413
+msgid "Whitelist or blacklist airlines:"
+msgstr "Whitelist or blacklist airlines:"
+
+#: app/views/settings/settings.html:616
+msgid ""
+"You have the possiblity to define a introduction for each document (offer "
+"from result list, offer after booking, itinerary, confirmation). The text "
+"will be displayed on top of the document."
+msgstr ""
+"You have the possiblity to define a introduction for each document (offer "
+"from result list, offer after booking, itinerary, confirmation). The text "
+"will be displayed on top of the document."
+
+#: app/views/settings/settings.html:630
+msgid "all documents"
+msgstr "all documents"
+
+#: app/views/settings/settings.html:239
+msgid "nonstop flights only:"
+msgstr "nonstop flights only:"
+

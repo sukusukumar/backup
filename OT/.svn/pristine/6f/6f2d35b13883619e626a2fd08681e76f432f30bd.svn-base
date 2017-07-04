@@ -1,0 +1,14 @@
+ <div ng-include="'app/views/header.html'"></div>
+<div class="maincontainer">
+    <div class="maincontent">
+        <div class="container-fluid">
+            <div class="content-shadow">
+                <div class="ot-userAdministration plan-section">
+                    <h1>Create TestPlan</h1>
+                </div>
+            </div>
+            <div ng-include="'app/views/favourites.html'"></div>
+        </div>
+    </div>
+</div>
+<div ng-include="'app/views/favouritesPopUp.html'"></div>

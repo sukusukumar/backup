@@ -1,0 +1,14 @@
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script>
+<script src="sendFile.js"></script>
+</head>
+<body ng-app="SendFileToServer" ng-controller="getFile">
+<form action="demo_form" ng-submit="submitFile($event)">
+  Select a file: <input type="file" name="files" id="selectedFiles" file-upload files="files" multiple>
+  <input type="submit">
+</form> 
+
+</body>
+
+</html>

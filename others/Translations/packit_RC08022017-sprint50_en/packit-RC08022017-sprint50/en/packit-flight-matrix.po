@@ -1,0 +1,22 @@
+# Bhaskar Thammali <bhaskar.thammali@valuelabs.com>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-09-12 01:38+0200\n"
+"Last-Translator: Bhaskar Thammali <bhaskar.thammali@valuelabs.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/flight_search/partials/matrix/cell.html:15
+msgid ""
+"No calendar availablity found, please preform regular search for more "
+"accuracy."
+msgstr ""
+"No calendar availablity found, please preform regular search for more "
+"accuracy."
+

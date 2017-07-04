@@ -1,0 +1,16 @@
+{
+  "cartItemList": [
+    {
+      "lastName": "SUKUMAR",
+      "firstName": "VUMMADISETTY",
+      "paxType": "ADT",
+      "type": "PASSENGER",
+      "referenceNumber": "01",
+      "cartItemIdList": [
+        "1"
+      ],
+      "frequentFlyerNumberList": [],
+      "gender": "Male"
+    }
+  ]
+}

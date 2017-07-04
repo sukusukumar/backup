@@ -1,0 +1,177 @@
+# Jose Oliver <joliver@aerticket.es>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-12-09 02:27+0100\n"
+"Last-Translator: Jose Oliver <joliver@aerticket.es>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/settings/settings.html:655
+msgid "Add another text for a different document"
+msgstr "Añadir otro texto para un documento diferente"
+
+#: app/views/settings/settings.html:424
+msgid "Airlines:"
+msgstr "Aerolíneas:"
+
+#: app/views/settings/settings.html:186
+msgid "Airport settings"
+msgstr "Ajustes de aeropuerto"
+
+#: app/views/settings/settings.html:155
+msgid "Basic search mask"
+msgstr "Máscara de búsqueda básica"
+
+#: app/views/settings/settings.html:391
+msgid "Cabin class & Airlines"
+msgstr "Clase de cabina y Aerolíneas"
+
+#: app/views/settings/settings.html:260
+msgid "Calendar & date settings"
+msgstr "Calendario y ajustes de fecha"
+
+#: app/views/settings/settings.html:269
+msgid "Days to departure:"
+msgstr "Días para la salída:"
+
+#: app/views/settings/settings.html:400
+msgid "Default cabin class:"
+msgstr "Clase de cabina por defecto:"
+
+#: app/views/settings/settings.html:331
+msgid "Default country for holidays & school vacations:"
+msgstr "País de vacaciones por defecto y vacaciones escolares:"
+
+#: app/views/settings/settings.html:195
+msgid "Default departure airport:"
+msgstr "Aeropuerto de salida por defecto:"
+
+#: app/views/settings/settings.html:217
+msgid "Default destination airport:"
+msgstr "Aeropuerto de destino por defecto"
+
+#: app/views/settings/settings.html:283
+msgid "Default duration:"
+msgstr "Duración por defecto:"
+
+#: app/views/settings/settings.html:369
+msgid "Default passenger types & no:"
+msgstr "Tipo y número de pasajeros por defecto:"
+
+#: app/views/settings/settings.html:144
+msgid "Default search mask:"
+msgstr "Máscara de búsqueda por defecto:"
+
+#: app/views/settings/settings.html:345
+msgid "Default state for holidays & school vacations:"
+msgstr "Provincia por defecto para las vacaciones y vacaciones escolares:"
+
+#: app/views/settings/settings.html:472
+msgid "Default tariff selection:"
+msgstr "Tarifa seleccionada por defecto"
+
+#: app/views/settings/settings.html:508
+msgid "Document settings"
+msgstr "Ajustes de documentos"
+
+#: app/views/settings/settings.html:621
+msgid "Document type:"
+msgstr "Tipo de documento:"
+
+#: app/views/settings/settings.html:164
+msgid "Extended search mask"
+msgstr "Máscara de búsqueda extendida"
+
+#: app/views/settings/settings.html:29
+msgid "General settings"
+msgstr "Ajustes generales"
+
+#: app/views/settings/settings.html:70
+msgid "Language:"
+msgstr "Idioma:"
+
+#: app/views/settings/settings.html:133
+msgid "Minus"
+msgstr "Menos"
+
+#: app/views/settings/settings.html:6
+msgid "My pacKIT settings"
+msgstr "Ajustes"
+
+#: app/views/settings/settings.html:360
+msgid "Passengers"
+msgstr "Pasajeros"
+
+#: app/views/settings/settings.html:135
+msgid "Plus"
+msgstr "Más"
+
+#: app/views/settings/settings.html:641
+msgid "Pre-defined text for introduction:"
+msgstr "Texto predefinido para la introducción:"
+
+#: app/views/settings/settings.html:204
+#: app/views/settings/settings.html:226
+msgid "Radius:"
+msgstr "Radio"
+
+#: app/views/settings/settings.html:671
+msgid "Reset"
+msgstr "Restaurar"
+
+#: app/views/settings/settings.html:668
+msgid "Save"
+msgstr "Guardar"
+
+#: app/views/settings/settings.html:99
+msgid "Send booking confirmation automatically:"
+msgstr "Enviar confirmación de reserva automaticamente"
+
+#: app/views/settings/settings.html:119
+msgid "Send copy of email confirmation to:"
+msgstr "Enviar copia del email de confirmación a:"
+
+#: app/views/settings/settings.html:176
+msgid "Standard settings"
+msgstr "Ajustes estándar"
+
+#: app/views/settings/settings.html:463
+msgid "Tariffs"
+msgstr "Tarifas"
+
+#: app/views/settings/settings.html:178
+msgid "The standard settings contain the following values:"
+msgstr "Los ajustes estándar contienen los siguientes valores "
+
+#: app/views/settings/settings.html:642
+msgid "This text can be overwritten in the application itself."
+msgstr "Este texto puede ser sobrescrito en la aplicación"
+
+#: app/views/settings/settings.html:413
+msgid "Whitelist or blacklist airlines:"
+msgstr "Lista Blanca o lista negra de aerolineas:"
+
+#: app/views/settings/settings.html:616
+msgid ""
+"You have the possiblity to define a introduction for each document (offer "
+"from result list, offer after booking, itinerary, confirmation). The text "
+"will be displayed on top of the document."
+msgstr ""
+"Usted tiene la posibilidad de definir una introduccion para cada documento "
+"(Oferta de la lista de resultados, oferta tras la reserva, itinerario, "
+"confirmación) El texto se mostrará en la parte superior del documento."
+
+#: app/views/settings/settings.html:630
+msgid "all documents"
+msgstr "Todos los documentos"
+
+#: app/views/settings/settings.html:239
+msgid "nonstop flights only:"
+msgstr "Sólo vuelos sin escala:"
+

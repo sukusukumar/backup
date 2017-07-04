@@ -1,0 +1,93 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Bhaskar Thammali <bhaskar.thammali@valuelabs.com>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-12-06 04:30+0100\n"
+"Last-Translator: Anne Kremer <akremer@aer.de>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/flight_search/accordions.html:104
+msgid "Additional services"
+msgstr "Additional services"
+
+#: app/views/flight_search/accordions.html:78
+msgid "Alternatives"
+msgstr "Alternatives"
+
+#: app/views/flight_search/accordions.html:28
+msgid "Calendar matrix"
+msgstr "Calendar matrix"
+
+#: app/views/flight_search/accordions.html:14
+msgid "Change"
+msgstr "Change"
+
+#: app/views/flight_search/accordions.html:61
+msgid "Collapse all"
+msgstr "Collapse all"
+
+#: app/views/flight_search/accordions.html:91
+msgid "Details / Passenger Data"
+msgstr "Details / Passenger Data"
+
+#: app/views/flight_search/accordions.html:60
+msgid "Expand all"
+msgstr "Expand all"
+
+#: app/views/flight_search/accordions.html:17
+msgid "New Search"
+msgstr "New Search"
+
+#: app/views/flight_search/accordions.html:117
+msgid "Payment"
+msgstr "Payment"
+
+#: app/views/flight_search/accordions.html:124
+msgid "Print & e-mail"
+msgstr "Print & e-mail"
+
+#: app/views/flight_search/accordions.html:42
+msgid "Results"
+msgstr "Results"
+
+#: app/views/flight_search/accordions.html:5
+msgid "Search"
+msgstr "Search"
+
+#: app/views/flight_search/accordions.html:107
+#: app/views/flight_search/accordions.html:121
+#: app/views/flight_search/accordions.html:31
+#: app/views/flight_search/accordions.html:51
+#: app/views/flight_search/accordions.html:81
+#: app/views/flight_search/accordions.html:94
+msgid "Show"
+msgstr "Show"
+
+#: app/views/flight_search/accordions.html:57
+msgid "Show calendar matrix"
+msgstr "Show calendar matrix"
+
+#: app/views/flight_search/accordions.html:46
+msgid "{{numberOfResults}} Result with {{numberOfAirlines}} Airline found"
+msgid_plural ""
+"{{numberOfResults}} Results with {{numberOfAirlines}} Airline found"
+msgstr[0] "{{numberOfResults}} Result with {{numberOfAirlines}} Airline found"
+msgstr[1] ""
+"{{numberOfResults}} Results with {{numberOfAirlines}} Airline found"
+
+#: app/views/flight_search/accordions.html:45
+msgid "{{numberOfResults}} Result with {{numberOfAirlines}} Airlines found"
+msgid_plural ""
+"{{numberOfResults}} Results with {{numberOfAirlines}} Airlines found"
+msgstr[0] ""
+"{{numberOfResults}} Result with {{numberOfAirlines}} Airlines found"
+msgstr[1] ""
+"{{numberOfResults}} Results with {{numberOfAirlines}} Airlines found"
+

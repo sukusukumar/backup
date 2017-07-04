@@ -1,0 +1,251 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Caro Eickhoff <traduction@carolei.de>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-12-15 09:21+0100\n"
+"Last-Translator: Anne Kremer <akremer@aer.de>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: app/views/orderManager/accordions/spnrOverView.html:100
+msgid "Add Item"
+msgstr "Ajouter l'article"
+
+#: app/views/orderManager/popups/superPnr/history/tabContent.html:60
+#: app/views/orderManager/popups/superPnr/price/tabContent.html:62
+msgid "Agent"
+msgstr "Agent"
+
+#: app/views/orderManager/popups/superPnr/price/extrasPriceTab.html:12
+#: app/views/orderManager/popups/superPnr/price/flightPriceTab.html:12
+#: app/views/orderManager/popups/superPnr/price/seatsPriceTab.html:12
+msgid "Agent markup"
+msgstr "Commission d'agent"
+
+#: app/views/orderManager/partials/superPnrOverView/spnrService.html:54
+msgid "Airline Filekey(s):"
+msgstr "Réf. Cie:"
+
+#: app/views/orderManager/popups/superPnr/history/tabContent.html:18
+#: app/views/orderManager/popups/superPnr/price/tabContent.html:18
+msgid "All"
+msgstr "Tout"
+
+#: app/views/orderManager/popups/superPnr/history/tabContent.html:7
+#: app/views/orderManager/popups/superPnr/price/tabContent.html:7
+msgid "Archive & history"
+msgstr "Archives & Historique"
+
+#: app/scripts/constants/orderManager/om_spnr_overview_constants.js:21
+msgid "Book extras"
+msgstr "Réserver les extras"
+
+#: app/scripts/constants/orderManager/om_spnr_overview_constants.js:20
+msgid "Book seat"
+msgstr "Réserver un siège"
+
+#: app/views/orderManager/partials/superPnrOverView/spnrService.html:14
+msgid "Booking"
+msgstr "Réservation"
+
+#: app/views/orderManager/accordions/spnrOverView.html:53
+msgid "Booking date"
+msgstr "Date de réservation"
+
+#: app/scripts/constants/orderManager/om_spnr_overview_constants.js:8
+msgid ""
+"Booking has already been ordered. Pls. address to your service team for "
+"cancellation."
+msgstr ""
+"La réservation a déjà eu lieu. Veuillez vous adresser à votre service "
+"clientèle pour annuler."
+
+#: app/views/orderManager/accordions/spnrOverView.html:97
+msgid "Cancel Booking"
+msgstr "Annuler la réservation"
+
+#: app/scripts/constants/orderManager/om_spnr_overview_constants.js:6
+msgid "Cancellation has been denied due to missing air segments."
+msgstr "L'annulation a été rejetée pour cause de segments aériens manquants."
+
+#: app/views/orderManager/partials/superPnrOverView/spnrService.html:15
+msgid "Cancelled"
+msgstr "Annulé"
+
+#: app/views/orderManager/popups/superPnr/price/extrasPriceTab.html:15
+#: app/views/orderManager/popups/superPnr/price/seatsPriceTab.html:15
+msgid "Commission"
+msgstr "Commission"
+
+#: app/scripts/constants/orderManager/om_spnr_overview_constants.js:19
+msgid "Create PNR"
+msgstr "Créer le PNR"
+
+#: app/scripts/constants/orderManager/om_spnr_overview_constants.js:16
+msgid "Create SPNR"
+msgstr "Créer le SPNR"
+
+#: app/views/orderManager/popups/superPnr/history/tabContent.html:50
+#: app/views/orderManager/popups/superPnr/price/tabContent.html:50
+msgid "Date"
+msgstr "Date"
+
+#: app/views/orderManager/accordions/spnrOverView.html:93
+msgid "Edit"
+msgstr "Modifier"
+
+#: app/views/orderManager/popups/superPnr/history/tabContent.html:56
+#: app/views/orderManager/popups/superPnr/price/tabContent.html:56
+msgid "Event"
+msgstr "Événement"
+
+#: app/scripts/constants/orderManager/om_spnr_overview_constants.js:13
+msgid "Extras"
+msgstr "Extras"
+
+#: app/views/orderManager/partials/superPnrOverView/spnrService.html:36
+#: app/views/orderManager/partials/superPnrOverView/spnrService.html:37
+msgid "Fare Family %1$s"
+msgstr "Cat. tarifaire %1$s"
+
+#: app/scripts/constants/orderManager/om_spnr_overview_constants.js:11
+msgid "Flight"
+msgstr "Vol"
+
+#: app/views/orderManager/partials/superPnrOverView/spnrService.html:25
+msgid "Flight details"
+msgstr "Détails du vol"
+
+#: app/views/orderManager/popups/superPnr/history/tabContent.html:27
+#: app/views/orderManager/popups/superPnr/price/tabContent.html:27
+msgid "History"
+msgstr "Historique"
+
+#: app/views/orderManager/accordions/spnrOverView.html:62
+msgid "Last modified"
+msgstr "Dernière modification"
+
+#: app/views/orderManager/popups/superPnr/history/tabContent.html:64
+msgid "No results found"
+msgstr "Aucun résultat trouvé"
+
+#: app/views/orderManager/popups/superPnr/history/tabContent.html:36
+#: app/views/orderManager/popups/superPnr/price/tabContent.html:36
+msgid "PDF documents"
+msgstr "Documents PDF"
+
+#: app/views/orderManager/popups/superPnr/history/tab.html:8
+msgid "PNR"
+msgstr "PNR"
+
+#: app/views/orderManager/partials/superPnrOverView/spnrPaxSummary.html:3
+msgid "Passenger details"
+msgstr "Données des passagers"
+
+#: app/views/orderManager/popups/superPnr/price/extrasPriceTab.html:5
+#: app/views/orderManager/popups/superPnr/price/flightPriceTab.html:5
+#: app/views/orderManager/popups/superPnr/price/seatsPriceTab.html:5
+msgid "Pax"
+msgstr "Passagers"
+
+#: app/views/orderManager/popups/superPnr/history/archiveHistory.html:8
+msgid "Please wait while the Archive & History are being loaded."
+msgstr ""
+"Veuillez patienter, le téléchargement de Archives & Historique est en cours."
+
+#: app/views/orderManager/popups/superPnr/price/price.html:7
+msgid "Please wait while the Price Breakdown is being loaded."
+msgstr ""
+"Veuillez patienter, le téléchargement de l’affichage des prix est en cours."
+
+#: app/views/orderManager/popups/superPnr/price/flightPriceTab.html:6
+msgid "Price"
+msgstr "Prix"
+
+#: app/views/orderManager/partials/superPnrOverView/spnrService.html:13
+msgid "Reservation only"
+msgstr "Réservation uniquement"
+
+#: app/views/orderManager/accordions/spnrOverView.html:103
+msgid "Rules"
+msgstr "Règles"
+
+#: app/views/orderManager/popups/superPnr/history/tab.html:6
+msgid "SPNR"
+msgstr "SPNR"
+
+#: app/views/orderManager/popups/superPnr/price/flightPriceTab.html:9
+msgid "Saving"
+msgstr "Réduction"
+
+#: app/scripts/constants/orderManager/om_spnr_overview_constants.js:12
+msgid "Seats"
+msgstr "Sièges"
+
+#: app/views/orderManager/partials/superPnrOverView/spnrService.html:49
+msgid "TKTL"
+msgstr "TKTL"
+
+#: app/views/orderManager/popups/superPnr/price/flightPriceTab.html:7
+msgid "Tax"
+msgstr "Taxe"
+
+#: app/scripts/constants/orderManager/om_spnr_overview_constants.js:7
+msgid ""
+"Ticket(s) have already been issued. Please address to your service team for "
+"cancellation."
+msgstr ""
+"Billet(s) déjà émis. Veuillez vous adresser à votre service-clientèle pour "
+"annuler."
+
+#: app/views/orderManager/popups/superPnr/history/tabContent.html:53
+#: app/views/orderManager/popups/superPnr/price/tabContent.html:53
+msgid "Time"
+msgstr "Temps"
+
+#: app/views/orderManager/popups/superPnr/price/flightPriceTab.html:8
+msgid "Tkt-Fee"
+msgstr "Frais d‘émission"
+
+#: app/views/orderManager/accordions/spnrOverView.html:74
+#: app/views/orderManager/popups/superPnr/price/extrasPriceTab.html:82
+#: app/views/orderManager/popups/superPnr/price/flightPriceTab.html:46
+#: app/views/orderManager/popups/superPnr/price/seatsPriceTab.html:83
+msgid "Total:"
+msgstr "Total :"
+
+#: app/views/orderManager/accordions/spnrOverView.html:43
+msgid "Travel dates"
+msgstr "Dates de voyage"
+
+#: app/scripts/constants/orderManager/om_spnr_overview_constants.js:5
+msgid "Your booking has been cancelled"
+msgstr "Votre réservation a été annulée"
+
+#: app/views/orderManager/partials/superPnrOverView/spnrService.html:69
+msgid "Zum zug Flug"
+msgstr "Train+avion"
+
+#: app/views/orderManager/popups/superPnr/history/tabContent.html:86
+#: app/views/orderManager/popups/superPnr/price/tabContent.html:90
+msgid "close"
+msgstr "fermer"
+
+#: app/views/orderManager/popups/superPnr/price/extrasPriceTab.html:87
+msgid "hide markup"
+msgstr "masquer la commission"
+
+#: app/views/orderManager/partials/superPnrOverView/spnrService.html:68
+msgid "offered and invoiced by"
+msgstr "proposé et facturé par"
+
+#: app/views/orderManager/popups/superPnr/price/extrasPriceTab.html:88
+msgid "show markup"
+msgstr "afficher la commission"
+

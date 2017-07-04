@@ -1,0 +1,618 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Caro Eickhoff <traduction@carolei.de>, 2016. #zanata
+# Anne Kremer <akremer@aer.de>, 2017. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2017-02-02 07:26+0000\n"
+"PO-Revision-Date: 2017-01-26 04:54+0100\n"
+"Last-Translator: Anne Kremer <akremer@aer.de>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: app/language/json/apiErrors.json:apiErrors##0##description
+msgid "AUTORIZATION_FAILED"
+msgstr "ÉCHEC_DE_L'IDENTIFICATION"
+
+#: app/language/json/apiErrors.json:apiErrors##0##detailMessages##0
+msgid "HttpStatus returned for this error: 401"
+msgstr "Code d'erreur : http 401"
+
+#: app/language/json/apiErrors.json:apiErrors##1##description
+msgid "UNSUPPORTED_MEDIA_TYPE"
+msgstr "MÉDIA_NON_ACCEPTÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##1##detailMessages##0
+msgid "HttpStatus returned for this error: 415"
+msgstr "Code d'erreur : http 415"
+
+#: app/language/json/apiErrors.json:apiErrors##2##description
+msgid "FARE_SEARCH_NOT_FOUND"
+msgstr "TARIF_RECHERCHÉ_NON_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##2##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##3##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##4##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##5##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##6##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##7##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##8##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##9##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##10##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##12##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##13##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##18##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##27##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##32##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##33##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##34##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##35##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##36##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##38##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##39##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##45##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##48##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##49##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##61##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##67##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##71##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##72##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##79##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##81##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##82##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##88##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##94##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##97##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##100##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##102##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##105##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##106##detailMessages##0
+msgid "HttpStatus returned for this error: 404"
+msgstr "Code d'erreur : http 404"
+
+#: app/language/json/apiErrors.json:apiErrors##3##description
+msgid "FARE_NOT_FOUND"
+msgstr "TARIF_NON_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##4##description
+msgid "CALENDAR_FARE_SEARCH_NOT_FOUND"
+msgstr "CALENDRIER_TARIF_RECHERCHÉ_NON_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##5##description
+msgid "ITINERARY_NOT_FOUND"
+msgstr "ITINÉRAIRE_NON_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##6##description
+msgid "UPSELL_NOT_FOUND"
+msgstr "VENTE_UPSELL_NON_TROUVÉE"
+
+#: app/language/json/apiErrors.json:apiErrors##7##description
+msgid "ANCILLARY_SEARCH_NOT_FOUND"
+msgstr "RECHERCHE_AUXILIAIRE_NON_TROUVÉE"
+
+#: app/language/json/apiErrors.json:apiErrors##8##description
+msgid "FARE_SEARCH_REQUEST_NOT_FOUND"
+msgstr "DEMANDE_DE_RECHERCHE_DE_TARIFS_NON_TROUVÉE"
+
+#: app/language/json/apiErrors.json:apiErrors##9##description
+msgid "SEGMENT_NOT_FOUND"
+msgstr "SEGMENT_NON_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##10##description
+msgid "PNR_NOT_FOUND"
+msgstr "PNR_NON_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##11##description
+msgid "UPSELL_NOT_SUPPORTED"
+msgstr "VENTE_UPSELL_NON_ACCEPTÉE"
+
+#: app/language/json/apiErrors.json:apiErrors##11##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##14##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##15##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##16##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##17##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##19##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##20##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##21##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##22##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##23##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##24##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##25##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##26##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##28##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##29##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##30##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##31##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##37##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##40##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##41##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##42##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##43##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##44##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##46##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##47##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##50##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##51##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##52##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##53##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##54##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##55##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##56##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##57##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##58##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##60##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##62##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##68##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##69##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##73##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##74##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##75##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##76##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##77##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##78##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##80##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##83##detailMessages##0
+msgid "HttpStatus returned for this error: 400"
+msgstr "Code d'erreur : http 400"
+
+#: app/language/json/apiErrors.json:apiErrors##12##description
+msgid "FLIGHT_ITEM_NOT_FOUND"
+msgstr "VOL_NON_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##13##description
+msgid "PASSENGER_NOT_FOUND"
+msgstr "PASSAGER_NON_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##14##description
+msgid "INVALID_REQUEST"
+msgstr "REQUÊTE_INVALIDE"
+
+#: app/language/json/apiErrors.json:apiErrors##15##description
+msgid "PAGE_NUMBER_OUT_OF_BOUNDS"
+msgstr "NUMÉRO_DE_PAGE_HORS_LIMITES"
+
+#: app/language/json/apiErrors.json:apiErrors##16##description
+msgid "LEG_INDEX_OUT_OF_BOUNDS"
+msgstr "LISTE_ÉTAPES_HORS_LIMITES"
+
+#: app/language/json/apiErrors.json:apiErrors##17##description
+msgid "ITINERARY_INDEX_OUT_OF_BOUNDS"
+msgstr "LISTE_ITINÉRAIRE_HORS_LIMITES"
+
+#: app/language/json/apiErrors.json:apiErrors##18##description
+msgid "NO_FARE_FAMILY"
+msgstr "PAS_DE_CAT_TARIFAIRE"
+
+#: app/language/json/apiErrors.json:apiErrors##19##description
+msgid "PASSENGER_NAME_TO_LONG"
+msgstr "NOM_DE_PASSAGER_TROP_LONG"
+
+#: app/language/json/apiErrors.json:apiErrors##20##description
+msgid "UNCOMPARABLE_FARES"
+msgstr "TARIFS_NON_COMPARABLES"
+
+#: app/language/json/apiErrors.json:apiErrors##21##description
+msgid "UNREADABLE_REQUEST"
+msgstr "DEMANDE_ILLISIBLE"
+
+#: app/language/json/apiErrors.json:apiErrors##22##description
+msgid "MISSING_PARAMETER"
+msgstr "PARAMÈTRE_MANQUANT"
+
+#: app/language/json/apiErrors.json:apiErrors##23##description
+msgid "PARAMETER_TYPE_MISMATCH"
+msgstr "TYPE_DE_PARAMÈTRE_INCOMPATIBLE"
+
+#: app/language/json/apiErrors.json:apiErrors##24##description
+msgid "MIN_DAYS_IN_ADVANCE_VIOLATED"
+msgstr "DÉLAI_DE_JOURS_MIN_À_L'AVANCE_NON_RESPECTÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##25##description
+msgid "MAX_DAYS_IN_ADVANCE_VIOLATED"
+msgstr "DÉLAI_DE_JOURS_MAX_À_L'AVANCE_NON_RESPECTÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##26##description
+msgid "UNACCOMPANIED_MINORS_NOT_PERMITTED"
+msgstr "MINEURS_NON_ACCOMPAGNÉS_INTERDIT"
+
+#: app/language/json/apiErrors.json:apiErrors##27##description
+msgid "NO_FARES_FOUND"
+msgstr "AUCUN_TARIF_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##28##description
+msgid "REQUESTED_ITIN_IN_PAST"
+msgstr "ITIN_DEMANDÉ_PRÉCÉDEMMENT"
+
+#: app/language/json/apiErrors.json:apiErrors##29##description
+msgid "NONSTOP_WITH_CONNECTING_POINT_OPTION"
+msgstr "DIRECT_AVEC_OPTION_DE_POINT_DE_CORRESPONDANCE"
+
+#: app/language/json/apiErrors.json:apiErrors##30##description
+msgid "ITINERARIES_NOT_IN_CHRONOLOGICAL_ORDER"
+msgstr "ITINÉRAIRES_PAS_DANS_L'ORDRE_CHRONOLOGIQUE"
+
+#: app/language/json/apiErrors.json:apiErrors##31##description
+msgid "INVALID_ITINERARY"
+msgstr "Itinéraire invalide"
+
+#: app/language/json/apiErrors.json:apiErrors##32##description
+msgid "FARE_VERIFICATION_FAILED"
+msgstr "ÉCHEC_DE_LA_VÉRIFICATION_DU_TARIF"
+
+#: app/language/json/apiErrors.json:apiErrors##33##description
+msgid "SEAT_VERIFICATION_FAILED"
+msgstr "ÉCHEC_DE_LA_VÉRIFICATION_DES_SIÈGES"
+
+#: app/language/json/apiErrors.json:apiErrors##34##description
+msgid "ANCILLARY_VERIFICATION_FAILED"
+msgstr "ÉCHEC_DE_LA_VÉRIFICATION_AUXILIAIRE"
+
+#: app/language/json/apiErrors.json:apiErrors##35##description
+msgid "PRICING_FAILED"
+msgstr "ÉCHEC_DE_LA_TARIFICATION"
+
+#: app/language/json/apiErrors.json:apiErrors##36##description
+msgid "NOT_FOUND"
+msgstr "PAS_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##37##description
+msgid "BOOKABLE_CART_ITEM_EXPECTED"
+msgstr "ARTICLE_DU_PANIER_DISPONIBLE_ATTENDU"
+
+#: app/language/json/apiErrors.json:apiErrors##38##description
+msgid "SHOPPING_CART_NOT_FOUND"
+msgstr "PANIER_NON_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##39##description
+msgid "SHOPPING_CART_ITEM_NOT_FOUND"
+msgstr "ARTICLE_DU_PANIER_NON_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##40##description
+msgid "SHOPPING_CART_REFERENCE_NOT_FOUND"
+msgstr "RÉFÉRENCE_DU_PANIER_NON_TROUVÉE"
+
+#: app/language/json/apiErrors.json:apiErrors##41##description
+msgid "INFANT_EXCEEDS_MAX_AGE_DURING_TRAVEL"
+msgstr "LE BÉBÉ_DÉPASSE_L'AGE_MAX_LORS_DU_VOYAGE"
+
+#: app/language/json/apiErrors.json:apiErrors##42##description
+msgid "MISSING_PASSENGER_IN_SHOPPING_CART"
+msgstr "PASSAGER_MANQUANT_DANS_LE_PANIER"
+
+#: app/language/json/apiErrors.json:apiErrors##43##description
+msgid "EXACTLY_ONE_FLIGHT_ITEM_REFERENCE_EXPECTED"
+msgstr "EXACTEMENT_UNE_RÉFÉRENCE_DE_VOL_ATTENDUE"
+
+#: app/language/json/apiErrors.json:apiErrors##44##description
+msgid "EXACTLY_ONE_PASSENGER_REFERENCE_EXPECTED"
+msgstr "EXACTEMENT_UNE_RÉFÉRENCE_DE_PASSAGER_ATTENDUE"
+
+#: app/language/json/apiErrors.json:apiErrors##45##description
+msgid "NO_SUPER_PNR_FOUND"
+msgstr "AUCUN_SUPER_PNR_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##46##description
+msgid "TICKET_ORDER_MANDATORY"
+msgstr "COMMANDE_DE_BILLET_OBLIGATOIRE"
+
+#: app/language/json/apiErrors.json:apiErrors##47##description
+msgid "INVALID_ADULT_AGE"
+msgstr "L'âge d'adulte invalide"
+
+#: app/language/json/apiErrors.json:apiErrors##48##description
+msgid "ANCILLARIES_DENIED"
+msgstr "SERVICES_ADDITIONNELS_REFUSÉS"
+
+#: app/language/json/apiErrors.json:apiErrors##49##description
+msgid "NO_ANCILLARIES_FOUND"
+msgstr "AUCUN_SERVICE _ADDITIONNEL_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##50##description
+msgid "MISSING_INFANT_AGE"
+msgstr "ÂGE_DU_BÉBÉ_MANQUANT"
+
+#: app/language/json/apiErrors.json:apiErrors##51##description
+msgid "MISSING_CHILD_AGE"
+msgstr "ÂGE_DE_L'ENFANT_MANQUANT"
+
+#: app/language/json/apiErrors.json:apiErrors##52##description
+msgid "MISSING_SENIOR_AGE"
+msgstr "ÂGE_DU_SÉNIOR_MANQUANT"
+
+#: app/language/json/apiErrors.json:apiErrors##53##description
+msgid "MISSING_YOUTH_AGE"
+msgstr "ÂGE_DU_JEUNE_MANQUANT"
+
+#: app/language/json/apiErrors.json:apiErrors##54##description
+msgid "INVALID_YOUTH_AGE"
+msgstr "ÂGE_DU_JEUNE_INVALIDE"
+
+#: app/language/json/apiErrors.json:apiErrors##55##description
+msgid "INVALID_SENIOR_AGE"
+msgstr "ÂGE_DU_SÉNIOR_INVALIDE"
+
+#: app/language/json/apiErrors.json:apiErrors##56##description
+msgid "INVALID_CHILD_AGE"
+msgstr "ÂGE_DE_L'ENFANT_INVALIDE"
+
+#: app/language/json/apiErrors.json:apiErrors##57##description
+msgid "NUMBER_OF_INFANTS_EXCEEDS_NUMBER_OF_ADULTS"
+msgstr "NOMBRE_DE_BÉBÉS_SUPÉRIEUR_AU_NOMBRE_D'ADULTES"
+
+#: app/language/json/apiErrors.json:apiErrors##58##description
+msgid "PAYMENT_METHOD_NOT_ALLOWED"
+msgstr "MÉTHODE_DE_PAIEMENT_NON_AUTORISÉE"
+
+#: app/language/json/apiErrors.json:apiErrors##59##description
+msgid "SHOPPING_CART_ID_ALREADY_EXISTS"
+msgstr "UN_IDENTIFIANT_POUR_LE_PANIER_EXISTE_DÉJÀ"
+
+#: app/language/json/apiErrors.json:apiErrors##59##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##64##detailMessages##0
+msgid "HttpStatus returned for this error: 409"
+msgstr "Code d'erreur : http 409"
+
+#: app/language/json/apiErrors.json:apiErrors##60##description
+msgid "SHOPPING_CART_ITEMS_EXPECTED"
+msgstr "EN_ATTENTE_D'ARTICLES_DU_PANIER"
+
+#: app/language/json/apiErrors.json:apiErrors##61##description
+msgid "ANCILLARIES_DENIED_FOR_AIRLINE"
+msgstr "SERVICES_ADDITIONNELS_REFUSÉS_POUR_LA_CIE_AÉRIENNE"
+
+#: app/language/json/apiErrors.json:apiErrors##62##description
+msgid "PASSENGER_REFERENCE_EXPECTED"
+msgstr "EN_ATTENTE_DE_LA_RÉFÉRENCE_PASSAGER"
+
+#: app/language/json/apiErrors.json:apiErrors##63##description
+msgid "ANCILLARY_UNAVAILABLE"
+msgstr "SERVICES_ADDITIONNELS_NON_DISPONIBLES"
+
+#: app/language/json/apiErrors.json:apiErrors##63##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##70##detailMessages##0
+msgid "HttpStatus returned for this error: 410"
+msgstr "Code d'erreur : http 410"
+
+#: app/language/json/apiErrors.json:apiErrors##64##description
+msgid "MODIFICATION_NOT_ALLOWED"
+msgstr "Modification non autorisée."
+
+#: app/language/json/apiErrors.json:apiErrors##65##description
+msgid "SEAT_RESERVATION_NOT_ALLOWED"
+msgstr "Réservation de siège non autorisée."
+
+#: app/language/json/apiErrors.json:apiErrors##65##detailMessages##0
+msgid "HttpStatus returned for this error: 403"
+msgstr "HttpStatus returned for this error: 403"
+
+#: app/language/json/apiErrors.json:apiErrors##66##description
+msgid "NO_PAYMENT_FOUND"
+msgstr "AUCUN_PAIEMENT_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##66##detailMessages##0
+msgid "HttpStatus returned for this error: 402"
+msgstr "Code d'erreur : http 402"
+
+#: app/language/json/apiErrors.json:apiErrors##67##description
+msgid "NO_PAYMENT_METHOD_FOUND"
+msgstr "AUCUNE_MÉTHODE_DE_PAIEMENT_TROUVÉE"
+
+#: app/language/json/apiErrors.json:apiErrors##68##description
+msgid "MISSING_STUDENT_AGE"
+msgstr "ÂGE_DE_L'ÉTUDIANT_MANQUANT"
+
+#: app/language/json/apiErrors.json:apiErrors##69##description
+msgid "INVALID_STUDENT_AGE"
+msgstr "ÂGE_DE_L’ÉTUDIANT_INVALIDE"
+
+#: app/language/json/apiErrors.json:apiErrors##70##description
+msgid "NO_ITINERARY"
+msgstr "AUCUN_ITINÉRAIRE"
+
+#: app/language/json/apiErrors.json:apiErrors##71##description
+msgid "CC_FEE_NOT_FOUND"
+msgstr "FRAIS_DE_CARTE_DE_CRÉDIT_NON_TROUVÉS"
+
+#: app/language/json/apiErrors.json:apiErrors##72##description
+msgid "MERCHANT_FEE_NOT_FOUND"
+msgstr "FRAIS_DE_COMMERÇANT_NON_TROUVÉS"
+
+#: app/language/json/apiErrors.json:apiErrors##73##description
+msgid "MISSING_PCI_TOKEN"
+msgstr "MARQUE_PCI_MANQUANTE"
+
+#: app/language/json/apiErrors.json:apiErrors##74##description
+msgid "NO_CREDIT_CARD_DATA_FOUND"
+msgstr "AUCUNE_DONNÉE_DE_CARTE_CRÉDIT_TROUVÉE"
+
+#: app/language/json/apiErrors.json:apiErrors##75##description
+msgid "DELETE_METHOD_NOT_ALLOWED"
+msgstr "LA_SUPPRESSION_N'EST_PAS_AUTORISÉE"
+
+#: app/language/json/apiErrors.json:apiErrors##76##description
+msgid "ONLY_ONE_FORMAT_EXPECTED"
+msgstr "UN_SEUL_FORMAT_PRÉVU"
+
+#: app/language/json/apiErrors.json:apiErrors##77##description
+msgid "FORMAT_PART_DOESNT_FIT"
+msgstr "UNE_PARTIE_DU_FORMAT_NE_CONVIENT_PAS"
+
+#: app/language/json/apiErrors.json:apiErrors##78##description
+msgid "CANCELLATION_DENIED"
+msgstr "ANNULATION_REJETÉE"
+
+#: app/language/json/apiErrors.json:apiErrors##79##description
+msgid "SUPER_PNR_SEARCH_NOT_FOUND"
+msgstr "RECHERCHE_DE_SUPER_PNR_NON_TROUVÉE"
+
+#: app/language/json/apiErrors.json:apiErrors##80##description
+msgid "ZZF_VERIFICATION_FAILED"
+msgstr "ÉCHEC DE LA VÉRIFICATION DU ZZF (TRAIN À AVION)"
+
+#: app/language/json/apiErrors.json:apiErrors##81##description
+msgid "DOCUMENT_NOT_FOUND"
+msgstr "DOCUMENT_NON_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##82##description
+msgid "BOOKED_SERVICE_NOT_FOUND"
+msgstr "SERVICE_RÉSERVÉ_NON_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##83##description
+msgid "INCORRECT_SPECIFIED_PAYMENT"
+msgstr ""
+
+#: app/language/json/apiErrors.json:apiErrors##84##description
+msgid "NOT_SPECIFIED"
+msgstr "NON_SPÉCIFIÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##84##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##86##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##87##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##89##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##90##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##91##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##92##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##93##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##95##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##96##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##98##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##99##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##101##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##103##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##104##detailMessages##0
+msgid "HttpStatus returned for this error: 500"
+msgstr "Code d'erreur : http 500"
+
+#: app/language/json/apiErrors.json:apiErrors##85##description
+msgid "FEATURE_NOT_IMPLEMENTED"
+msgstr "FONCTIONNALITÉ_PAS_IMPLÉMENTÉE"
+
+#: app/language/json/apiErrors.json:apiErrors##85##detailMessages##0
+msgid "HttpStatus returned for this error: 503"
+msgstr "Code d'erreur : http 503"
+
+#: app/language/json/apiErrors.json:apiErrors##86##description
+msgid "PNR_CREATED_PRICING_FAILED"
+msgstr "PNR_CRÉÉ_ÉCHEC_DE_LA_TARIFICATION"
+
+#: app/language/json/apiErrors.json:apiErrors##87##description
+msgid "BOOKING_FAILED"
+msgstr "ÉCHEC_DE_LA_RÉSERVATION"
+
+#: app/language/json/apiErrors.json:apiErrors##88##description
+msgid "PRICING_NOT_UP_TO_DATE"
+msgstr "TARIFICATION_NON_ACTUALISÉE"
+
+#: app/language/json/apiErrors.json:apiErrors##89##description
+msgid "OGONE_AUTHORIZATION_FAILED"
+msgstr "ÉCHEC_DE_L'AUTORISATION_OGONE"
+
+#: app/language/json/apiErrors.json:apiErrors##90##description
+msgid "TICKET_ORDER_FAILED"
+msgstr "ÉCHEC_DE_LA_COMMANDE_DE_BILLET"
+
+#: app/language/json/apiErrors.json:apiErrors##91##description
+msgid "UPDATE_PAYMENT_FAILED"
+msgstr "ÉCHEC_DE_LA_MISE_À_JOUR_DU_PAIEMENT"
+
+#: app/language/json/apiErrors.json:apiErrors##92##description
+msgid "DELETE_PAYMENT_FAILED"
+msgstr "ÉCHEC_DE_LA_SUPPRESSION_DU_PAIEMENT"
+
+#: app/language/json/apiErrors.json:apiErrors##93##description
+msgid "CREATE_TRAVEL_DOCUMENT_FAILED"
+msgstr "ÉCHEC_DE_LA_CRÉATION_D'UN_DOCUMENT_DE_VOYAGE"
+
+#: app/language/json/apiErrors.json:apiErrors##94##description
+msgid "TRAVEL_DOCUMENT_NOT_FOUND"
+msgstr "DOCUMENT_DE_VOYAGE_NON_TROUVÉ"
+
+#: app/language/json/apiErrors.json:apiErrors##95##description
+msgid "UPDATE_PNR_EXCEPTION"
+msgstr "ACTUALISER_L'EXCEPTION_PNR"
+
+#: app/language/json/apiErrors.json:apiErrors##96##description
+msgid "UPDATE_PNR_PASSENGERS_CHANGED_EXCEPTION"
+msgstr "ACTUALISER_L'EXCEPTION_PNR_MODIFIÉE_DU_PASSAGER"
+
+#: app/language/json/apiErrors.json:apiErrors##97##description
+msgid "SEAT_RESERVATION_FAILED"
+msgstr "ÉCHEC_DE_LA_RÉSERVATION_DE_SIÈGE"
+
+#: app/language/json/apiErrors.json:apiErrors##98##description
+msgid "VPAY_AUTHORIZATION_FAILED"
+msgstr "ÉCHEC_DE_L'AUTORISATION_VPAY"
+
+#: app/language/json/apiErrors.json:apiErrors##99##description
+msgid "SEAT_BOOKED_BUT_PRICING_FAILED"
+msgstr ""
+
+#: app/language/json/apiErrors.json:apiErrors##100##description
+msgid "SSR_ELEMENT_NOT_FOUND"
+msgstr ""
+
+#: app/language/json/apiErrors.json:apiErrors##101##description
+msgid "MODIFY_SSR_ELEMENT_FAILED"
+msgstr ""
+
+#: app/language/json/apiErrors.json:apiErrors##102##description
+msgid "TRAVELLER_IN_SUPER_PNR_NOT_FOUND"
+msgstr "VOYAGEUR_PAS_TROUVÉ_DANS_LE_SUPER_PNR"
+
+#: app/language/json/apiErrors.json:apiErrors##103##description
+msgid "DOCUMENT_GENERATION_FAILED"
+msgstr "ÉCHEC_DE_LA_CRÉATION_DU_DOCUMENT"
+
+#: app/language/json/apiErrors.json:apiErrors##104##description
+msgid "DELETE_ZZF_FAILED"
+msgstr "ÉCHEC DE LA SUPPRESSION DU ZZF (TRAIN À AVION)"
+
+#: app/language/json/apiErrors.json:apiErrors##105##description
+msgid "SEATMAP_NOT_AVAILABLE"
+msgstr "PLAN_DE_CABINE_NON_DISPONIBLE"
+
+#: app/language/json/apiErrors.json:apiErrors##106##description
+msgid "RULES_NOT_FOUND"
+msgstr "RÈGLES_NON_TROUVÉES"
+
+#: app/language/json/apiErrors.json:apiErrors##107##description
+msgid "AMADEUS_UNKNOWN_ERROR"
+msgstr "ERREUR_INCONNUE_AMADEUS"
+
+#: app/language/json/apiErrors.json:apiErrors##107##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##109##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##110##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##111##detailMessages##0
+#: app/language/json/apiErrors.json:apiErrors##112##detailMessages##0
+msgid "HttpStatus returned for this error: 502"
+msgstr "Code d'erreur : http 502"
+
+#: app/language/json/apiErrors.json:apiErrors##108##description
+msgid "PCI_TIMEOUT"
+msgstr "PCI_EXPIRATION"
+
+#: app/language/json/apiErrors.json:apiErrors##108##detailMessages##0
+msgid "HttpStatus returned for this error: 504"
+msgstr "Code d'erreur : http 504"
+
+#: app/language/json/apiErrors.json:apiErrors##109##description
+msgid "AUTO_CANCELED_MISSING_AIRLINE_FILEKEY"
+msgstr "ANNULÉ_NO_FICHIER_CIE_MANQUANT"
+
+#: app/language/json/apiErrors.json:apiErrors##110##description
+msgid "AUTO_CANCELED_INVALID_STATUS"
+msgstr "ANNULÉ_STATUT_INVALIDE"
+
+#: app/language/json/apiErrors.json:apiErrors##111##description
+msgid "COULD_NOT_CREATE_PCI_TOKEN"
+msgstr "N'A_PAS_PU_ÊTRE_CRÉÉ_PCI_TOKEN"
+
+#: app/language/json/apiErrors.json:apiErrors##112##description
+msgid "UNABLE_TO_OPEN_PNR"
+msgstr "IMPOSSIBLE_D'_OUVRIR_LE_PNR"
+

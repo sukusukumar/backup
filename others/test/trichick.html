@@ -1,0 +1,187 @@
+<html>
+	<style>
+		* {
+			padding: 0px;
+			margin: 0px;
+		}
+		.outer {
+			display: table;
+			width: 100%;
+			height: 100%;
+		}
+		.inner {
+			display: table-cell;
+			vertical-align: middle;
+		}
+		.content {
+			margin: 0 auto;
+			width: 50%;
+		}
+	</style>
+	<body>
+		<div class="outer">
+			<div class="inner">
+				<div class="content">
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+
+
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg
+					sfdlgj slifud liusdbh gflkjb sdfgkbj sdfgkibs fdbjka gflisa gdflg				
+				</div>
+			</div>	
+		</div>
+	</body>
+	<script>
+		function elementFinder() {}	
+
+		(function() {
+			var tokens = {};
+			var DOMTree = [];
+			
+			function findTagName(selector) {
+				var matches;
+				if(matches = selector.match(/^[a-z]+/i)) {
+					return matches[0];
+				} else {
+					return "*";
+				}
+			}
+			
+			function findId(selector) {
+				var matches;
+				if(matches = selector.match(/\#([a-z0-9_\-\s\'\"]+)/i)) {
+					console.log(matches);
+					return matches[1].replace(/[\'\"]/g, '');
+				} else if(matches = selector.match(/\#\{(q\d+)\}/i)) {
+					idToken = matches[1];
+					console.log(idToken);
+					return tokens[idToken].replace(/[\'\"]/g, '');
+				} else {
+					return null;
+				}
+			}
+			
+			function findClassNames(selector) {
+				var matches;
+				if(matches = selector.match(/\.([a-z0-9_\-]+)/gi)) {
+					var classNames = [];
+					for(var i in matches) {
+						classNames.push(matches[i].replace('.',''));
+					}
+					return classNames;
+				} else {
+					return [];
+				}
+			}
+
+			elementFinder.prototype.setSelector = function(selector) {
+				this.selector = selector;
+			};
+
+			elementFinder.prototype.tokenize = function() {
+				this.tokenizeQuoted();
+			};
+			elementFinder.prototype.tokenizeQuoted = function() {
+				var matches = this.selector.match(/('[^']+')|("[^"]+")/g);
+				console.log(matches);
+				for(var i = matches.length - 1; i >= 0; i--) {
+					this.selector = this.selector.replace(matches[i], '{q'+i+'}');
+					tokens['q'+i] = matches[i];
+				}
+				console.log(this.selector);
+				console.log(tokens);
+			};
+			elementFinder.prototype.defineRoute = function() {
+				return this.selector.split(' ');
+			};
+			//elementFinder.prototype.getDOMTree = function() {
+			//	
+			//};
+			elementFinder.prototype.findElements = function(context, selector){
+				/*console.log(selector);
+				while(matches = selector.match(/\{(q\d+)\}/)) {
+					var find = matches[0];
+					var replacementKey = matches[1];
+					selector = selector.replace(find, tokens[replacementKey]);
+				} 
+				console.log(selector);*/
+				console.log(selector);
+				var tagName = findTagName(selector);
+				var attributes = [];
+				var id = findId(selector);
+				console.log(id);
+				if(id) {
+					attributes.push({
+						attribute : 'id',
+						value : id
+					})
+				}
+				var classNames = findClassNames(selector);
+				if(classNames) {
+					attributes.push({
+						attribute : 'class',
+						value : classNames.join(' ')
+					})
+				}
+				console.log(attributes);
+			};
+
+			elementFinder.prototype.searchDOM = function(context, selectorsRoute, collection) {
+			console.log(context, selectorsRoute, collection);
+				var currentTarget = selectorsRoute.splice(0, 1);
+				console.log(selectorsRoute);
+				console.log(currentTarget);
+				var elements = this.findElements(context, currentTarget[0]);
+				if(selectorsRoute.length > 1) {
+					for(var i in elements) {
+						this.searchDOM(context, selectorsRoute, collection)
+					}
+				} else {
+					for(var i in elements) {
+						collection.addElement(elements[i]);
+					}
+				}
+			};
+		})();
+
+		function elementCollection() {};
+		(function(){
+			elementCollection.prototype.addElement = function(ele) {
+				console.log(ele);
+			}
+		})();
+
+		function get(selector) {
+			var finder = new elementFinder();
+			var collection = new elementCollection()
+			finder.setSelector(selector);
+			finder.tokenize();
+			var selectorsRoute = finder.defineRoute();
+			console.log(selectorsRoute);
+			finder.searchDOM(document, selectorsRoute, collection);
+			//finder.getDOMTree();
+			console.log(finder);
+		}
+
+		get('div#\'a g\'.test.td ."af d"');
+
+	</script>
+</html>

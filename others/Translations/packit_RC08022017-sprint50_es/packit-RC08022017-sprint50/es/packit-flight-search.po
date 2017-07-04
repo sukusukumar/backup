@@ -1,0 +1,340 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Jose Oliver <joliver@aerticket.es>, 2016. #zanata
+# Sukumar Vummadisetty <sukumar.vummadisetty@valuelabs.com>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-12-15 09:50+0100\n"
+"Last-Translator: Anne Kremer <akremer@aer.de>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/scripts/constants/flight_search/search_constants.js:99
+msgid "+/- 1 day"
+msgstr "+/- 1 día"
+
+#: app/scripts/constants/flight_search/search_constants.js:100
+msgid "+/- 2 days"
+msgstr "+/- 2 días"
+
+#: app/scripts/constants/flight_search/search_constants.js:101
+msgid "+/- 3 days"
+msgstr "+/- 3 días"
+
+#: app/scripts/constants/flight_search/search_constants.js:98
+msgid "+/- days"
+msgstr "+/- días"
+
+#: app/views/flight_search/partials/search/autoSearchField.html:9
+msgid "100 km"
+msgstr "100 km"
+
+#: app/views/flight_search/partials/search/autoSearchField.html:10
+msgid "150 km"
+msgstr "150 km"
+
+#: app/views/flight_search/partials/search/autoSearchField.html:11
+msgid "300 km"
+msgstr "300 km"
+
+#: app/views/flight_search/partials/search/autoSearchField.html:8
+msgid "50 km"
+msgstr "50 km"
+
+#: app/scripts/constants/flight_search/search_constants.js:90
+msgid "Adult"
+msgstr "Adulto"
+
+#: app/scripts/constants/flight_search/search_constants.js:90
+#: app/views/flight_search/accordions/search.html:29
+msgid "Adults"
+msgstr "Adultos"
+
+#: app/views/flight_search/accordions/search.html:124
+#: app/views/flight_search/accordions/search.html:89
+msgid "Airlines / Alliance"
+msgstr "Aerolíneas / Alianzas"
+
+#: app/views/flight_search/popups/search/calculationInfo.html:13
+msgid "All flight fares contain an agency markup of 30,00 EUR per person."
+msgstr ""
+"Todas las tarifas contienen una comisión de agente de 30,00 EUR por persona"
+
+#: app/scripts/constants/flight_search/search_constants.js:52
+msgid "Alliance"
+msgstr "Alianza"
+
+#: app/scripts/constants/flight_search/search_constants.js:80
+msgid "BUSINESS"
+msgstr "BUSINESS"
+
+#: app/views/flight_search/accordions/search.html:111
+msgid "Booking class"
+msgstr "Clase de reserva"
+
+#: app/scripts/constants/flight_search/search_constants.js:26
+#: app/scripts/constants/flight_search/search_constants.js:43
+msgid "Business"
+msgstr "Business"
+
+#: app/views/flight_search/accordions/search.html:60
+msgid "Cabin class"
+msgstr "Clase de cabina"
+
+#: app/views/flight_search/partials/search/cabinClassSection.html:15
+msgid "Cabin mix"
+msgstr "Mezcla de cabinas"
+
+#: app/views/flight_search/popups/search/calculationInfo.html:6
+msgid "Calculation information"
+msgstr "Información del cálculo"
+
+#: app/views/flight_search/partials/search/cabinClassSection.html:28
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: app/scripts/constants/flight_search/search_constants.js:91
+msgid "Child"
+msgstr "Niño"
+
+#: app/scripts/constants/flight_search/search_constants.js:91
+#: app/views/flight_search/accordions/search.html:35
+msgid "Children"
+msgstr "Niños"
+
+#: app/views/flight_search/popups/search/calculationInfo.html:11
+msgid "Currently stored calculation for your agency:"
+msgstr "Cálculo actual para su agencia:"
+
+#: app/scripts/constants/flight_search/search_constants.js:105
+msgid "Destination"
+msgstr "Destino"
+
+#: app/views/flight_search/popups/search/calculationInfo.html:19
+msgid "Don't show this message again"
+msgstr "No mostrar este mensaje de nuevo"
+
+#: app/scripts/constants/flight_search/search_constants.js:78
+msgid "ECONOMY"
+msgstr "TURISTA"
+
+#: app/scripts/constants/flight_search/search_constants.js:18
+#: app/scripts/constants/flight_search/search_constants.js:35
+msgid "Economy"
+msgstr "Turista"
+
+#: app/scripts/constants/flight_search/search_constants.js:81
+msgid "FIRST"
+msgstr "PRIMERA"
+
+#: app/scripts/constants/flight_search/search_constants.js:30
+#: app/scripts/constants/flight_search/search_constants.js:47
+msgid "First"
+msgstr "Primera"
+
+#: app/views/flight_search/popups/search/calculationInfo.html:12
+msgid "Flat Fee - amount: 30,00 EUR"
+msgstr "Comisión fija - Cantidad:30,00 EUR"
+
+#: app/scripts/constants/flight_search/search_constants.js:92
+msgid "Infant"
+msgstr "Bebé"
+
+#: app/scripts/constants/flight_search/search_constants.js:92
+#: app/views/flight_search/accordions/search.html:41
+msgid "Infants"
+msgstr "Bebés"
+
+#: app/scripts/constants/flight_search/search_constants.js:74
+msgid "LOW/DIR/CHA"
+msgstr "Lowcost /Direct Channel"
+
+#: app/scripts/constants/flight_search/search_constants.js:82
+msgid "Leg"
+msgstr "Tramo"
+
+#: app/views/flight_search/accordions/search.html:148
+msgid "Less search options"
+msgstr "Menos opciones de búsqueda"
+
+#: app/views/flight_search/popups/search/calculationInfo.html:14
+msgid ""
+"Markup can be dynamically adjusted within the booking process or stored "
+"statically via menu \"Calculation\"."
+msgstr ""
+"La comisión puede ser ajustada dinámicamente durante el proceso de reserva o "
+"almacenado de forma estática a través del menú \"Cálculo\"."
+
+#: app/scripts/constants/flight_search/search_constants.js:70
+msgid "Mix"
+msgstr "Mix"
+
+#: app/views/flight_search/accordions/search.html:149
+msgid "More search options"
+msgstr "Más opciones de búsqueda"
+
+#: app/views/flight_search/partials/search/autoSearchField.html:7
+msgid "No radius search"
+msgstr "Sin radio de búsqueda"
+
+#: app/views/flight_search/accordions/search.html:78
+msgid "Non-stop flights only"
+msgstr "Sólo vuelos sin escala"
+
+#: app/views/flight_search/partials/search/cabinClassSection.html:27
+#: app/views/flight_search/popups/search/calculationInfo.html:27
+msgid "OK"
+msgstr "OK"
+
+#: app/scripts/constants/flight_search/search_constants.js:61
+msgid "One World"
+msgstr "One World"
+
+#: app/views/flight_search/accordions/search.html:72
+msgid "Only flights where the cabin class is available for all segments."
+msgstr ""
+"Solo vuelos en los que la clase de cabina esté disponible para todos los "
+"segmentos"
+
+#: app/scripts/constants/flight_search/search_constants.js:104
+msgid "Origin"
+msgstr "Origen"
+
+#: app/scripts/constants/flight_search/search_constants.js:79
+msgid "PREM ECO"
+msgstr "PREM ECO"
+
+#: app/scripts/constants/flight_search/search_constants.js:112
+msgid "Passenger type \"%s\" can only be combined with ADT."
+msgstr "Tipo de pasajero \"%s\" puede ir solo puede ir combinado con un ADT."
+
+#: app/scripts/constants/flight_search/search_constants.js:111
+msgid ""
+"Passenger type \"%s\" can only be combined with ADT. Please create separate "
+"bookings for passenger types YTH, STU and SEN."
+msgstr ""
+"Tipo de pasajero \"%s\" sólo puede ir combinado con ADT. Please create "
+"separate bookings for passenger types YTH, STU and SEN."
+
+#: app/scripts/constants/flight_search/search_constants.js:110
+msgid ""
+"Passenger type \"%s\" can only be combined with CHD or INF. Please create "
+"separate bookings for passenger types YTH, STU and SEN."
+msgstr ""
+"Tipo de pasajero \"%s\" sólo puede ir combinado con CHD or INF. Por favor "
+"cree reservas separadas para los tipos de pasajero YTH, STU y SEN."
+
+#: app/scripts/constants/flight_search/search_constants.js:109
+msgid ""
+"Passenger type \"%s\" only cannot be combined with other passenger types. "
+"Please create a separate booking for this passenger type."
+msgstr ""
+"Tipo de pasajero \"%s\" No puede ir combinado con otro tipo de pasajeros. "
+"Por favor cree reservas separadas para este tipo de pasajero."
+
+#: app/views/flight_search/accordions/search.html:22
+msgid "Pax Tool tip"
+msgstr ""
+"Niños han de ser acompañados por un adulto (&gt; 18).\\nBebés menores de dos "
+"años han de viajar en el regazo del adulto acompañante. Máximo un bebe por "
+"adulto.\\nAlgunas compañías aéreas ofrecen descuento para jóvenes o "
+"estudiantes en ciertas rutas - por favor seleccione \"más opciones de "
+"búsqueda\".\\nAlgunas compañías aéreas ofrecen tarifas juveniles para los "
+"viajeros de & gt; 12 años. Por favor, encuentre más información sobre las "
+"restricciones de edad, etc. en las notas de tarifas.\\nAlgunas compañías "
+"aéreas ofrecen tarifas de estudiante, que requieren una tarjeta de identidad "
+"del estudiante. Por favor, consulte las notas de tarifas para las "
+"condiciones.\\nPor favor contacte con el servicio de atención al cliente "
+"para:\\nReservas de grupos (&gt; 9 seats)\\nNiños cumpliendo 12 or bebés "
+"cumpliendo 2 años durante el viaje\\nNiños que cumplen 12 o bebés que "
+"cumplen 2 durante el viaje\\nViajeros individuales menores de 18 años"
+
+#. Title for pax in flight search screen
+#: app/views/flight_search/accordions/search.html:17
+msgid "Pax_flightSearch"
+msgstr "Tipo de pasajeros"
+
+#: app/scripts/constants/flight_search/search_constants.js:86
+msgid "Please contact our service team for bookings of unaccompanied minors"
+msgstr ""
+"Por favor contacte con nuestro servicio de atención al cliente para reservas "
+"con menores no acompañados."
+
+#: app/scripts/constants/flight_search/search_constants.js:85
+msgid "Please verify your passenger selection"
+msgstr "Por favor compruebe su selección de pasajeros"
+
+#: app/views/flight_search/popups/waitingpage.html:8
+msgid "Please wait while we are searching for the best results."
+msgstr "Por favor espere mientras buscamos los mejores resultados."
+
+#: app/scripts/constants/flight_search/search_constants.js:39
+msgid "Prem. Economy"
+msgstr "Prem. Economy"
+
+#: app/scripts/constants/flight_search/search_constants.js:22
+msgid "Premium Economy"
+msgstr "Premium Economy"
+
+#: app/views/flight_search/accordions/search.html:156
+msgid "Reset search"
+msgstr "Restaurar búsqueda"
+
+#: app/scripts/constants/flight_search/search_constants.js:87
+msgid ""
+"Return time cannot be earlier than departure time. Please adjust your search "
+"criteria."
+msgstr ""
+
+#: app/views/flight_search/accordions/search.html:154
+msgid "Search"
+msgstr "Búsqueda"
+
+#: app/scripts/constants/flight_search/search_constants.js:65
+msgid "Skyteam"
+msgstr "Skyteam"
+
+#: app/scripts/constants/flight_search/search_constants.js:57
+msgid "Star Alliance"
+msgstr "Star Alliance"
+
+#: app/scripts/constants/flight_search/search_constants.js:95
+msgid "Student"
+msgstr "Estudiante"
+
+#: app/scripts/constants/flight_search/search_constants.js:95
+#: app/views/flight_search/accordions/search.html:51
+msgid "Students"
+msgstr "Estudiantes"
+
+#: app/views/flight_search/accordions/search.html:134
+msgid "Tariff"
+msgstr "Tarifa"
+
+#: app/scripts/constants/flight_search/search_constants.js:106
+msgid "Via"
+msgstr "Vía"
+
+#: app/scripts/constants/flight_search/search_constants.js:93
+#: app/views/flight_search/accordions/search.html:46
+msgid "Youth"
+msgstr "Jóvenes"
+
+#: app/views/flight_search/accordions/search.html:70
+msgid "all segments in selected cabin class"
+msgstr "todos los segmentos en la clase de cabina seleccionada"
+
+#: app/views/flight_search/accordions/search.html:114
+#: app/views/flight_search/accordions/search.html:116
+msgid "bookingclass"
+msgstr "Clase de reserva"
+
+#: app/views/flight_search/popups/waitingpage.html:6
+msgid "stop search"
+msgstr "Detener búsqueda"
+

@@ -1,0 +1,3775 @@
+{
+	"hotelresponse": {
+		"sessionId": "04168ECC562C568D671E2B065D1E84C5.maxconstaging01",
+		"arrivalDate": {
+			"_value": 1489038300000,
+			"useTime": true
+		},
+		"departureDate": {
+			"_value": 1490421300000,
+			"useTime": true
+		},
+		"numberOfRoomsRequested": 1,
+		"language": {
+			"value": "de"
+		},
+		"moreResultsAvailable": false,
+		"cacheKey": "40b50351:15aa49c673e:-7dd0",
+		"cacheLocation": "10.186.170.95:7300",
+		"hotelList": [
+			{
+				"hotelId": "230137",
+				"giataCode": null,
+				"name": "Hyatt Regency Paris Charles de Gaulle",
+				"phoneNumber": null,
+				"address": {
+					"country": "FR",
+					"state": null,
+					"county": null,
+					"city": "Roissy-en-France",
+					"zip": "95912",
+					"street": "351 Avenue Du Bois De La Pie",
+					"street2": null,
+					"company": null,
+					"poBox": null,
+					"type": null
+				},
+				"airportCode": "CDG",
+				"supplierType": null,
+				"propertyCategory": {
+					"value": "1"
+				},
+				"hotelRating": 4,
+				"confidenceRating": 51,
+				"amenities": [
+					"Business Center",
+					"Fitness Center",
+					"Pets Allowed",
+					"Restaurant On-site",
+					"Spa On-site",
+					"Babysitting",
+					"Jacuzzi",
+					"Accessible Bathroom",
+					"In-room Accessibility"
+				],
+				"tripAdvisorRating": 4,
+				"tripAdvisorReviewCount": 1291,
+				"tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-123456-4.gif",
+				"locationDescription": "Parc des Expositions Villepinte in der Nähe",
+				"shortDescription": "&lt;p&gt;&lt;b&gt;Lage&lt;/b&gt; &lt;br /&gt;Wenn Sie sich für Hyatt Regency Paris Charles de Gaulle in Roissy-en-France entscheiden, befinden Sie sich gut angebunden zum Flughafen und ganz in der Nähe von Parc des",
+				"highRate": 219,
+				"lowRate": 219,
+				"rateCurrencyCode": {
+					"value": "EUR"
+				},
+				"latitude": 48.99095,
+				"longitude": 2.51552,
+				"proximityDistance": 4.006401,
+				"proximityUnit": {
+					"value": "KM"
+				},
+				"hotelInDestination": true,
+				"thumbNailUrl": "http://images.travelnow.com/hotels/1000000/10000/8100/8024/112bd127_t.jpg",
+				"deepLink": {
+					"linkType": {
+						"value": "SEARCH"
+					},
+					"link": {
+						"path": "/templates/501107/hotels/230137/overview",
+						"fragment": null,
+						"scheme": "http",
+						"host": "www.travelnow.com",
+						"port": -1,
+						"userinfo": null,
+						"genericURI": true,
+						"schemeSpecificPart": "//www.travelnow.com/templates/501107/hotels/230137/overview?lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"queryString": "lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"absoluteURI": true,
+						"regBasedAuthority": null
+					}
+				},
+				"roomRateDetailsList": [
+					{
+						"roomTypeCode": null,
+						"rateCode": null,
+						"supplierType": "E",
+						"maxRoomOccupancy": 3,
+						"quotedRoomOccupancy": 2,
+						"minGuestAge": 0,
+						"roomDescription": "Standardzimmer, 1 King-Bett",
+						"promoId": null,
+						"promoDescription": null,
+						"promoDetailText": null,
+						"currentAllotment": null,
+						"propertyAvailable": true,
+						"propertyRestricted": false,
+						"expediaPropertyId": "8024",
+						"rateKey": null,
+						"rateType": null,
+						"nonRefundable": null,
+						"rateInfos": [
+							{
+								"roomGroup": {
+									"room": [
+										{
+											"paxCount": {
+												"adultCount": 2,
+												"childCount": 1,
+												"infantCount": 0,
+												"ythCount": null,
+												"stuCount": null,
+												"vfrCount": null,
+												"lbrCount": null
+											},
+											"roomMeal": null,
+											"childAges": [
+												0
+											],
+											"person": null,
+											"bedTypeId": null,
+											"bedTypeDescription": null,
+											"numberOfBeds": null,
+											"smokingPreference": null,
+											"roomTypeCode": "200175690",
+											"rateCode": "202323389",
+											"rateKey": "fdb000f0-78f1-4d3d-86d7-061bf0642b0c-5122",
+											"roomDescription": "Standardzimmer, 1 King-Bett",
+											"chargeableRate": null,
+											"chargeableNightlyRates": [
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												},
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												},
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												},
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												},
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												},
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												},
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												},
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												},
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												},
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												},
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												},
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												},
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												},
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												},
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												},
+												{
+													"baseRate": 199.09,
+													"rate": 199.09,
+													"promo": false
+												}
+											],
+											"roomNumber": 1
+										}
+									],
+									"chargeableRateInfo": null
+								},
+								"chargeableRateInfo": {
+									"discounts": null,
+									"nightlyRatesPerRoom": {
+										"size": 16,
+										"nightlyRate": [
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											},
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											},
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											},
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											},
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											},
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											},
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											},
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											},
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											},
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											},
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											},
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											},
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											},
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											},
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											},
+											{
+												"baseRate": 199.09,
+												"rate": 199.09,
+												"promo": false
+											}
+										]
+									},
+									"promoDescription": null,
+									"surcharges": [
+										{
+											"price": {
+												"value": 318.56,
+												"currency": null
+											},
+											"desc": null,
+											"feeBreakdown": null,
+											"type": {
+												"value": "TaxAndServiceFee"
+											},
+											"precentage": null,
+											"precentageBase": null,
+											"ccType": null,
+											"calculation": null,
+											"id": null
+										}
+									],
+									"averageBaseRate": 199.09,
+									"averageRate": 199.09,
+									"commissionableUsdTotal": 3185.44,
+									"currencyCode": {
+										"value": "EUR"
+									},
+									"discountTotal": 0,
+									"eanCompensationOffline": null,
+									"eanCompensationOnline": null,
+									"maxNightlyRate": 199.09,
+									"nightlyRateTotal": 3185.44,
+									"grossProfitOffline": null,
+									"grossProfitOnline": null,
+									"surchargeTotal": 318.56,
+									"total": 3504,
+									"offerPrice": 0
+								},
+								"convertedRateInfo": null,
+								"confirmationNumbers": null,
+								"cancellationPolicy": "Wir verstehen, dass sich Pläne manchmal ändern können. Wir berechnen keine Umbuchungs- oder Stornierungsgebühr. Die Unterkunft (Hyatt Regency Paris Charles de Gaulle) berechnet ihren Kunden jedoch die folgende Gebühr, die wir weitergeben müssen: Für Stornierungen oder Umbuchungen, die nach 16:00 ((GMT+01:00) Brussels, Copenhagen, Madrid, Paris) am 08.03.2017 erfolgen, sowie bei Nichtanreise wird der Preis für 1 Nächte zuzüglich Steuern in Rechnung gestellt. ",
+								"cancelPolicyInfoList": [
+									{
+										"from": 1488927600000,
+										"to": 1489071600000,
+										"amount": {
+											"value": 517.6499938964844,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									},
+									{
+										"from": 1488820401375,
+										"to": 1488927599000,
+										"amount": {
+											"value": 0,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									}
+								],
+								"nonRefundable": false,
+								"online": null,
+								"ratePlanType": null,
+								"hotelFees": {
+									"hotelFee": [
+										{
+											"price": {
+												"value": 121.44,
+												"currency": null
+											},
+											"desc": "MandatoryTax",
+											"feeBreakdown": {
+												"unit": "Per person",
+												"frequency": "Per night"
+											},
+											"type": {
+												"value": "Unknown"
+											},
+											"precentage": null,
+											"precentageBase": null,
+											"ccType": null,
+											"calculation": null,
+											"id": null
+										}
+									],
+									"hotelFeeBreakdown": null,
+									"size": 1
+								},
+								"rateType": {
+									"value": "MerchantStandard"
+								},
+								"packageSavings": null,
+								"promoId": null,
+								"promoDescription": null,
+								"promoDetailText": null,
+								"promoType": null,
+								"currentAllotment": 21,
+								"guaranteeRequired": null,
+								"depositRequired": null,
+								"deposit": null,
+								"taxRate": null,
+								"priceBreakdown": true,
+								"promo": false,
+								"rateChange": false,
+								"pkgSavingsPercent": null,
+								"pkgSavingsAmount": null
+							}
+						],
+						"valueAdds": [
+							{
+								"description": "Kostenloser Flughafentransfer",
+								"id": 2196
+							},
+							{
+								"description": "Kostenloses WLAN",
+								"id": 2192
+							}
+						],
+						"bedTypes": [
+							{
+								"description": "1 King-Bett",
+								"id": 14
+							}
+						],
+						"smokingPreferences": [
+							{
+								"value": "NS"
+							},
+							{
+								"value": "E"
+							}
+						]
+					}
+				],
+				"median": null,
+				"provider": "EAN"
+			},
+			{
+				"hotelId": "257438",
+				"giataCode": null,
+				"name": "Quality Only Suites CDG Airport",
+				"phoneNumber": null,
+				"address": {
+					"country": "FR",
+					"state": null,
+					"county": null,
+					"city": "Roissy-en-France",
+					"zip": "95700",
+					"street": "9, Allee du Verger",
+					"street2": null,
+					"company": null,
+					"poBox": null,
+					"type": null
+				},
+				"airportCode": "CDG",
+				"supplierType": null,
+				"propertyCategory": {
+					"value": "1"
+				},
+				"hotelRating": 4,
+				"confidenceRating": 52,
+				"amenities": [
+					"Business Center",
+					"Fitness Center",
+					"Pets Allowed",
+					"Accessible Bathroom",
+					"Roll-in Shower",
+					"In-room Accessibility"
+				],
+				"tripAdvisorRating": 3,
+				"tripAdvisorReviewCount": 507,
+				"tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-123456-4.gif",
+				"locationDescription": "Einkaufszentrum Aéroville in der Nähe",
+				"shortDescription": "&lt;p&gt;&lt;b&gt;Lage&lt;/b&gt; &lt;br /&gt;Mitten in Roissy-en-France wohnen Sie im Quality Only Suites CDG Airport gut angebunden zum Flughafen und erreichen Einkaufszentrum Aéroville und Usines Centre Outlet Shopping",
+				"highRate": 350,
+				"lowRate": 125,
+				"rateCurrencyCode": {
+					"value": "EUR"
+				},
+				"latitude": 49.0002,
+				"longitude": 2.51927,
+				"proximityDistance": 3.5078433,
+				"proximityUnit": {
+					"value": "KM"
+				},
+				"hotelInDestination": true,
+				"thumbNailUrl": "http://images.travelnow.com/hotels/2000000/1680000/1678100/1678065/1678065_35_t.jpg",
+				"deepLink": {
+					"linkType": {
+						"value": "SEARCH"
+					},
+					"link": {
+						"path": "/templates/501107/hotels/257438/overview",
+						"fragment": null,
+						"scheme": "http",
+						"host": "www.travelnow.com",
+						"port": -1,
+						"userinfo": null,
+						"genericURI": true,
+						"schemeSpecificPart": "//www.travelnow.com/templates/501107/hotels/257438/overview?lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"queryString": "lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"absoluteURI": true,
+						"regBasedAuthority": null
+					}
+				},
+				"roomRateDetailsList": [
+					{
+						"roomTypeCode": null,
+						"rateCode": null,
+						"supplierType": "E",
+						"maxRoomOccupancy": 6,
+						"quotedRoomOccupancy": 2,
+						"minGuestAge": 0,
+						"roomDescription": "Familien-Suite, 2 Queen-Betten",
+						"promoId": null,
+						"promoDescription": null,
+						"promoDetailText": null,
+						"currentAllotment": null,
+						"propertyAvailable": true,
+						"propertyRestricted": false,
+						"expediaPropertyId": "1678065",
+						"rateKey": null,
+						"rateType": null,
+						"nonRefundable": null,
+						"rateInfos": [
+							{
+								"roomGroup": {
+									"room": [
+										{
+											"paxCount": {
+												"adultCount": 2,
+												"childCount": 1,
+												"infantCount": 0,
+												"ythCount": null,
+												"stuCount": null,
+												"vfrCount": null,
+												"lbrCount": null
+											},
+											"roomMeal": null,
+											"childAges": [
+												0
+											],
+											"person": null,
+											"bedTypeId": null,
+											"bedTypeDescription": null,
+											"numberOfBeds": null,
+											"smokingPreference": null,
+											"roomTypeCode": "201247516",
+											"rateCode": "206060196",
+											"rateKey": "1afb53a6-07c0-487a-a786-49cbb9e99299-5122",
+											"roomDescription": "Familien-Suite, 2 Queen-Betten",
+											"chargeableRate": null,
+											"chargeableNightlyRates": [
+												{
+													"baseRate": 154.55,
+													"rate": 154.55,
+													"promo": false
+												},
+												{
+													"baseRate": 113.64,
+													"rate": 113.64,
+													"promo": false
+												},
+												{
+													"baseRate": 113.64,
+													"rate": 113.64,
+													"promo": false
+												},
+												{
+													"baseRate": 227.27,
+													"rate": 227.27,
+													"promo": false
+												},
+												{
+													"baseRate": 227.27,
+													"rate": 227.27,
+													"promo": false
+												},
+												{
+													"baseRate": 318.18,
+													"rate": 318.18,
+													"promo": false
+												},
+												{
+													"baseRate": 318.18,
+													"rate": 318.18,
+													"promo": false
+												},
+												{
+													"baseRate": 318.18,
+													"rate": 318.18,
+													"promo": false
+												},
+												{
+													"baseRate": 318.18,
+													"rate": 318.18,
+													"promo": false
+												},
+												{
+													"baseRate": 113.64,
+													"rate": 113.64,
+													"promo": false
+												},
+												{
+													"baseRate": 113.64,
+													"rate": 113.64,
+													"promo": false
+												},
+												{
+													"baseRate": 118.18,
+													"rate": 118.18,
+													"promo": false
+												},
+												{
+													"baseRate": 118.18,
+													"rate": 118.18,
+													"promo": false
+												},
+												{
+													"baseRate": 118.18,
+													"rate": 118.18,
+													"promo": false
+												},
+												{
+													"baseRate": 118.18,
+													"rate": 118.18,
+													"promo": false
+												},
+												{
+													"baseRate": 113.64,
+													"rate": 113.64,
+													"promo": false
+												}
+											],
+											"roomNumber": 1
+										}
+									],
+									"chargeableRateInfo": null
+								},
+								"chargeableRateInfo": {
+									"discounts": null,
+									"nightlyRatesPerRoom": {
+										"size": 16,
+										"nightlyRate": [
+											{
+												"baseRate": 154.55,
+												"rate": 154.55,
+												"promo": false
+											},
+											{
+												"baseRate": 113.64,
+												"rate": 113.64,
+												"promo": false
+											},
+											{
+												"baseRate": 113.64,
+												"rate": 113.64,
+												"promo": false
+											},
+											{
+												"baseRate": 227.27,
+												"rate": 227.27,
+												"promo": false
+											},
+											{
+												"baseRate": 227.27,
+												"rate": 227.27,
+												"promo": false
+											},
+											{
+												"baseRate": 318.18,
+												"rate": 318.18,
+												"promo": false
+											},
+											{
+												"baseRate": 318.18,
+												"rate": 318.18,
+												"promo": false
+											},
+											{
+												"baseRate": 318.18,
+												"rate": 318.18,
+												"promo": false
+											},
+											{
+												"baseRate": 318.18,
+												"rate": 318.18,
+												"promo": false
+											},
+											{
+												"baseRate": 113.64,
+												"rate": 113.64,
+												"promo": false
+											},
+											{
+												"baseRate": 113.64,
+												"rate": 113.64,
+												"promo": false
+											},
+											{
+												"baseRate": 118.18,
+												"rate": 118.18,
+												"promo": false
+											},
+											{
+												"baseRate": 118.18,
+												"rate": 118.18,
+												"promo": false
+											},
+											{
+												"baseRate": 118.18,
+												"rate": 118.18,
+												"promo": false
+											},
+											{
+												"baseRate": 118.18,
+												"rate": 118.18,
+												"promo": false
+											},
+											{
+												"baseRate": 113.64,
+												"rate": 113.64,
+												"promo": false
+											}
+										]
+									},
+									"promoDescription": null,
+									"surcharges": [
+										{
+											"price": {
+												"value": 292.27,
+												"currency": null
+											},
+											"desc": null,
+											"feeBreakdown": null,
+											"type": {
+												"value": "TaxAndServiceFee"
+											},
+											"precentage": null,
+											"precentageBase": null,
+											"ccType": null,
+											"calculation": null,
+											"id": null
+										}
+									],
+									"averageBaseRate": 182.67,
+									"averageRate": 182.67,
+									"commissionableUsdTotal": 2922.73,
+									"currencyCode": {
+										"value": "EUR"
+									},
+									"discountTotal": 0,
+									"eanCompensationOffline": null,
+									"eanCompensationOnline": null,
+									"maxNightlyRate": 318.18,
+									"nightlyRateTotal": 2922.73,
+									"grossProfitOffline": null,
+									"grossProfitOnline": null,
+									"surchargeTotal": 292.27,
+									"total": 3215,
+									"offerPrice": 0
+								},
+								"convertedRateInfo": null,
+								"confirmationNumbers": null,
+								"cancellationPolicy": "Wir verstehen, dass sich Pläne manchmal ändern können. Wir berechnen keine Umbuchungs- oder Stornierungsgebühr. Die Unterkunft (Quality Only Suites CDG Airport) berechnet ihren Kunden jedoch die folgende Gebühr, die wir weitergeben müssen: Für Stornierungen oder Umbuchungen, die nach 16:00 ((GMT+01:00) Brussels, Copenhagen, Madrid, Paris) am 08.03.2017 erfolgen, sowie bei Nichtanreise wird der Preis für 1 Nächte zuzüglich Steuern in Rechnung gestellt. ",
+								"cancelPolicyInfoList": [
+									{
+										"from": 1488927600000,
+										"to": 1489071600000,
+										"amount": {
+											"value": 446.8199920654297,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									},
+									{
+										"from": 1488820401371,
+										"to": 1488927599000,
+										"amount": {
+											"value": 0,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									}
+								],
+								"nonRefundable": false,
+								"online": null,
+								"ratePlanType": null,
+								"hotelFees": {
+									"hotelFee": [
+										{
+											"price": {
+												"value": 121.44,
+												"currency": null
+											},
+											"desc": "MandatoryTax",
+											"feeBreakdown": {
+												"unit": "Per person",
+												"frequency": "Per night"
+											},
+											"type": {
+												"value": "Unknown"
+											},
+											"precentage": null,
+											"precentageBase": null,
+											"ccType": null,
+											"calculation": null,
+											"id": null
+										}
+									],
+									"hotelFeeBreakdown": null,
+									"size": 1
+								},
+								"rateType": {
+									"value": "MerchantStandard"
+								},
+								"packageSavings": null,
+								"promoId": null,
+								"promoDescription": null,
+								"promoDetailText": null,
+								"promoType": null,
+								"currentAllotment": 0,
+								"guaranteeRequired": null,
+								"depositRequired": null,
+								"deposit": null,
+								"taxRate": null,
+								"priceBreakdown": true,
+								"promo": false,
+								"rateChange": true,
+								"pkgSavingsPercent": null,
+								"pkgSavingsAmount": null
+							}
+						],
+						"valueAdds": [
+							{
+								"description": "Kostenloses WLAN",
+								"id": 2192
+							},
+							{
+								"description": "Kostenloser Flughafentransfer",
+								"id": 2196
+							}
+						],
+						"bedTypes": [
+							{
+								"description": "2 Queen-Betten",
+								"id": 23
+							}
+						],
+						"smokingPreferences": [
+							{
+								"value": "NS"
+							},
+							{
+								"value": "E"
+							}
+						]
+					}
+				],
+				"median": null,
+				"provider": "EAN"
+			},
+			{
+				"hotelId": "230228",
+				"giataCode": null,
+				"name": "Paris Marriott Charles de Gaulle Airport Hotel",
+				"phoneNumber": null,
+				"address": {
+					"country": "FR",
+					"state": null,
+					"county": null,
+					"city": "Roissy-en-France",
+					"zip": "95700",
+					"street": "Zone Hoteliere Allee Du Verger",
+					"street2": null,
+					"company": null,
+					"poBox": null,
+					"type": null
+				},
+				"airportCode": "CDG",
+				"supplierType": null,
+				"propertyCategory": {
+					"value": "1"
+				},
+				"hotelRating": 4,
+				"confidenceRating": 60,
+				"amenities": [
+					"Business Center",
+					"Fitness Center",
+					"Restaurant On-site",
+					"Babysitting"
+				],
+				"tripAdvisorRating": 4,
+				"tripAdvisorReviewCount": 825,
+				"tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-123456-4.gif",
+				"locationDescription": "Eglise Saint Eloi in der Nähe",
+				"shortDescription": "&lt;p&gt;&lt;b&gt;Lage&lt;/b&gt; &lt;br /&gt;Im Paris Marriott Charles de Gaulle Airport Hotel in Roissy-en-France wohnen Sie in Flughafennähe und strategisch günstig, um Eglise Saint Eloi und Einkaufszentrum Aéroville zu",
+				"highRate": 319.01,
+				"lowRate": 139.01,
+				"rateCurrencyCode": {
+					"value": "EUR"
+				},
+				"latitude": 49.00343,
+				"longitude": 2.52028,
+				"proximityDistance": 3.4179156,
+				"proximityUnit": {
+					"value": "KM"
+				},
+				"hotelInDestination": true,
+				"thumbNailUrl": "http://images.travelnow.com/hotels/1000000/10000/5900/5854/5854_152_t.jpg",
+				"deepLink": {
+					"linkType": {
+						"value": "SEARCH"
+					},
+					"link": {
+						"path": "/templates/501107/hotels/230228/overview",
+						"fragment": null,
+						"scheme": "http",
+						"host": "www.travelnow.com",
+						"port": -1,
+						"userinfo": null,
+						"genericURI": true,
+						"schemeSpecificPart": "//www.travelnow.com/templates/501107/hotels/230228/overview?lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"queryString": "lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"absoluteURI": true,
+						"regBasedAuthority": null
+					}
+				},
+				"roomRateDetailsList": [
+					{
+						"roomTypeCode": null,
+						"rateCode": null,
+						"supplierType": "E",
+						"maxRoomOccupancy": 3,
+						"quotedRoomOccupancy": 2,
+						"minGuestAge": 0,
+						"roomDescription": "Deluxe-Zimmer",
+						"promoId": null,
+						"promoDescription": null,
+						"promoDetailText": null,
+						"currentAllotment": null,
+						"propertyAvailable": true,
+						"propertyRestricted": false,
+						"expediaPropertyId": "5854",
+						"rateKey": null,
+						"rateType": null,
+						"nonRefundable": null,
+						"rateInfos": [
+							{
+								"roomGroup": {
+									"room": [
+										{
+											"paxCount": {
+												"adultCount": 2,
+												"childCount": 1,
+												"infantCount": 0,
+												"ythCount": null,
+												"stuCount": null,
+												"vfrCount": null,
+												"lbrCount": null
+											},
+											"roomMeal": null,
+											"childAges": [
+												0
+											],
+											"person": null,
+											"bedTypeId": null,
+											"bedTypeDescription": null,
+											"numberOfBeds": null,
+											"smokingPreference": null,
+											"roomTypeCode": "247999",
+											"rateCode": "205840271",
+											"rateKey": "0157b212-e135-47be-950e-0614088503a1-5122",
+											"roomDescription": "Deluxe-Zimmer",
+											"chargeableRate": null,
+											"chargeableNightlyRates": [
+												{
+													"baseRate": 144.54,
+													"rate": 144.54,
+													"promo": false
+												},
+												{
+													"baseRate": 126.37,
+													"rate": 126.37,
+													"promo": false
+												},
+												{
+													"baseRate": 126.37,
+													"rate": 126.37,
+													"promo": false
+												},
+												{
+													"baseRate": 126.37,
+													"rate": 126.37,
+													"promo": false
+												},
+												{
+													"baseRate": 226.37,
+													"rate": 226.37,
+													"promo": false
+												},
+												{
+													"baseRate": 290.01,
+													"rate": 290.01,
+													"promo": false
+												},
+												{
+													"baseRate": 244.55,
+													"rate": 244.55,
+													"promo": false
+												},
+												{
+													"baseRate": 153.65,
+													"rate": 153.65,
+													"promo": false
+												},
+												{
+													"baseRate": 135.46,
+													"rate": 135.46,
+													"promo": false
+												},
+												{
+													"baseRate": 135.46,
+													"rate": 135.46,
+													"promo": false
+												},
+												{
+													"baseRate": 126.37,
+													"rate": 126.37,
+													"promo": false
+												},
+												{
+													"baseRate": 190.01,
+													"rate": 190.01,
+													"promo": false
+												},
+												{
+													"baseRate": 208.19,
+													"rate": 208.19,
+													"promo": false
+												},
+												{
+													"baseRate": 180.92,
+													"rate": 180.92,
+													"promo": false
+												},
+												{
+													"baseRate": 144.54,
+													"rate": 144.54,
+													"promo": false
+												},
+												{
+													"baseRate": 190.01,
+													"rate": 190.01,
+													"promo": false
+												}
+											],
+											"roomNumber": 1
+										}
+									],
+									"chargeableRateInfo": null
+								},
+								"chargeableRateInfo": {
+									"discounts": null,
+									"nightlyRatesPerRoom": {
+										"size": 16,
+										"nightlyRate": [
+											{
+												"baseRate": 144.54,
+												"rate": 144.54,
+												"promo": false
+											},
+											{
+												"baseRate": 126.37,
+												"rate": 126.37,
+												"promo": false
+											},
+											{
+												"baseRate": 126.37,
+												"rate": 126.37,
+												"promo": false
+											},
+											{
+												"baseRate": 126.37,
+												"rate": 126.37,
+												"promo": false
+											},
+											{
+												"baseRate": 226.37,
+												"rate": 226.37,
+												"promo": false
+											},
+											{
+												"baseRate": 290.01,
+												"rate": 290.01,
+												"promo": false
+											},
+											{
+												"baseRate": 244.55,
+												"rate": 244.55,
+												"promo": false
+											},
+											{
+												"baseRate": 153.65,
+												"rate": 153.65,
+												"promo": false
+											},
+											{
+												"baseRate": 135.46,
+												"rate": 135.46,
+												"promo": false
+											},
+											{
+												"baseRate": 135.46,
+												"rate": 135.46,
+												"promo": false
+											},
+											{
+												"baseRate": 126.37,
+												"rate": 126.37,
+												"promo": false
+											},
+											{
+												"baseRate": 190.01,
+												"rate": 190.01,
+												"promo": false
+											},
+											{
+												"baseRate": 208.19,
+												"rate": 208.19,
+												"promo": false
+											},
+											{
+												"baseRate": 180.92,
+												"rate": 180.92,
+												"promo": false
+											},
+											{
+												"baseRate": 144.54,
+												"rate": 144.54,
+												"promo": false
+											},
+											{
+												"baseRate": 190.01,
+												"rate": 190.01,
+												"promo": false
+											}
+										]
+									},
+									"promoDescription": null,
+									"surcharges": [
+										{
+											"price": {
+												"value": 274.93,
+												"currency": null
+											},
+											"desc": null,
+											"feeBreakdown": null,
+											"type": {
+												"value": "TaxAndServiceFee"
+											},
+											"precentage": null,
+											"precentageBase": null,
+											"ccType": null,
+											"calculation": null,
+											"id": null
+										}
+									],
+									"averageBaseRate": 171.82,
+									"averageRate": 171.82,
+									"commissionableUsdTotal": 2749.19,
+									"currencyCode": {
+										"value": "EUR"
+									},
+									"discountTotal": 0,
+									"eanCompensationOffline": null,
+									"eanCompensationOnline": null,
+									"maxNightlyRate": 290.01,
+									"nightlyRateTotal": 2749.19,
+									"grossProfitOffline": null,
+									"grossProfitOnline": null,
+									"surchargeTotal": 274.93,
+									"total": 3024.12,
+									"offerPrice": 0
+								},
+								"convertedRateInfo": null,
+								"confirmationNumbers": null,
+								"cancellationPolicy": "Wir verstehen, dass sich Pläne manchmal ändern können. Wir berechnen keine Umbuchungs- oder Stornierungsgebühr. Die Unterkunft (Paris Marriott Charles de Gaulle Airport Hotel) berechnet ihren Kunden jedoch die folgende Gebühr, die wir weitergeben müssen: Für Stornierungen oder Umbuchungen, die nach 19:00 ((GMT+01:00) Brussels, Copenhagen, Madrid, Paris) am 02.03.2017 erfolgen, sowie bei Nichtanreise wird der Preis für 1 Nächte zuzüglich Steuern in Rechnung gestellt. ",
+								"cancelPolicyInfoList": [
+									{
+										"from": 1488820401373,
+										"to": 1489082400000,
+										"amount": {
+											"value": 419.46998596191406,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									}
+								],
+								"nonRefundable": false,
+								"online": null,
+								"ratePlanType": null,
+								"hotelFees": {
+									"hotelFee": [
+										{
+											"price": {
+												"value": 121.44,
+												"currency": null
+											},
+											"desc": "MandatoryTax",
+											"feeBreakdown": {
+												"unit": "Per person",
+												"frequency": "Per night"
+											},
+											"type": {
+												"value": "Unknown"
+											},
+											"precentage": null,
+											"precentageBase": null,
+											"ccType": null,
+											"calculation": null,
+											"id": null
+										}
+									],
+									"hotelFeeBreakdown": null,
+									"size": 1
+								},
+								"rateType": {
+									"value": "MerchantStandard"
+								},
+								"packageSavings": null,
+								"promoId": null,
+								"promoDescription": null,
+								"promoDetailText": null,
+								"promoType": null,
+								"currentAllotment": 1,
+								"guaranteeRequired": null,
+								"depositRequired": null,
+								"deposit": null,
+								"taxRate": null,
+								"priceBreakdown": true,
+								"promo": false,
+								"rateChange": true,
+								"pkgSavingsPercent": null,
+								"pkgSavingsAmount": null
+							}
+						],
+						"valueAdds": null,
+						"bedTypes": [
+							{
+								"description": "1 King-Bett",
+								"id": 14
+							},
+							{
+								"description": "2 Einzelbetten",
+								"id": 25
+							}
+						],
+						"smokingPreferences": [
+							{
+								"value": "NS"
+							},
+							{
+								"value": "E"
+							}
+						]
+					}
+				],
+				"median": null,
+				"provider": "EAN"
+			},
+			{
+				"hotelId": "456028",
+				"giataCode": null,
+				"name": "Hotel Oceania Paris Roissy CDG",
+				"phoneNumber": null,
+				"address": {
+					"country": "FR",
+					"state": null,
+					"county": null,
+					"city": "Le Mesnil-Amelot",
+					"zip": "77990",
+					"street": "34-36 rue de Paris",
+					"street2": null,
+					"company": null,
+					"poBox": null,
+					"type": null
+				},
+				"airportCode": "CDG",
+				"supplierType": null,
+				"propertyCategory": {
+					"value": "1"
+				},
+				"hotelRating": 4,
+				"confidenceRating": 52,
+				"amenities": [
+					"Business Center",
+					"Fitness Center",
+					"Internet Access Available",
+					"Pets Allowed",
+					"Restaurant On-site",
+					"Jacuzzi",
+					"Accessible Bathroom",
+					"Roll-in Shower",
+					"In-room Accessibility"
+				],
+				"tripAdvisorRating": 4,
+				"tripAdvisorReviewCount": 504,
+				"tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-123456-4.gif",
+				"locationDescription": "In Flughafennähe",
+				"shortDescription": "&lt;p&gt;&lt;b&gt;Lage&lt;/b&gt; &lt;br /&gt;Bei einem Aufenthalt im Hotel Oceania Paris Roissy CDG in Le Mesnil-Amelot befinden Sie sich in Flughafennähe und in der näheren Umgebung von Einkaufszentrum Aéroville und Eglise",
+				"highRate": 272.73,
+				"lowRate": 163.64,
+				"rateCurrencyCode": {
+					"value": "EUR"
+				},
+				"latitude": 49.02314,
+				"longitude": 2.59926,
+				"proximityDistance": 3.2391593,
+				"proximityUnit": {
+					"value": "KM"
+				},
+				"hotelInDestination": true,
+				"thumbNailUrl": "http://images.travelnow.com/hotels/9000000/8080000/8070800/8070797/8070797_86_t.jpg",
+				"deepLink": {
+					"linkType": {
+						"value": "SEARCH"
+					},
+					"link": {
+						"path": "/templates/501107/hotels/456028/overview",
+						"fragment": null,
+						"scheme": "http",
+						"host": "www.travelnow.com",
+						"port": -1,
+						"userinfo": null,
+						"genericURI": true,
+						"schemeSpecificPart": "//www.travelnow.com/templates/501107/hotels/456028/overview?lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"queryString": "lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"absoluteURI": true,
+						"regBasedAuthority": null
+					}
+				},
+				"roomRateDetailsList": [
+					{
+						"roomTypeCode": null,
+						"rateCode": null,
+						"supplierType": "E",
+						"maxRoomOccupancy": 4,
+						"quotedRoomOccupancy": 4,
+						"minGuestAge": 0,
+						"roomDescription": "Suite",
+						"promoId": null,
+						"promoDescription": null,
+						"promoDetailText": null,
+						"currentAllotment": null,
+						"propertyAvailable": true,
+						"propertyRestricted": false,
+						"expediaPropertyId": "8070797",
+						"rateKey": null,
+						"rateType": null,
+						"nonRefundable": null,
+						"rateInfos": [
+							{
+								"roomGroup": {
+									"room": [
+										{
+											"paxCount": {
+												"adultCount": 2,
+												"childCount": 1,
+												"infantCount": 0,
+												"ythCount": null,
+												"stuCount": null,
+												"vfrCount": null,
+												"lbrCount": null
+											},
+											"roomMeal": null,
+											"childAges": [
+												0
+											],
+											"person": null,
+											"bedTypeId": null,
+											"bedTypeDescription": null,
+											"numberOfBeds": null,
+											"smokingPreference": null,
+											"roomTypeCode": "200667580",
+											"rateCode": "203269294",
+											"rateKey": "d62c3523-fd44-43dd-8b58-8edab06bef08-5122",
+											"roomDescription": "Suite",
+											"chargeableRate": null,
+											"chargeableNightlyRates": [
+												{
+													"baseRate": 204.55,
+													"rate": 204.55,
+													"promo": false
+												},
+												{
+													"baseRate": 163.64,
+													"rate": 163.64,
+													"promo": false
+												},
+												{
+													"baseRate": 177.27,
+													"rate": 177.27,
+													"promo": false
+												},
+												{
+													"baseRate": 163.64,
+													"rate": 163.64,
+													"promo": false
+												},
+												{
+													"baseRate": 245.45,
+													"rate": 245.45,
+													"promo": false
+												},
+												{
+													"baseRate": 272.73,
+													"rate": 272.73,
+													"promo": false
+												},
+												{
+													"baseRate": 272.73,
+													"rate": 272.73,
+													"promo": false
+												},
+												{
+													"baseRate": 177.27,
+													"rate": 177.27,
+													"promo": false
+												},
+												{
+													"baseRate": 163.64,
+													"rate": 163.64,
+													"promo": false
+												},
+												{
+													"baseRate": 177.27,
+													"rate": 177.27,
+													"promo": false
+												},
+												{
+													"baseRate": 163.64,
+													"rate": 163.64,
+													"promo": false
+												},
+												{
+													"baseRate": 163.64,
+													"rate": 163.64,
+													"promo": false
+												},
+												{
+													"baseRate": 177.27,
+													"rate": 177.27,
+													"promo": false
+												},
+												{
+													"baseRate": 177.27,
+													"rate": 177.27,
+													"promo": false
+												},
+												{
+													"baseRate": 177.27,
+													"rate": 177.27,
+													"promo": false
+												},
+												{
+													"baseRate": 163.64,
+													"rate": 163.64,
+													"promo": false
+												}
+											],
+											"roomNumber": 1
+										}
+									],
+									"chargeableRateInfo": null
+								},
+								"chargeableRateInfo": {
+									"discounts": null,
+									"nightlyRatesPerRoom": {
+										"size": 16,
+										"nightlyRate": [
+											{
+												"baseRate": 204.55,
+												"rate": 204.55,
+												"promo": false
+											},
+											{
+												"baseRate": 163.64,
+												"rate": 163.64,
+												"promo": false
+											},
+											{
+												"baseRate": 177.27,
+												"rate": 177.27,
+												"promo": false
+											},
+											{
+												"baseRate": 163.64,
+												"rate": 163.64,
+												"promo": false
+											},
+											{
+												"baseRate": 245.45,
+												"rate": 245.45,
+												"promo": false
+											},
+											{
+												"baseRate": 272.73,
+												"rate": 272.73,
+												"promo": false
+											},
+											{
+												"baseRate": 272.73,
+												"rate": 272.73,
+												"promo": false
+											},
+											{
+												"baseRate": 177.27,
+												"rate": 177.27,
+												"promo": false
+											},
+											{
+												"baseRate": 163.64,
+												"rate": 163.64,
+												"promo": false
+											},
+											{
+												"baseRate": 177.27,
+												"rate": 177.27,
+												"promo": false
+											},
+											{
+												"baseRate": 163.64,
+												"rate": 163.64,
+												"promo": false
+											},
+											{
+												"baseRate": 163.64,
+												"rate": 163.64,
+												"promo": false
+											},
+											{
+												"baseRate": 177.27,
+												"rate": 177.27,
+												"promo": false
+											},
+											{
+												"baseRate": 177.27,
+												"rate": 177.27,
+												"promo": false
+											},
+											{
+												"baseRate": 177.27,
+												"rate": 177.27,
+												"promo": false
+											},
+											{
+												"baseRate": 163.64,
+												"rate": 163.64,
+												"promo": false
+											}
+										]
+									},
+									"promoDescription": null,
+									"surcharges": [
+										{
+											"price": {
+												"value": 304.08,
+												"currency": null
+											},
+											"desc": null,
+											"feeBreakdown": null,
+											"type": {
+												"value": "TaxAndServiceFee"
+											},
+											"precentage": null,
+											"precentageBase": null,
+											"ccType": null,
+											"calculation": null,
+											"id": null
+										}
+									],
+									"averageBaseRate": 190.06,
+									"averageRate": 190.06,
+									"commissionableUsdTotal": 3040.92,
+									"currencyCode": {
+										"value": "EUR"
+									},
+									"discountTotal": 0,
+									"eanCompensationOffline": null,
+									"eanCompensationOnline": null,
+									"maxNightlyRate": 272.73,
+									"nightlyRateTotal": 3040.92,
+									"grossProfitOffline": null,
+									"grossProfitOnline": null,
+									"surchargeTotal": 304.08,
+									"total": 3345,
+									"offerPrice": 0
+								},
+								"convertedRateInfo": null,
+								"confirmationNumbers": null,
+								"cancellationPolicy": "Wir verstehen, dass sich Pläne manchmal ändern können. Wir berechnen keine Umbuchungs- oder Stornierungsgebühr. Die Unterkunft (Hotel Oceania Paris Roissy CDG) berechnet ihren Kunden jedoch die folgende Gebühr, die wir weitergeben müssen: Für Stornierungen oder Umbuchungen, die nach 23:59 ((GMT+01:00) Brussels, Copenhagen, Madrid, Paris) am 08.03.2017 erfolgen, sowie bei Nichtanreise wird der Preis für 1 Nächte zuzüglich Steuern in Rechnung gestellt. ",
+								"cancelPolicyInfoList": [
+									{
+										"from": 1488927600000,
+										"to": 1489100340000,
+										"amount": {
+											"value": 508.62998962402344,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									},
+									{
+										"from": 1488820401372,
+										"to": 1488927599000,
+										"amount": {
+											"value": 0,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									}
+								],
+								"nonRefundable": false,
+								"online": null,
+								"ratePlanType": null,
+								"hotelFees": null,
+								"rateType": {
+									"value": "MerchantStandard"
+								},
+								"packageSavings": null,
+								"promoId": null,
+								"promoDescription": null,
+								"promoDetailText": null,
+								"promoType": null,
+								"currentAllotment": 2,
+								"guaranteeRequired": null,
+								"depositRequired": null,
+								"deposit": null,
+								"taxRate": null,
+								"priceBreakdown": true,
+								"promo": false,
+								"rateChange": true,
+								"pkgSavingsPercent": null,
+								"pkgSavingsAmount": null
+							}
+						],
+						"valueAdds": [
+							{
+								"description": "Kostenloses WLAN",
+								"id": 2192
+							},
+							{
+								"description": "Kostenloser Flughafentransfer",
+								"id": 2196
+							},
+							{
+								"description": "Zugang zum Wellnessbereich",
+								"id": 1073742618
+							}
+						],
+						"bedTypes": [
+							{
+								"description": "1 Doppelbett und 1 Schlafsofa",
+								"id": 69
+							}
+						],
+						"smokingPreferences": [
+							{
+								"value": "NS"
+							}
+						]
+					}
+				],
+				"median": null,
+				"provider": "EAN"
+			},
+			{
+				"hotelId": "486412",
+				"giataCode": null,
+				"name": "AC Hotel Paris Le Bourget Airport by Marriott",
+				"phoneNumber": null,
+				"address": {
+					"country": "FR",
+					"state": null,
+					"county": null,
+					"city": "Dugny",
+					"zip": "93440",
+					"street": "2 Rue De La Haye",
+					"street2": null,
+					"company": null,
+					"poBox": null,
+					"type": null
+				},
+				"airportCode": "CDG",
+				"supplierType": null,
+				"propertyCategory": {
+					"value": "1"
+				},
+				"hotelRating": 4,
+				"confidenceRating": 0,
+				"amenities": [
+					"Business Center",
+					"Fitness Center",
+					"Restaurant On-site",
+					"Accessible Bathroom",
+					"Roll-in Shower",
+					"In-room Accessibility"
+				],
+				"tripAdvisorRating": 4,
+				"tripAdvisorReviewCount": 81,
+				"tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-123456-4.gif",
+				"locationDescription": "Gut angebunden zum Flughafen",
+				"shortDescription": "&lt;p&gt;&lt;b&gt;Lage&lt;/b&gt; &lt;br /&gt;Im AC Hotel Paris Le Bourget Airport by Marriott in Dugny befinden Sie sich gut angebunden zum Flughafen und in der näheren Umgebung von Stade de France und Parc des",
+				"highRate": 398,
+				"lowRate": 180.69,
+				"rateCurrencyCode": {
+					"value": "EUR"
+				},
+				"latitude": 48.95598,
+				"longitude": 2.44469,
+				"proximityDistance": 10.385467,
+				"proximityUnit": {
+					"value": "KM"
+				},
+				"hotelInDestination": true,
+				"thumbNailUrl": "http://images.travelnow.com/hotels/10000000/9350000/9341000/9340955/93462eac_t.jpg",
+				"deepLink": {
+					"linkType": {
+						"value": "SEARCH"
+					},
+					"link": {
+						"path": "/templates/501107/hotels/486412/overview",
+						"fragment": null,
+						"scheme": "http",
+						"host": "www.travelnow.com",
+						"port": -1,
+						"userinfo": null,
+						"genericURI": true,
+						"schemeSpecificPart": "//www.travelnow.com/templates/501107/hotels/486412/overview?lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"queryString": "lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"absoluteURI": true,
+						"regBasedAuthority": null
+					}
+				},
+				"roomRateDetailsList": [
+					{
+						"roomTypeCode": null,
+						"rateCode": null,
+						"supplierType": "E",
+						"maxRoomOccupancy": 4,
+						"quotedRoomOccupancy": 2,
+						"minGuestAge": 0,
+						"roomDescription": "Familienzimmer",
+						"promoId": null,
+						"promoDescription": null,
+						"promoDetailText": null,
+						"currentAllotment": null,
+						"propertyAvailable": true,
+						"propertyRestricted": false,
+						"expediaPropertyId": "9340955",
+						"rateKey": null,
+						"rateType": null,
+						"nonRefundable": null,
+						"rateInfos": [
+							{
+								"roomGroup": {
+									"room": [
+										{
+											"paxCount": {
+												"adultCount": 2,
+												"childCount": 1,
+												"infantCount": 0,
+												"ythCount": null,
+												"stuCount": null,
+												"vfrCount": null,
+												"lbrCount": null
+											},
+											"roomMeal": null,
+											"childAges": [
+												0
+											],
+											"person": null,
+											"bedTypeId": null,
+											"bedTypeDescription": null,
+											"numberOfBeds": null,
+											"smokingPreference": null,
+											"roomTypeCode": "201169573",
+											"rateCode": "205544706",
+											"rateKey": "44a10bb2-2843-4332-8e66-4d9a11cadd59-5122",
+											"roomDescription": "Familienzimmer",
+											"chargeableRate": null,
+											"chargeableNightlyRates": [
+												{
+													"baseRate": 260.18,
+													"rate": 260.18,
+													"promo": false
+												},
+												{
+													"baseRate": 199.73,
+													"rate": 199.73,
+													"promo": false
+												},
+												{
+													"baseRate": 199.73,
+													"rate": 199.73,
+													"promo": false
+												},
+												{
+													"baseRate": 187.9,
+													"rate": 187.9,
+													"promo": false
+												},
+												{
+													"baseRate": 343.64,
+													"rate": 343.64,
+													"promo": false
+												},
+												{
+													"baseRate": 361.82,
+													"rate": 361.82,
+													"promo": false
+												},
+												{
+													"baseRate": 343.64,
+													"rate": 343.64,
+													"promo": false
+												},
+												{
+													"baseRate": 309.27,
+													"rate": 309.27,
+													"promo": false
+												},
+												{
+													"baseRate": 164.26,
+													"rate": 164.26,
+													"promo": false
+												},
+												{
+													"baseRate": 187.9,
+													"rate": 187.9,
+													"promo": false
+												},
+												{
+													"baseRate": 164.26,
+													"rate": 164.26,
+													"promo": false
+												},
+												{
+													"baseRate": 276.55,
+													"rate": 276.55,
+													"promo": false
+												},
+												{
+													"baseRate": 292.91,
+													"rate": 292.91,
+													"promo": false
+												},
+												{
+													"baseRate": 309.27,
+													"rate": 309.27,
+													"promo": false
+												},
+												{
+													"baseRate": 260.18,
+													"rate": 260.18,
+													"promo": false
+												},
+												{
+													"baseRate": 187.9,
+													"rate": 187.9,
+													"promo": false
+												}
+											],
+											"roomNumber": 1
+										}
+									],
+									"chargeableRateInfo": null
+								},
+								"chargeableRateInfo": {
+									"discounts": null,
+									"nightlyRatesPerRoom": {
+										"size": 16,
+										"nightlyRate": [
+											{
+												"baseRate": 260.18,
+												"rate": 260.18,
+												"promo": false
+											},
+											{
+												"baseRate": 199.73,
+												"rate": 199.73,
+												"promo": false
+											},
+											{
+												"baseRate": 199.73,
+												"rate": 199.73,
+												"promo": false
+											},
+											{
+												"baseRate": 187.9,
+												"rate": 187.9,
+												"promo": false
+											},
+											{
+												"baseRate": 343.64,
+												"rate": 343.64,
+												"promo": false
+											},
+											{
+												"baseRate": 361.82,
+												"rate": 361.82,
+												"promo": false
+											},
+											{
+												"baseRate": 343.64,
+												"rate": 343.64,
+												"promo": false
+											},
+											{
+												"baseRate": 309.27,
+												"rate": 309.27,
+												"promo": false
+											},
+											{
+												"baseRate": 164.26,
+												"rate": 164.26,
+												"promo": false
+											},
+											{
+												"baseRate": 187.9,
+												"rate": 187.9,
+												"promo": false
+											},
+											{
+												"baseRate": 164.26,
+												"rate": 164.26,
+												"promo": false
+											},
+											{
+												"baseRate": 276.55,
+												"rate": 276.55,
+												"promo": false
+											},
+											{
+												"baseRate": 292.91,
+												"rate": 292.91,
+												"promo": false
+											},
+											{
+												"baseRate": 309.27,
+												"rate": 309.27,
+												"promo": false
+											},
+											{
+												"baseRate": 260.18,
+												"rate": 260.18,
+												"promo": false
+											},
+											{
+												"baseRate": 187.9,
+												"rate": 187.9,
+												"promo": false
+											}
+										]
+									},
+									"promoDescription": null,
+									"surcharges": [
+										{
+											"price": {
+												"value": 404.91,
+												"currency": null
+											},
+											"desc": null,
+											"feeBreakdown": null,
+											"type": {
+												"value": "TaxAndServiceFee"
+											},
+											"precentage": null,
+											"precentageBase": null,
+											"ccType": null,
+											"calculation": null,
+											"id": null
+										}
+									],
+									"averageBaseRate": 253.07,
+									"averageRate": 253.07,
+									"commissionableUsdTotal": 4049.14,
+									"currencyCode": {
+										"value": "EUR"
+									},
+									"discountTotal": 0,
+									"eanCompensationOffline": null,
+									"eanCompensationOnline": null,
+									"maxNightlyRate": 361.82,
+									"nightlyRateTotal": 4049.14,
+									"grossProfitOffline": null,
+									"grossProfitOnline": null,
+									"surchargeTotal": 404.91,
+									"total": 4454.05,
+									"offerPrice": 0
+								},
+								"convertedRateInfo": null,
+								"confirmationNumbers": null,
+								"cancellationPolicy": "Wir verstehen, dass sich Pläne manchmal ändern können. Wir berechnen keine Umbuchungs- oder Stornierungsgebühr. Die Unterkunft (AC Hotel Paris Le Bourget Airport by Marriott) berechnet ihren Kunden jedoch die folgende Gebühr, die wir weitergeben müssen: Für Stornierungen oder Umbuchungen, die nach 23:59 ((GMT+01:00) Brussels, Copenhagen, Madrid, Paris) am 08.03.2017 erfolgen, sowie bei Nichtanreise wird der Preis für 1 Nächte zuzüglich Steuern in Rechnung gestellt. ",
+								"cancelPolicyInfoList": [
+									{
+										"from": 1488927600000,
+										"to": 1489100340000,
+										"amount": {
+											"value": 665.0899963378906,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									},
+									{
+										"from": 1488820401370,
+										"to": 1488927599000,
+										"amount": {
+											"value": 0,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									}
+								],
+								"nonRefundable": false,
+								"online": null,
+								"ratePlanType": null,
+								"hotelFees": null,
+								"rateType": {
+									"value": "MerchantStandard"
+								},
+								"packageSavings": null,
+								"promoId": null,
+								"promoDescription": null,
+								"promoDetailText": null,
+								"promoType": null,
+								"currentAllotment": 3,
+								"guaranteeRequired": null,
+								"depositRequired": null,
+								"deposit": null,
+								"taxRate": null,
+								"priceBreakdown": true,
+								"promo": false,
+								"rateChange": true,
+								"pkgSavingsPercent": null,
+								"pkgSavingsAmount": null
+							}
+						],
+						"valueAdds": [
+							{
+								"description": "Frühstücksbuffet",
+								"id": 2205
+							}
+						],
+						"bedTypes": [
+							{
+								"description": "1 King-Bett",
+								"id": 14
+							},
+							{
+								"description": "1 Einzelbett",
+								"id": 18
+							}
+						],
+						"smokingPreferences": [
+							{
+								"value": "NS"
+							}
+						]
+					}
+				],
+				"median": null,
+				"provider": "EAN"
+			},
+			{
+				"hotelId": "350336",
+				"giataCode": null,
+				"name": "Appart'City Paris Le Blanc-Mesnil",
+				"phoneNumber": null,
+				"address": {
+					"country": "FR",
+					"state": null,
+					"county": null,
+					"city": "Le Blanc-Mesnil",
+					"zip": "93150",
+					"street": "219 Avenue Descartes",
+					"street2": null,
+					"company": null,
+					"poBox": null,
+					"type": null
+				},
+				"airportCode": "CDG",
+				"supplierType": null,
+				"propertyCategory": {
+					"value": "5"
+				},
+				"hotelRating": 3,
+				"confidenceRating": 95,
+				"amenities": [
+					"Pets Allowed",
+					"In-room Accessibility"
+				],
+				"tripAdvisorRating": 0,
+				"tripAdvisorReviewCount": null,
+				"tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/0.0-123456-4.gif",
+				"locationDescription": "In Le Blanc-Mesnil",
+				"shortDescription": "&lt;p&gt;&lt;b&gt;Lage&lt;/b&gt; &lt;br /&gt;Bei einem Aufenthalt im Appart&apos;City Paris Le Blanc-Mesnil in Le Blanc-Mesnil wohnen Sie in der näheren Umgebung von Zénith de Paris und Stade de France. Diese Residenz befindet",
+				"highRate": 78.09,
+				"lowRate": 54.45,
+				"rateCurrencyCode": {
+					"value": "EUR"
+				},
+				"latitude": 48.95002,
+				"longitude": 2.46364,
+				"proximityDistance": 9.611992,
+				"proximityUnit": {
+					"value": "KM"
+				},
+				"hotelInDestination": true,
+				"thumbNailUrl": "http://images.travelnow.com/hotels/3000000/2470000/2465200/2465129/2465129_28_t.jpg",
+				"deepLink": {
+					"linkType": {
+						"value": "SEARCH"
+					},
+					"link": {
+						"path": "/templates/501107/hotels/350336/overview",
+						"fragment": null,
+						"scheme": "http",
+						"host": "www.travelnow.com",
+						"port": -1,
+						"userinfo": null,
+						"genericURI": true,
+						"schemeSpecificPart": "//www.travelnow.com/templates/501107/hotels/350336/overview?lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"queryString": "lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"absoluteURI": true,
+						"regBasedAuthority": null
+					}
+				},
+				"roomRateDetailsList": [
+					{
+						"roomTypeCode": null,
+						"rateCode": null,
+						"supplierType": "E",
+						"maxRoomOccupancy": 4,
+						"quotedRoomOccupancy": 4,
+						"minGuestAge": 0,
+						"roomDescription": "Apartment",
+						"promoId": null,
+						"promoDescription": null,
+						"promoDetailText": null,
+						"currentAllotment": null,
+						"propertyAvailable": true,
+						"propertyRestricted": false,
+						"expediaPropertyId": "2465129",
+						"rateKey": null,
+						"rateType": null,
+						"nonRefundable": null,
+						"rateInfos": [
+							{
+								"roomGroup": {
+									"room": [
+										{
+											"paxCount": {
+												"adultCount": 2,
+												"childCount": 1,
+												"infantCount": 0,
+												"ythCount": null,
+												"stuCount": null,
+												"vfrCount": null,
+												"lbrCount": null
+											},
+											"roomMeal": null,
+											"childAges": [
+												0
+											],
+											"person": null,
+											"bedTypeId": null,
+											"bedTypeDescription": null,
+											"numberOfBeds": null,
+											"smokingPreference": null,
+											"roomTypeCode": "200153945",
+											"rateCode": "208171669",
+											"rateKey": "678bc7e3-e38a-4477-a93f-0629b534bb6d-5122",
+											"roomDescription": "Apartment",
+											"chargeableRate": null,
+											"chargeableNightlyRates": [
+												{
+													"baseRate": 59,
+													"rate": 59,
+													"promo": false
+												},
+												{
+													"baseRate": 78.09,
+													"rate": 78.09,
+													"promo": false
+												},
+												{
+													"baseRate": 78.09,
+													"rate": 78.09,
+													"promo": false
+												},
+												{
+													"baseRate": 78.09,
+													"rate": 78.09,
+													"promo": false
+												},
+												{
+													"baseRate": 70.82,
+													"rate": 70.82,
+													"promo": false
+												},
+												{
+													"baseRate": 70.82,
+													"rate": 70.82,
+													"promo": false
+												},
+												{
+													"baseRate": 70.82,
+													"rate": 70.82,
+													"promo": false
+												},
+												{
+													"baseRate": 70.82,
+													"rate": 70.82,
+													"promo": false
+												},
+												{
+													"baseRate": 78.09,
+													"rate": 78.09,
+													"promo": false
+												},
+												{
+													"baseRate": 78.09,
+													"rate": 78.09,
+													"promo": false
+												},
+												{
+													"baseRate": 78.09,
+													"rate": 78.09,
+													"promo": false
+												},
+												{
+													"baseRate": 54.45,
+													"rate": 54.45,
+													"promo": false
+												},
+												{
+													"baseRate": 59,
+													"rate": 59,
+													"promo": false
+												},
+												{
+													"baseRate": 59,
+													"rate": 59,
+													"promo": false
+												},
+												{
+													"baseRate": 59,
+													"rate": 59,
+													"promo": false
+												},
+												{
+													"baseRate": 78.09,
+													"rate": 78.09,
+													"promo": false
+												}
+											],
+											"roomNumber": 1
+										}
+									],
+									"chargeableRateInfo": null
+								},
+								"chargeableRateInfo": {
+									"discounts": null,
+									"nightlyRatesPerRoom": {
+										"size": 16,
+										"nightlyRate": [
+											{
+												"baseRate": 59,
+												"rate": 59,
+												"promo": false
+											},
+											{
+												"baseRate": 78.09,
+												"rate": 78.09,
+												"promo": false
+											},
+											{
+												"baseRate": 78.09,
+												"rate": 78.09,
+												"promo": false
+											},
+											{
+												"baseRate": 78.09,
+												"rate": 78.09,
+												"promo": false
+											},
+											{
+												"baseRate": 70.82,
+												"rate": 70.82,
+												"promo": false
+											},
+											{
+												"baseRate": 70.82,
+												"rate": 70.82,
+												"promo": false
+											},
+											{
+												"baseRate": 70.82,
+												"rate": 70.82,
+												"promo": false
+											},
+											{
+												"baseRate": 70.82,
+												"rate": 70.82,
+												"promo": false
+											},
+											{
+												"baseRate": 78.09,
+												"rate": 78.09,
+												"promo": false
+											},
+											{
+												"baseRate": 78.09,
+												"rate": 78.09,
+												"promo": false
+											},
+											{
+												"baseRate": 78.09,
+												"rate": 78.09,
+												"promo": false
+											},
+											{
+												"baseRate": 54.45,
+												"rate": 54.45,
+												"promo": false
+											},
+											{
+												"baseRate": 59,
+												"rate": 59,
+												"promo": false
+											},
+											{
+												"baseRate": 59,
+												"rate": 59,
+												"promo": false
+											},
+											{
+												"baseRate": 59,
+												"rate": 59,
+												"promo": false
+											},
+											{
+												"baseRate": 78.09,
+												"rate": 78.09,
+												"promo": false
+											}
+										]
+									},
+									"promoDescription": null,
+									"surcharges": [
+										{
+											"price": {
+												"value": 112.04,
+												"currency": null
+											},
+											"desc": null,
+											"feeBreakdown": null,
+											"type": {
+												"value": "TaxAndServiceFee"
+											},
+											"precentage": null,
+											"precentageBase": null,
+											"ccType": null,
+											"calculation": null,
+											"id": null
+										}
+									],
+									"averageBaseRate": 70.02,
+									"averageRate": 70.02,
+									"commissionableUsdTotal": 1120.36,
+									"currencyCode": {
+										"value": "EUR"
+									},
+									"discountTotal": 0,
+									"eanCompensationOffline": null,
+									"eanCompensationOnline": null,
+									"maxNightlyRate": 78.09,
+									"nightlyRateTotal": 1120.36,
+									"grossProfitOffline": null,
+									"grossProfitOnline": null,
+									"surchargeTotal": 112.04,
+									"total": 1232.4,
+									"offerPrice": 0
+								},
+								"convertedRateInfo": null,
+								"confirmationNumbers": null,
+								"cancellationPolicy": "Wir verstehen, dass sich Pläne manchmal ändern können. Wir berechnen keine Umbuchungs- oder Stornierungsgebühr. Die Unterkunft (Appart&apos;City Paris Le Blanc-Mesnil) berechnet ihren Kunden jedoch die folgende Gebühr, die wir weitergeben müssen: Für Stornierungen oder Umbuchungen, die nach 11:59 ((GMT+01:00) Brussels, Copenhagen, Madrid, Paris) am 09.03.2017 erfolgen, sowie bei Nichtanreise wird der Preis für 1 Nächte zuzüglich Steuern in Rechnung gestellt. ",
+								"cancelPolicyInfoList": [
+									{
+										"from": 1488970800000,
+										"to": 1489100340000,
+										"amount": {
+											"value": 171.04000091552734,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									},
+									{
+										"from": 1488820401371,
+										"to": 1488970799000,
+										"amount": {
+											"value": 0,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									}
+								],
+								"nonRefundable": false,
+								"online": null,
+								"ratePlanType": null,
+								"hotelFees": null,
+								"rateType": {
+									"value": "MerchantStandard"
+								},
+								"packageSavings": null,
+								"promoId": null,
+								"promoDescription": null,
+								"promoDetailText": null,
+								"promoType": null,
+								"currentAllotment": 1,
+								"guaranteeRequired": null,
+								"depositRequired": null,
+								"deposit": null,
+								"taxRate": null,
+								"priceBreakdown": true,
+								"promo": false,
+								"rateChange": true,
+								"pkgSavingsPercent": null,
+								"pkgSavingsAmount": null
+							}
+						],
+						"valueAdds": [
+							{
+								"description": "Frühstück inbegriffen",
+								"id": 1073742786
+							}
+						],
+						"bedTypes": [
+							{
+								"description": "1 Doppelbett und 1 Schlafsofa",
+								"id": 69
+							}
+						],
+						"smokingPreferences": [
+							{
+								"value": "E"
+							}
+						]
+					}
+				],
+				"median": null,
+				"provider": "EAN"
+			},
+			{
+				"hotelId": "245853",
+				"giataCode": null,
+				"name": "Aparthotel Adagio Access Paris Saint Denis Pleyel",
+				"phoneNumber": null,
+				"address": {
+					"country": "FR",
+					"state": null,
+					"county": null,
+					"city": "Saint-Denis",
+					"zip": "93200",
+					"street": "10 rue du Docteur Finot",
+					"street2": null,
+					"company": null,
+					"poBox": null,
+					"type": null
+				},
+				"airportCode": "CDG",
+				"supplierType": null,
+				"propertyCategory": {
+					"value": "5"
+				},
+				"hotelRating": 3,
+				"confidenceRating": 52,
+				"amenities": [
+					"Pets Allowed",
+					"Accessible Bathroom",
+					"In-room Accessibility"
+				],
+				"tripAdvisorRating": 0,
+				"tripAdvisorReviewCount": null,
+				"tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/0.0-123456-4.gif",
+				"locationDescription": "Stade de France in der Nähe",
+				"shortDescription": "&lt;p&gt;&lt;b&gt;Lage&lt;/b&gt; &lt;br /&gt;Während Ihres Aufenthalts im Aparthotel Adagio Access Paris Saint Denis Pleyel in Saint-Denis befinden Sie sich gut angebunden zum Flughafen und ganz in der Nähe von Stade de",
+				"highRate": 90,
+				"lowRate": 73,
+				"rateCurrencyCode": {
+					"value": "EUR"
+				},
+				"latitude": 48.91826,
+				"longitude": 2.34243,
+				"proximityDistance": 18.97946,
+				"proximityUnit": {
+					"value": "KM"
+				},
+				"hotelInDestination": true,
+				"thumbNailUrl": "http://images.travelnow.com/hotels/2000000/1310000/1305600/1305520/2c6d8ab8_t.jpg",
+				"deepLink": {
+					"linkType": {
+						"value": "SEARCH"
+					},
+					"link": {
+						"path": "/templates/501107/hotels/245853/overview",
+						"fragment": null,
+						"scheme": "http",
+						"host": "www.travelnow.com",
+						"port": -1,
+						"userinfo": null,
+						"genericURI": true,
+						"schemeSpecificPart": "//www.travelnow.com/templates/501107/hotels/245853/overview?lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"queryString": "lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"absoluteURI": true,
+						"regBasedAuthority": null
+					}
+				},
+				"roomRateDetailsList": [
+					{
+						"roomTypeCode": null,
+						"rateCode": null,
+						"supplierType": "E",
+						"maxRoomOccupancy": 4,
+						"quotedRoomOccupancy": 2,
+						"minGuestAge": 0,
+						"roomDescription": "Apartment, 2 Doppelbetten",
+						"promoId": null,
+						"promoDescription": null,
+						"promoDetailText": null,
+						"currentAllotment": null,
+						"propertyAvailable": true,
+						"propertyRestricted": false,
+						"expediaPropertyId": "1305520",
+						"rateKey": null,
+						"rateType": null,
+						"nonRefundable": null,
+						"rateInfos": [
+							{
+								"roomGroup": {
+									"room": [
+										{
+											"paxCount": {
+												"adultCount": 2,
+												"childCount": 1,
+												"infantCount": 0,
+												"ythCount": null,
+												"stuCount": null,
+												"vfrCount": null,
+												"lbrCount": null
+											},
+											"roomMeal": null,
+											"childAges": [
+												0
+											],
+											"person": null,
+											"bedTypeId": null,
+											"bedTypeDescription": null,
+											"numberOfBeds": null,
+											"smokingPreference": null,
+											"roomTypeCode": "200113624",
+											"rateCode": "200625670",
+											"rateKey": "cbba9a7c-3475-4ab6-9c3d-06bc210d18be-5122",
+											"roomDescription": "Apartment, 2 Doppelbetten",
+											"chargeableRate": null,
+											"chargeableNightlyRates": [
+												{
+													"baseRate": 77.27,
+													"rate": 77.27,
+													"promo": false
+												},
+												{
+													"baseRate": 66.36,
+													"rate": 66.36,
+													"promo": false
+												},
+												{
+													"baseRate": 81.82,
+													"rate": 81.82,
+													"promo": false
+												},
+												{
+													"baseRate": 66.36,
+													"rate": 66.36,
+													"promo": false
+												},
+												{
+													"baseRate": 77.27,
+													"rate": 77.27,
+													"promo": false
+												},
+												{
+													"baseRate": 77.27,
+													"rate": 77.27,
+													"promo": false
+												},
+												{
+													"baseRate": 77.27,
+													"rate": 77.27,
+													"promo": false
+												},
+												{
+													"baseRate": 77.27,
+													"rate": 77.27,
+													"promo": false
+												},
+												{
+													"baseRate": 66.36,
+													"rate": 66.36,
+													"promo": false
+												},
+												{
+													"baseRate": 77.27,
+													"rate": 77.27,
+													"promo": false
+												},
+												{
+													"baseRate": 66.36,
+													"rate": 66.36,
+													"promo": false
+												},
+												{
+													"baseRate": 77.27,
+													"rate": 77.27,
+													"promo": false
+												},
+												{
+													"baseRate": 77.27,
+													"rate": 77.27,
+													"promo": false
+												},
+												{
+													"baseRate": 77.27,
+													"rate": 77.27,
+													"promo": false
+												},
+												{
+													"baseRate": 77.27,
+													"rate": 77.27,
+													"promo": false
+												},
+												{
+													"baseRate": 66.36,
+													"rate": 66.36,
+													"promo": false
+												}
+											],
+											"roomNumber": 1
+										}
+									],
+									"chargeableRateInfo": null
+								},
+								"chargeableRateInfo": {
+									"discounts": null,
+									"nightlyRatesPerRoom": {
+										"size": 16,
+										"nightlyRate": [
+											{
+												"baseRate": 77.27,
+												"rate": 77.27,
+												"promo": false
+											},
+											{
+												"baseRate": 66.36,
+												"rate": 66.36,
+												"promo": false
+											},
+											{
+												"baseRate": 81.82,
+												"rate": 81.82,
+												"promo": false
+											},
+											{
+												"baseRate": 66.36,
+												"rate": 66.36,
+												"promo": false
+											},
+											{
+												"baseRate": 77.27,
+												"rate": 77.27,
+												"promo": false
+											},
+											{
+												"baseRate": 77.27,
+												"rate": 77.27,
+												"promo": false
+											},
+											{
+												"baseRate": 77.27,
+												"rate": 77.27,
+												"promo": false
+											},
+											{
+												"baseRate": 77.27,
+												"rate": 77.27,
+												"promo": false
+											},
+											{
+												"baseRate": 66.36,
+												"rate": 66.36,
+												"promo": false
+											},
+											{
+												"baseRate": 77.27,
+												"rate": 77.27,
+												"promo": false
+											},
+											{
+												"baseRate": 66.36,
+												"rate": 66.36,
+												"promo": false
+											},
+											{
+												"baseRate": 77.27,
+												"rate": 77.27,
+												"promo": false
+											},
+											{
+												"baseRate": 77.27,
+												"rate": 77.27,
+												"promo": false
+											},
+											{
+												"baseRate": 77.27,
+												"rate": 77.27,
+												"promo": false
+											},
+											{
+												"baseRate": 77.27,
+												"rate": 77.27,
+												"promo": false
+											},
+											{
+												"baseRate": 66.36,
+												"rate": 66.36,
+												"promo": false
+											}
+										]
+									},
+									"promoDescription": null,
+									"surcharges": [
+										{
+											"price": {
+												"value": 118.68,
+												"currency": null
+											},
+											"desc": null,
+											"feeBreakdown": null,
+											"type": {
+												"value": "TaxAndServiceFee"
+											},
+											"precentage": null,
+											"precentageBase": null,
+											"ccType": null,
+											"calculation": null,
+											"id": null
+										}
+									],
+									"averageBaseRate": 74.14,
+									"averageRate": 74.14,
+									"commissionableUsdTotal": 1186.32,
+									"currencyCode": {
+										"value": "EUR"
+									},
+									"discountTotal": 0,
+									"eanCompensationOffline": null,
+									"eanCompensationOnline": null,
+									"maxNightlyRate": 81.82,
+									"nightlyRateTotal": 1186.32,
+									"grossProfitOffline": null,
+									"grossProfitOnline": null,
+									"surchargeTotal": 118.68,
+									"total": 1305,
+									"offerPrice": 0
+								},
+								"convertedRateInfo": null,
+								"confirmationNumbers": null,
+								"cancellationPolicy": "Wir verstehen, dass sich Pläne manchmal ändern können. Wir berechnen keine Umbuchungs- oder Stornierungsgebühr. Die Unterkunft (Aparthotel Adagio Access Paris Saint Denis Pleyel) berechnet ihren Kunden jedoch die folgende Gebühr, die wir weitergeben müssen: Für Stornierungen oder Umbuchungen, die nach 11:59 ((GMT+01:00) Brussels, Copenhagen, Madrid, Paris) am 06.03.2017 erfolgen, sowie bei Nichtanreise werden 40% der Kosten des Aufenthalts in Rechnung gestellt. ",
+								"cancelPolicyInfoList": [
+									{
+										"from": 1488754800000,
+										"to": 1489057140000,
+										"amount": {
+											"value": 474.527978515625,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									},
+									{
+										"from": 1488820401373,
+										"to": 1488754799000,
+										"amount": {
+											"value": 0,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									}
+								],
+								"nonRefundable": false,
+								"online": null,
+								"ratePlanType": null,
+								"hotelFees": {
+									"hotelFee": [
+										{
+											"price": {
+												"value": 52.8,
+												"currency": null
+											},
+											"desc": "MandatoryTax",
+											"feeBreakdown": {
+												"unit": "Per person",
+												"frequency": "Per night"
+											},
+											"type": {
+												"value": "Unknown"
+											},
+											"precentage": null,
+											"precentageBase": null,
+											"ccType": null,
+											"calculation": null,
+											"id": null
+										}
+									],
+									"hotelFeeBreakdown": null,
+									"size": 1
+								},
+								"rateType": {
+									"value": "MerchantStandard"
+								},
+								"packageSavings": null,
+								"promoId": null,
+								"promoDescription": null,
+								"promoDetailText": null,
+								"promoType": null,
+								"currentAllotment": 0,
+								"guaranteeRequired": null,
+								"depositRequired": null,
+								"deposit": null,
+								"taxRate": null,
+								"priceBreakdown": true,
+								"promo": false,
+								"rateChange": true,
+								"pkgSavingsPercent": null,
+								"pkgSavingsAmount": null
+							}
+						],
+						"valueAdds": null,
+						"bedTypes": [
+							{
+								"description": "2 kleine Queen-Betten",
+								"id": 47
+							}
+						],
+						"smokingPreferences": [
+							{
+								"value": "NS"
+							}
+						]
+					}
+				],
+				"median": null,
+				"provider": "EAN"
+			},
+			{
+				"hotelId": "139369",
+				"giataCode": null,
+				"name": "Hilton Paris Charles de Gaulle Airport",
+				"phoneNumber": null,
+				"address": {
+					"country": "FR",
+					"state": null,
+					"county": null,
+					"city": "Roissy-en-France",
+					"zip": "95708",
+					"street": "Roissypole, Rue de Rome, BP16461",
+					"street2": null,
+					"company": null,
+					"poBox": null,
+					"type": null
+				},
+				"airportCode": "CDG",
+				"supplierType": null,
+				"propertyCategory": {
+					"value": "1"
+				},
+				"hotelRating": 4,
+				"confidenceRating": 85,
+				"amenities": [
+					"Business Center",
+					"Fitness Center",
+					"Pets Allowed",
+					"Restaurant On-site",
+					"Accessible Bathroom",
+					"In-room Accessibility"
+				],
+				"tripAdvisorRating": 4,
+				"tripAdvisorReviewCount": 2661,
+				"tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-123456-4.gif",
+				"locationDescription": "Gut angebunden zum Flughafen",
+				"shortDescription": "&lt;p&gt;&lt;b&gt;Lage&lt;/b&gt; &lt;br /&gt;Im Hilton Paris Charles de Gaulle Airport in Roissy-en-France wohnen Sie gut angebunden zum Flughafen und ganz in der Nähe von Einkaufszentrum Aéroville und Eglise Saint Eloi. ",
+				"highRate": 229,
+				"lowRate": 229,
+				"rateCurrencyCode": {
+					"value": "EUR"
+				},
+				"latitude": 49.01055,
+				"longitude": 2.55704,
+				"proximityDistance": 1.0975344,
+				"proximityUnit": {
+					"value": "KM"
+				},
+				"hotelInDestination": true,
+				"thumbNailUrl": "http://images.travelnow.com/hotels/1000000/20000/12200/12101/12101_103_t.jpg",
+				"deepLink": {
+					"linkType": {
+						"value": "SEARCH"
+					},
+					"link": {
+						"path": "/templates/501107/hotels/139369/overview",
+						"fragment": null,
+						"scheme": "http",
+						"host": "www.travelnow.com",
+						"port": -1,
+						"userinfo": null,
+						"genericURI": true,
+						"schemeSpecificPart": "//www.travelnow.com/templates/501107/hotels/139369/overview?lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"queryString": "lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"absoluteURI": true,
+						"regBasedAuthority": null
+					}
+				},
+				"roomRateDetailsList": [
+					{
+						"roomTypeCode": null,
+						"rateCode": null,
+						"supplierType": "E",
+						"maxRoomOccupancy": 4,
+						"quotedRoomOccupancy": 2,
+						"minGuestAge": 0,
+						"roomDescription": "Familien-Zweibettzimmer",
+						"promoId": null,
+						"promoDescription": null,
+						"promoDetailText": null,
+						"currentAllotment": null,
+						"propertyAvailable": true,
+						"propertyRestricted": false,
+						"expediaPropertyId": "12101",
+						"rateKey": null,
+						"rateType": null,
+						"nonRefundable": null,
+						"rateInfos": [
+							{
+								"roomGroup": {
+									"room": [
+										{
+											"paxCount": {
+												"adultCount": 2,
+												"childCount": 1,
+												"infantCount": 0,
+												"ythCount": null,
+												"stuCount": null,
+												"vfrCount": null,
+												"lbrCount": null
+											},
+											"roomMeal": null,
+											"childAges": [
+												0
+											],
+											"person": null,
+											"bedTypeId": null,
+											"bedTypeDescription": null,
+											"numberOfBeds": null,
+											"smokingPreference": null,
+											"roomTypeCode": "201783556",
+											"rateCode": "209082912",
+											"rateKey": "8a1e5aa3-0050-4eb1-80af-8eb973fefa8e-5122",
+											"roomDescription": "Familien-Zweibettzimmer",
+											"chargeableRate": null,
+											"chargeableNightlyRates": [
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												},
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												},
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												},
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												},
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												},
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												},
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												},
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												},
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												},
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												},
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												},
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												},
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												},
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												},
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												},
+												{
+													"baseRate": 208.18,
+													"rate": 208.18,
+													"promo": false
+												}
+											],
+											"roomNumber": 1
+										}
+									],
+									"chargeableRateInfo": null
+								},
+								"chargeableRateInfo": {
+									"discounts": null,
+									"nightlyRatesPerRoom": {
+										"size": 16,
+										"nightlyRate": [
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											},
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											},
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											},
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											},
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											},
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											},
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											},
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											},
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											},
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											},
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											},
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											},
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											},
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											},
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											},
+											{
+												"baseRate": 208.18,
+												"rate": 208.18,
+												"promo": false
+											}
+										]
+									},
+									"promoDescription": null,
+									"surcharges": [
+										{
+											"price": {
+												"value": 333.12,
+												"currency": null
+											},
+											"desc": null,
+											"feeBreakdown": null,
+											"type": {
+												"value": "TaxAndServiceFee"
+											},
+											"precentage": null,
+											"precentageBase": null,
+											"ccType": null,
+											"calculation": null,
+											"id": null
+										}
+									],
+									"averageBaseRate": 208.18,
+									"averageRate": 208.18,
+									"commissionableUsdTotal": 3330.88,
+									"currencyCode": {
+										"value": "EUR"
+									},
+									"discountTotal": 0,
+									"eanCompensationOffline": null,
+									"eanCompensationOnline": null,
+									"maxNightlyRate": 208.18,
+									"nightlyRateTotal": 3330.88,
+									"grossProfitOffline": null,
+									"grossProfitOnline": null,
+									"surchargeTotal": 333.12,
+									"total": 3664,
+									"offerPrice": 0
+								},
+								"convertedRateInfo": null,
+								"confirmationNumbers": null,
+								"cancellationPolicy": "Wir verstehen, dass sich Pläne manchmal ändern können. Wir berechnen keine Umbuchungs- oder Stornierungsgebühr. Die Unterkunft (Hilton Paris Charles de Gaulle Airport) berechnet ihren Kunden jedoch die folgende Gebühr, die wir weitergeben müssen: Für Stornierungen oder Umbuchungen, die nach 14:00 ((GMT+01:00) Brussels, Copenhagen, Madrid, Paris) am 08.03.2017 erfolgen, sowie bei Nichtanreise wird der Preis für 1 Nächte zuzüglich Steuern in Rechnung gestellt. ",
+								"cancelPolicyInfoList": [
+									{
+										"from": 1488927600000,
+										"to": 1489064400000,
+										"amount": {
+											"value": 541.2999877929688,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									},
+									{
+										"from": 1488820401374,
+										"to": 1488927599000,
+										"amount": {
+											"value": 0,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									}
+								],
+								"nonRefundable": false,
+								"online": null,
+								"ratePlanType": null,
+								"hotelFees": {
+									"hotelFee": [
+										{
+											"price": {
+												"value": 119.04,
+												"currency": null
+											},
+											"desc": "MandatoryTax",
+											"feeBreakdown": {
+												"unit": "Per person",
+												"frequency": "Per night"
+											},
+											"type": {
+												"value": "Unknown"
+											},
+											"precentage": null,
+											"precentageBase": null,
+											"ccType": null,
+											"calculation": null,
+											"id": null
+										}
+									],
+									"hotelFeeBreakdown": null,
+									"size": 1
+								},
+								"rateType": {
+									"value": "MerchantStandard"
+								},
+								"packageSavings": null,
+								"promoId": null,
+								"promoDescription": null,
+								"promoDetailText": null,
+								"promoType": null,
+								"currentAllotment": 0,
+								"guaranteeRequired": null,
+								"depositRequired": null,
+								"deposit": null,
+								"taxRate": null,
+								"priceBreakdown": true,
+								"promo": false,
+								"rateChange": false,
+								"pkgSavingsPercent": null,
+								"pkgSavingsAmount": null
+							}
+						],
+						"valueAdds": null,
+						"bedTypes": [
+							{
+								"description": "2 Einzelbetten",
+								"id": 25
+							}
+						],
+						"smokingPreferences": [
+							{
+								"value": "NS"
+							},
+							{
+								"value": "E"
+							}
+						]
+					}
+				],
+				"median": null,
+				"provider": "EAN"
+			},
+			{
+				"hotelId": "554898",
+				"giataCode": null,
+				"name": "Hipark Paris La Villette",
+				"phoneNumber": null,
+				"address": {
+					"country": "FR",
+					"state": null,
+					"county": null,
+					"city": "Paris",
+					"zip": "75019",
+					"street": "28 Boulevard d&apos;Indochine",
+					"street2": null,
+					"company": null,
+					"poBox": null,
+					"type": null
+				},
+				"airportCode": "",
+				"supplierType": null,
+				"propertyCategory": {
+					"value": "5"
+				},
+				"hotelRating": 4,
+				"confidenceRating": 0,
+				"amenities": [
+					"Fitness Center",
+					"Pets Allowed",
+					"Accessible Bathroom",
+					"Roll-in Shower",
+					"In-room Accessibility"
+				],
+				"tripAdvisorRating": 0,
+				"tripAdvisorReviewCount": null,
+				"tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/0.0-123456-4.gif",
+				"locationDescription": "In Paris (19. Arrondissement)",
+				"shortDescription": "&lt;p&gt;&lt;b&gt;Lage&lt;/b&gt; &lt;br /&gt;Bei einem Aufenthalt im Hipark Paris La Villette in Paris (19. Arrondissement) erreichen Sie Zenith und Galeries Lafayette in wenigen Minuten. Diese Residenz mit 4 Sternen ist",
+				"highRate": 180.91,
+				"lowRate": 113.18,
+				"rateCurrencyCode": {
+					"value": "EUR"
+				},
+				"latitude": 48.88571,
+				"longitude": 2.3965,
+				"proximityDistance": 18.101057,
+				"proximityUnit": {
+					"value": "KM"
+				},
+				"hotelInDestination": true,
+				"thumbNailUrl": "http://images.travelnow.com/hotels/13000000/12640000/12630500/12630415/12630415_9_t.jpg",
+				"deepLink": {
+					"linkType": {
+						"value": "SEARCH"
+					},
+					"link": {
+						"path": "/templates/501107/hotels/554898/overview",
+						"fragment": null,
+						"scheme": "http",
+						"host": "www.travelnow.com",
+						"port": -1,
+						"userinfo": null,
+						"genericURI": true,
+						"schemeSpecificPart": "//www.travelnow.com/templates/501107/hotels/554898/overview?lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"queryString": "lang=de&amp;currency=EUR&amp;standardCheckin=3/9/2017&amp;standardCheckout=3/25/2017&amp;roomsCount=1&amp;rooms[0].adultsCount=2&amp;rooms[0].childrenCount=1&amp;rooms[0].children[0].age=0",
+						"absoluteURI": true,
+						"regBasedAuthority": null
+					}
+				},
+				"roomRateDetailsList": [
+					{
+						"roomTypeCode": null,
+						"rateCode": null,
+						"supplierType": "E",
+						"maxRoomOccupancy": 4,
+						"quotedRoomOccupancy": 2,
+						"minGuestAge": 0,
+						"roomDescription": "Suite",
+						"promoId": null,
+						"promoDescription": null,
+						"promoDetailText": null,
+						"currentAllotment": null,
+						"propertyAvailable": true,
+						"propertyRestricted": false,
+						"expediaPropertyId": "12630415",
+						"rateKey": null,
+						"rateType": null,
+						"nonRefundable": null,
+						"rateInfos": [
+							{
+								"roomGroup": {
+									"room": [
+										{
+											"paxCount": {
+												"adultCount": 2,
+												"childCount": 1,
+												"infantCount": 0,
+												"ythCount": null,
+												"stuCount": null,
+												"vfrCount": null,
+												"lbrCount": null
+											},
+											"roomMeal": null,
+											"childAges": [
+												0
+											],
+											"person": null,
+											"bedTypeId": null,
+											"bedTypeDescription": null,
+											"numberOfBeds": null,
+											"smokingPreference": null,
+											"roomTypeCode": "201310606",
+											"rateCode": "206382804",
+											"rateKey": "19150232-f146-4791-849c-e51f9ad36483-5122",
+											"roomDescription": "Suite",
+											"chargeableRate": null,
+											"chargeableNightlyRates": [
+												{
+													"baseRate": 170.91,
+													"rate": 128.18,
+													"promo": true
+												},
+												{
+													"baseRate": 170.91,
+													"rate": 128.18,
+													"promo": true
+												},
+												{
+													"baseRate": 150.91,
+													"rate": 113.18,
+													"promo": true
+												},
+												{
+													"baseRate": 150.91,
+													"rate": 113.18,
+													"promo": true
+												},
+												{
+													"baseRate": 170.91,
+													"rate": 128.18,
+													"promo": true
+												},
+												{
+													"baseRate": 170.91,
+													"rate": 128.18,
+													"promo": true
+												},
+												{
+													"baseRate": 170.91,
+													"rate": 128.18,
+													"promo": true
+												},
+												{
+													"baseRate": 170.91,
+													"rate": 128.18,
+													"promo": true
+												},
+												{
+													"baseRate": 150.91,
+													"rate": 113.18,
+													"promo": true
+												},
+												{
+													"baseRate": 170.91,
+													"rate": 128.18,
+													"promo": true
+												},
+												{
+													"baseRate": 150.91,
+													"rate": 113.18,
+													"promo": true
+												},
+												{
+													"baseRate": 160.91,
+													"rate": 120.68,
+													"promo": true
+												},
+												{
+													"baseRate": 160.91,
+													"rate": 120.68,
+													"promo": true
+												},
+												{
+													"baseRate": 160.91,
+													"rate": 120.68,
+													"promo": true
+												},
+												{
+													"baseRate": 180.91,
+													"rate": 135.68,
+													"promo": true
+												},
+												{
+													"baseRate": 150.91,
+													"rate": 113.18,
+													"promo": true
+												}
+											],
+											"roomNumber": 1
+										}
+									],
+									"chargeableRateInfo": null
+								},
+								"chargeableRateInfo": {
+									"discounts": null,
+									"nightlyRatesPerRoom": {
+										"size": 16,
+										"nightlyRate": [
+											{
+												"baseRate": 170.91,
+												"rate": 128.18,
+												"promo": true
+											},
+											{
+												"baseRate": 170.91,
+												"rate": 128.18,
+												"promo": true
+											},
+											{
+												"baseRate": 150.91,
+												"rate": 113.18,
+												"promo": true
+											},
+											{
+												"baseRate": 150.91,
+												"rate": 113.18,
+												"promo": true
+											},
+											{
+												"baseRate": 170.91,
+												"rate": 128.18,
+												"promo": true
+											},
+											{
+												"baseRate": 170.91,
+												"rate": 128.18,
+												"promo": true
+											},
+											{
+												"baseRate": 170.91,
+												"rate": 128.18,
+												"promo": true
+											},
+											{
+												"baseRate": 170.91,
+												"rate": 128.18,
+												"promo": true
+											},
+											{
+												"baseRate": 150.91,
+												"rate": 113.18,
+												"promo": true
+											},
+											{
+												"baseRate": 170.91,
+												"rate": 128.18,
+												"promo": true
+											},
+											{
+												"baseRate": 150.91,
+												"rate": 113.18,
+												"promo": true
+											},
+											{
+												"baseRate": 160.91,
+												"rate": 120.68,
+												"promo": true
+											},
+											{
+												"baseRate": 160.91,
+												"rate": 120.68,
+												"promo": true
+											},
+											{
+												"baseRate": 160.91,
+												"rate": 120.68,
+												"promo": true
+											},
+											{
+												"baseRate": 180.91,
+												"rate": 135.68,
+												"promo": true
+											},
+											{
+												"baseRate": 150.91,
+												"rate": 113.18,
+												"promo": true
+											}
+										]
+									},
+									"promoDescription": null,
+									"surcharges": [
+										{
+											"price": {
+												"value": 196.12,
+												"currency": null
+											},
+											"desc": null,
+											"feeBreakdown": null,
+											"type": {
+												"value": "TaxAndServiceFee"
+											},
+											"precentage": null,
+											"precentageBase": null,
+											"ccType": null,
+											"calculation": null,
+											"id": null
+										}
+									],
+									"averageBaseRate": 163.41,
+									"averageRate": 122.56,
+									"commissionableUsdTotal": 1960.88,
+									"currencyCode": {
+										"value": "EUR"
+									},
+									"discountTotal": 0,
+									"eanCompensationOffline": null,
+									"eanCompensationOnline": null,
+									"maxNightlyRate": 135.68,
+									"nightlyRateTotal": 1960.88,
+									"grossProfitOffline": null,
+									"grossProfitOnline": null,
+									"surchargeTotal": 196.12,
+									"total": 2157,
+									"offerPrice": 0
+								},
+								"convertedRateInfo": null,
+								"confirmationNumbers": null,
+								"cancellationPolicy": "Wir verstehen, dass sich Pläne manchmal ändern können. Wir berechnen keine Umbuchungs- oder Stornierungsgebühr. Die Unterkunft (Hipark Paris La Villette) berechnet ihren Kunden jedoch die folgende Gebühr, die wir weitergeben müssen: Für Stornierungen oder Umbuchungen, die nach 18:00 ((GMT+01:00) Brussels, Copenhagen, Madrid, Paris) am 06.03.2017 erfolgen, sowie bei Nichtanreise wird der Preis für 2 Nächte zuzüglich Steuern in Rechnung gestellt. ",
+								"cancelPolicyInfoList": [
+									{
+										"from": 1488754800000,
+										"to": 1489078800000,
+										"amount": {
+											"value": 452.47998046875,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									},
+									{
+										"from": 1488820401372,
+										"to": 1488754799000,
+										"amount": {
+											"value": 0,
+											"currency": {
+												"value": "EUR"
+											}
+										}
+									}
+								],
+								"nonRefundable": false,
+								"online": null,
+								"ratePlanType": null,
+								"hotelFees": {
+									"hotelFee": [
+										{
+											"price": {
+												"value": 119.04,
+												"currency": null
+											},
+											"desc": "MandatoryTax",
+											"feeBreakdown": {
+												"unit": "Per person",
+												"frequency": "Per night"
+											},
+											"type": {
+												"value": "Unknown"
+											},
+											"precentage": null,
+											"precentageBase": null,
+											"ccType": null,
+											"calculation": null,
+											"id": null
+										}
+									],
+									"hotelFeeBreakdown": null,
+									"size": 1
+								},
+								"rateType": {
+									"value": "MerchantStandard"
+								},
+								"packageSavings": null,
+								"promoId": "216470780",
+								"promoDescription": "7 Nächte buchen = 25% Rabatt",
+								"promoDetailText": null,
+								"promoType": {
+									"value": "Standard"
+								},
+								"currentAllotment": 1,
+								"guaranteeRequired": null,
+								"depositRequired": null,
+								"deposit": null,
+								"taxRate": null,
+								"priceBreakdown": true,
+								"promo": true,
+								"rateChange": true,
+								"pkgSavingsPercent": null,
+								"pkgSavingsAmount": null
+							}
+						],
+						"valueAdds": [
+							{
+								"description": "Kostenloses WLAN",
+								"id": 2192
+							}
+						],
+						"bedTypes": [
+							{
+								"description": "1 Doppelbett und 1 Schlafsofa",
+								"id": 69
+							}
+						],
+						"smokingPreferences": [
+							{
+								"value": "NS"
+							}
+						]
+					}
+				],
+				"median": null,
+				"provider": "EAN"
+			}
+		],
+		"locationInfos": null,
+		"errors": null,
+		"log": null
+	},
+	"webServiceLogID": "DF27e84285213dp",
+	"numberOfResults": 175,
+	"travelSummary": {
+		"cabinClassListMandatoryForAllSegments": false,
+		"cabinClassList": [
+			"ECONOMY"
+		],
+		"passengerTypeCountList": [
+			{
+				"count": 1,
+				"type": "ADT"
+			}
+		],
+		"segmentList": [
+			{
+				"cabinClassListMandatory": false,
+				"departureDate": "2017-06-10",
+				"departure": {
+					"name": "Frankfurt",
+					"code": "FRA",
+					"type": "AIRPORT"
+				},
+				"destination": {
+					"name": "Bangkok Suvarnabhumi International Apt",
+					"code": "BKK",
+					"type": "AIRPORT"
+				}
+			}
+		]
+	},
+	"service": "availableFare",
+	"fareSearchId": "11712",
+	"numberOfAirlines": 20
+}

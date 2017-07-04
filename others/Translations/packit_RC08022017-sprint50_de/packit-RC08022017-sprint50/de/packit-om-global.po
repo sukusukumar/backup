@@ -1,0 +1,91 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Daniel Sobiech <dsobiech@aer.de>, 2016. #zanata
+# Anne Kremer <akremer@aer.de>, 2017. #zanata
+# Daniel Sobiech <dsobiech@aer.de>, 2017. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2017-01-09 03:44+0100\n"
+"Last-Translator: Daniel Sobiech <dsobiech@aer.de>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/orderManager/om_accordions.html:36
+msgid "1 result found"
+msgid_plural "({{$count}} results found)"
+msgstr[0] "1 Ergebnis gefunden"
+msgstr[1] "({{$count}} Ergebnisse gefunden)"
+
+#: app/views/orderManager/om_accordions.html:114
+#: app/views/orderManager/om_accordions.html:78
+msgid "Archive & history"
+msgstr "Archiv & Historie"
+
+#: app/views/orderManager/om_accordions.html:104
+msgid "Booking"
+msgstr "Buchung"
+
+#: app/views/orderManager/om_accordions.html:105
+msgid "Cancelled"
+msgstr "Storniert"
+
+#: app/views/orderManager/om_accordions.html:13
+msgid "Change"
+msgstr "Ändern"
+
+#: app/views/orderManager/om_accordions.html:46
+msgid "Filter"
+msgstr "Filter"
+
+#: app/views/orderManager/om_accordions.html:46
+msgid "Filter{{showLoading}}"
+msgstr "Filter{{showLoading}}"
+
+#: app/views/orderManager/om_accordions.html:16
+msgid "New Search"
+msgstr "Neue Suche"
+
+#: app/views/orderManager/om_accordions.html:35
+msgid "No results found"
+msgstr "Keine Ergebnisse gefunden"
+
+#: app/views/orderManager/om_accordions.html:117
+#: app/views/orderManager/om_accordions.html:81
+msgid "Print & email"
+msgstr "Drucken & E-Mail"
+
+#: app/views/orderManager/om_accordions.html:103
+msgid "Reservation only"
+msgstr "Nur Reservierung"
+
+#: app/views/orderManager/om_accordions.html:32
+msgid "Results"
+msgstr "Ergebnisse"
+
+#: app/views/orderManager/om_accordions.html:65
+msgid "SPNR"
+msgstr "SPNR"
+
+#: app/views/orderManager/om_accordions.html:5
+msgid "Search"
+msgstr "Suche"
+
+#: app/views/orderManager/om_accordions.html:49
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: app/views/orderManager/om_accordions.html:109
+#: app/views/orderManager/om_accordions.html:41
+#: app/views/orderManager/om_accordions.html:73
+msgid "Show"
+msgstr "Anzeigen"
+
+#: app/views/orderManager/om_accordions.html:98
+msgid "{{pnr}}"
+msgstr "{{pnr}}"
+

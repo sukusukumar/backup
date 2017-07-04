@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<script src="angular.js"></script>
+	</head>
+	<body ng-app="myApp">
+		<div ng-controller="ctrl">
+			<input type="text" ng-model="item"/>
+			<div c-dir item="item"></div>
+		</div>
+	</body>
+	<script>
+		angular.module('myApp', [])
+		.controller('ctrl', ['$scope', function($scope){
+			$scope.item = "item1";
+			console.log($scope);
+		}])
+		.directive('cDir', function(){
+			return{
+				scope: {item: '='},
+				template: '<input type="text" ng-model="item" />',
+				link: function(scope, ele, attr){
+					console.log(scope);
+					console.log(scope.item);
+				}
+			}
+		})
+	</script>
+</html>

@@ -1,0 +1,182 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Caro Eickhoff <traduction@carolei.de>, 2016. #zanata
+# Sukumar Vummadisetty <sukumar.vummadisetty@valuelabs.com>, 2016. #zanata
+# Anne Kremer <akremer@aer.de>, 2017. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2017-01-26 05:50+0100\n"
+"Last-Translator: Anne Kremer <akremer@aer.de>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: app/views/flight_search/popups/cross_selling/atmosfair.html:20
+msgid "Abort"
+msgstr "Annuler"
+
+#: app/views/flight_search/popups/cross_selling/atmosfair.html:17
+msgid "Accept"
+msgstr "Accepter"
+
+#: app/views/flight_search/accordions/additionalServices.html:18
+#: app/views/flight_search/accordions/additionalServices.html:40
+#: app/views/flight_search/accordions/additionalServices.html:64
+msgid "Add"
+msgstr "Ajouter"
+
+#: app/views/flight_search/accordions/additionalServices.html:36
+msgid "Add baggage, meals etc. to your reservation."
+msgstr "Ajouter à votre réservation des bagages, repas, etc.."
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:17
+msgid "Baggage"
+msgstr "Bagages"
+
+#: app/views/flight_search/accordions/additionalServices.html:59
+msgid "Bookable for international flights from Germany."
+msgstr ""
+"Disponible à la réservation pour des vols internationaux depuis l'Allemagne."
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:26
+msgid "Do you really want to reset all extras you previously selected"
+msgstr ""
+"Souhaitez-vous vraiment réinitialiser toute la liste d'extras que vous avez "
+"précédemment sélectionnés? "
+
+#: app/views/flight_search/accordions/additionalServices.html:19
+#: app/views/flight_search/accordions/additionalServices.html:41
+#: app/views/flight_search/accordions/additionalServices.html:63
+msgid "Edit"
+msgstr "Modifier"
+
+#: app/views/flight_search/accordions/additionalServices.html:32
+msgid "Extras & SSR/OSI"
+msgstr "Extras & SSR/OSI"
+
+#: app/views/flight_search/accordions/additionalServices.html:33
+msgid "Extras: information will follow"
+msgstr ""
+"La confirmation de la compagnie aérienne est exigée pour les réservations "
+"d’extra. Pour les extras payants, les billets et EMD doivent être émis sous "
+"24h. Les formats SSR et OSI ne sont actuellement pas pris en compte."
+
+#: app/views/flight_search/accordions/additionalServices.html:3
+msgid "Flight services"
+msgstr "Services de vol"
+
+#: app/views/flight_search/accordions/additionalServices.html:125
+msgid "Holiday Extras"
+msgstr "Suppléments vacances"
+
+#: app/views/flight_search/accordions/additionalServices.html:105
+msgid "Insurances"
+msgstr "Assurances"
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:22
+msgid "Meals_beverages"
+msgstr "Repas et boissons"
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:18
+msgid "Medical"
+msgstr "Médical"
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:19
+msgid "Misc"
+msgstr "Divers"
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:27
+msgid "No"
+msgstr "Non"
+
+#: app/views/flight_search/accordions/additionalServices.html:112
+#: app/views/flight_search/accordions/additionalServices.html:132
+#: app/views/flight_search/accordions/additionalServices.html:17
+#: app/views/flight_search/accordions/additionalServices.html:39
+#: app/views/flight_search/accordions/additionalServices.html:62
+msgid "Not available"
+msgstr "Pas disponible"
+
+#: app/views/flight_search/accordions/additionalServices.html:92
+msgid "Open"
+msgstr "Ouvrir"
+
+#: app/views/flight_search/accordions/additionalServices.html:78
+msgid "Other travel services"
+msgstr "Autres prestations de voyage"
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:21
+msgid "Pets"
+msgstr "Animaux domestiques"
+
+#: app/views/flight_search/popups/cross_selling/atmosfair.html:6
+msgid "Please note"
+msgstr "Important"
+
+#: app/views/flight_search/accordions/additionalServices.html:147
+msgid "Proceed"
+msgstr "Poursuivre"
+
+#: app/views/flight_search/accordions/additionalServices.html:14
+msgid "Reserve a chargeable or non chargeable seat."
+msgstr "Réserver un siège payant ou non payant."
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:25
+msgid "Reset all extras"
+msgstr "Réinitialiser tous les extras"
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:20
+msgid "Seat"
+msgstr "Siège"
+
+#: app/views/flight_search/accordions/additionalServices.html:11
+msgid "Seat map: information will follow"
+msgstr ""
+"La confirmation de la compagnie aérienne est exigée pour les réservations de "
+"sièges. Pour les extras payants, les EMD doivent être émis sous 24h."
+
+#: app/views/flight_search/accordions/additionalServices.html:10
+msgid "Seat reservation"
+msgstr "Réservation de siège"
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:28
+msgid "Yes, reset all extras"
+msgstr "Oui, réinitialiser extras"
+
+#: app/views/flight_search/popups/cross_selling/atmosfair.html:11
+msgid ""
+"You are leaving the booking engine and will be transferred to an external "
+"website."
+msgstr ""
+"Vous quittez le moteur de réservation et allez être transféré vers un site "
+"internet extérieur. "
+
+#: app/views/flight_search/accordions/additionalServices.html:109
+#: app/views/flight_search/accordions/additionalServices.html:129
+#: app/views/flight_search/accordions/additionalServices.html:89
+msgid "You will be transferred to an external website."
+msgstr "Vous allez être transféré vers un site internet extérieur."
+
+#: app/views/flight_search/accordions/additionalServices.html:56
+msgid "ZZF: information will follow"
+msgstr "Train pour vol : l'information est pour bientôt"
+
+#: app/views/flight_search/accordions/additionalServices.html:55
+msgid "Zug zum Flug"
+msgstr "Train+avion"
+
+#: app/views/flight_search/accordions/additionalServices.html:85
+msgid "atmosfair"
+msgstr "atmosfair"
+
+#: app/views/flight_search/accordions/additionalServices.html:86
+msgid "atmosfair: information will follow"
+msgstr ""
+"En cliquant sur le lien, vous accédez au calculateur d’émission de CO2 de "
+"l’association Atmosfair, pour la protection de l’environnement. Le site "
+"s’ouvrira dans une nouvelle page."
+

@@ -1,0 +1,213 @@
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12">
+			<header>
+				<a href="javascript:void(0)"><img src="img/benestreat-logo.png" alt="" /></a>
+			</header>
+		</div>
+	</div>
+  	<div class="row">
+		<div class="col-xs-12 col-sm-9">
+			<div class="row">
+				<div class="col-xs-12 col-sm-8">
+					<div class="datablock" ng-repeat="column in kanbanBoard.columns" data-columnindex="{{$index}}" id="column{{$index}}" ng-if="$index == 0">
+						<div class="dataheading columnHeader">{{column.name}}</div>
+						<div class="datainfo">
+							<ul class="cards card-list" as-sortable="kanbanSortOptions" ng-model="column.cards">
+								<li class="card dItem" ng-repeat="card in column.cards" as-sortable-item>
+									<div as-sortable-item-handle>{{card.title}}</div>
+								</li>
+							</ul>
+							<div class="clearfix"></div>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-4">
+					<div class="datablock" ng-repeat="column in kanbanBoard.columns" data-columnindex="{{$index}}" id="column{{$index}}" ng-if="$index == 1">
+						<div class="dataheading">{{column.name}}</div>
+						<div class="datainfo">
+							<ul class="cards card-list" as-sortable="kanbanSortOptions" ng-model="column.cards">
+								<li class="card dItem" ng-repeat="card in column.cards" as-sortable-item>
+									<div as-sortable-item-handle>{{card.title}}</div>
+								</li>
+							</ul>
+							<div class="clearfix"></div>
+						</div>							
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="datablock" ng-repeat="column in kanbanBoard.columns" data-columnindex="{{$index}}" id="column{{$index}}" ng-if="$index == 2">
+						<div class="dataheading">
+							<div class="row">
+								<div class="col-xs-12 col-sm-5"><label for="rulename">Rule Name / Alias</label><input id="rulename" class="type1" type="text" placeholder="" /></div>
+								<div class="col-xs-12 col-sm-3"><label for="ruletype">Type</label><input disabled id="ruletype" class="type2" type="text" placeholder="" value="{{destDetails[0].details}}"/></div>
+								<div class="col-xs-12 col-sm-4"><label for="rulesource">Source</label><input disabled id="rulesource"  class="type3" type="text" placeholder="" value="{{destDetails[0].details1}}"/></div>
+							</div>
+						</div>
+						<div class="datainfo">
+							<ul class="cards card-list" as-sortable="kanbanSortOptions1" ng-model="column.cards" style="min-height:80px;margin-top:20px;">
+								<li class="card dItem" ng-repeat="card in column.cards" as-sortable-item>
+									<a href="javasscript:void(0)">{{card.source}}</a>
+									<div as-sortable-item-handle>{{card.title}}<a href="javascript:void(0)" class="data-item-del" ng-click="removeCard(column, card)"></a></div>
+								</li>
+							</ul>
+							<div class="clearfix"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 text-center">
+					<a href="javascript:void(0)" class="bs-btn">Save Rule</a>
+				</div>
+			</div>	
+		</div>
+		<div class="col-xs-12 col-sm-3">
+			<div class="saved-list">
+				<div class="datablock">
+					<div class="dataheading">Lists</div>
+					<div class="datainfo">
+						<ul class="display-list">
+							<li class="">
+								<span class="list-text">Household Size</span>
+								<a href="javascript:void(0)" class="list-setting" id="setting1" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" ></a>
+								<div class="dropdown-menu" aria-labelledby="setting1">
+									<ul class="dropdown1" aria-labelledby="">
+										<li><a href="javascript:void(0)" class="list-copy">Copy</a></li>
+										<li><a href="javascript:void(0)" class="list-edit">Edit</a></li>
+										<li><a href="javascript:void(0)" class="list-delete">Delete</a></li>
+									</ul>
+								</div>
+							</li>
+							<li><span class="list-text">Income</span>
+								<a href="javascript:void(0)" class="list-setting" id="setting2" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" ></a>
+								<div class="dropdown-menu" aria-labelledby="setting2">
+									<ul class="dropdown1" aria-labelledby="">
+										<li><a href="javascript:void(0)" class="list-copy">Copy</a></li>
+										<li><a href="javascript:void(0)" class="list-edit">Edit</a></li>
+										<li><a href="javascript:void(0)" class="list-delete">Delete</a></li>
+									</ul>
+								</div>
+							</li>
+							<li><span class="list-text">Immigration Status</span>
+								<a href="javascript:void(0)" class="list-setting" id="setting4" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" ></a>
+								<div class="dropdown-menu" aria-labelledby="setting4">
+									<ul class="dropdown1" aria-labelledby="">
+										<li><a href="javascript:void(0)" class="list-copy">Copy</a></li>
+										<li><a href="javascript:void(0)" class="list-edit">Edit</a></li>
+										<li><a href="javascript:void(0)" class="list-delete">Delete</a></li>
+									</ul>
+								</div>
+							</li>
+							<li><span class="list-text">Migration Rule</span>
+								<a href="javascript:void(0)" class="list-setting" id="setting5" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" ></a>
+								<div class="dropdown-menu" aria-labelledby="setting5">
+									<ul class="dropdown1" aria-labelledby="">
+										<li><a href="javascript:void(0)" class="list-copy">Copy</a></li>
+										<li><a href="javascript:void(0)" class="list-edit">Edit</a></li>
+										<li><a href="javascript:void(0)" class="list-delete">Delete</a></li>
+									</ul>
+								</div>								
+							</li>
+							<li class="">
+								<span class="list-text">Household Size</span>
+								<a href="javascript:void(0)" class="list-setting" id="setting6" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" ></a>
+								<div class="dropdown-menu" aria-labelledby="setting6">
+									<ul class="dropdown1" aria-labelledby="">
+										<li><a href="javascript:void(0)" class="list-copy">Copy</a></li>
+										<li><a href="javascript:void(0)" class="list-edit">Edit</a></li>
+										<li><a href="javascript:void(0)" class="list-delete">Delete</a></li>
+									</ul>
+								</div>
+							</li>
+							<li><span class="list-text">Income</span>
+								<a href="javascript:void(0)" class="list-setting" id="setting7" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" ></a>
+								<div class="dropdown-menu" aria-labelledby="setting7">
+									<ul class="dropdown1" aria-labelledby="">
+										<li><a href="javascript:void(0)" class="list-copy">Copy</a></li>
+										<li><a href="javascript:void(0)" class="list-edit">Edit</a></li>
+										<li><a href="javascript:void(0)" class="list-delete">Delete</a></li>
+									</ul>
+								</div>
+							</li>
+							<li><span class="list-text">Immigration Status</span>
+								<a href="javascript:void(0)" class="list-setting" id="setting8" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" ></a>
+								<div class="dropdown-menu" aria-labelledby="setting8">
+									<ul class="dropdown1" aria-labelledby="">
+										<li><a href="javascript:void(0)" class="list-copy">Copy</a></li>
+										<li><a href="javascript:void(0)" class="list-edit">Edit</a></li>
+										<li><a href="javascript:void(0)" class="list-delete">Delete</a></li>
+									</ul>
+								</div>
+							</li>
+							<li><span class="list-text">Migration Rule</span>
+								<a href="javascript:void(0)" class="list-setting" id="setting9" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" ></a>
+								<div class="dropdown-menu" aria-labelledby="setting9">
+									<ul class="dropdown1" aria-labelledby="">
+										<li><a href="javascript:void(0)" class="list-copy">Copy</a></li>
+										<li><a href="javascript:void(0)" class="list-edit">Edit</a></li>
+										<li><a href="javascript:void(0)" class="list-delete">Delete</a></li>
+									</ul>
+								</div>								
+							</li>
+							<li><span class="list-text">Migration Rule</span>
+								<a href="javascript:void(0)" class="list-setting" id="setting10" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" ></a>
+								<div class="dropdown-menu" aria-labelledby="setting10">
+									<ul class="dropdown1" aria-labelledby="">
+										<li><a href="javascript:void(0)" class="list-copy">Copy</a></li>
+										<li><a href="javascript:void(0)" class="list-edit">Edit</a></li>
+										<li><a href="javascript:void(0)" class="list-delete">Delete</a></li>
+									</ul>
+								</div>								
+							</li>
+							<li class="">
+								<span class="list-text">Household Size</span>
+								<a href="javascript:void(0)" class="list-setting" id="setting11" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" ></a>
+								<div class="dropdown-menu" aria-labelledby="setting11">
+									<ul class="dropdown1" aria-labelledby="">
+										<li><a href="javascript:void(0)" class="list-copy">Copy</a></li>
+										<li><a href="javascript:void(0)" class="list-edit">Edit</a></li>
+										<li><a href="javascript:void(0)" class="list-delete">Delete</a></li>
+									</ul>
+								</div>
+							</li>
+							<li><span class="list-text">Income</span>
+								<a href="javascript:void(0)" class="list-setting" id="setting12" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" ></a>
+								<div class="dropdown-menu" aria-labelledby="setting12">
+									<ul class="dropdown1" aria-labelledby="">
+										<li><a href="javascript:void(0)" class="list-copy">Copy</a></li>
+										<li><a href="javascript:void(0)" class="list-edit">Edit</a></li>
+										<li><a href="javascript:void(0)" class="list-delete">Delete</a></li>
+									</ul>
+								</div>
+							</li>
+							<li><span class="list-text">Immigration Status</span>
+								<a href="javascript:void(0)" class="list-setting" id="setting13" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" ></a>
+								<div class="dropdown-menu" aria-labelledby="setting13">
+									<ul class="dropdown1" aria-labelledby="">
+										<li><a href="javascript:void(0)" class="list-copy">Copy</a></li>
+										<li><a href="javascript:void(0)" class="list-edit">Edit</a></li>
+										<li><a href="javascript:void(0)" class="list-delete">Delete</a></li>
+									</ul>
+								</div>
+							</li>
+							<li><span class="list-text">Migration Rule</span>
+								<a href="javascript:void(0)" class="list-setting" id="setting14" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" ></a>
+								<div class="dropdown-menu" aria-labelledby="setting14">
+									<ul class="dropdown1" aria-labelledby="">
+										<li><a href="javascript:void(0)" class="list-copy">Copy</a></li>
+										<li><a href="javascript:void(0)" class="list-edit">Edit</a></li>
+										<li><a href="javascript:void(0)" class="list-delete">Delete</a></li>
+									</ul>
+								</div>								
+							</li>
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

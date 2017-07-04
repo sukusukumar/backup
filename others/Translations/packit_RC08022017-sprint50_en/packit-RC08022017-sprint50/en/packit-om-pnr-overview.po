@@ -1,0 +1,599 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Bhaskar Thammali <bhaskar.thammali@valuelabs.com>, 2016. #zanata
+# Sukumar Vummadisetty <sukumar.vummadisetty@valuelabs.com>, 2016. #zanata
+# Anne Kremer <akremer@aer.de>, 2017. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2017-01-23 02:20+0100\n"
+"Last-Translator: Anne Kremer <akremer@aer.de>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:18
+#: app/views/orderManager/partials/superPnrOverView/passengerData/TSAFields.html:19
+msgid "1st given name as per passport"
+msgstr "1st given name as per passport"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:24
+#: app/views/orderManager/partials/superPnrOverView/passengerData/TSAFields.html:26
+msgid "2nd and additional given name(s) as per passport"
+msgstr "2nd and additional given name(s) as per passport"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:1
+#: app/views/orderManager/partials/superPnrOverView/passengerData/passengerDataFields.html:13
+msgid "APIS"
+msgstr "APIS"
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:24
+msgid "APIS data missing"
+msgstr "APIS data missing"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:38
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:82
+msgid "Add"
+msgstr "Add"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:56
+msgid "Add baggage, meals etc. to your reservation."
+msgstr "Add baggage, meals etc. to your reservation."
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:6
+msgid "Additional services"
+msgstr "Additional services"
+
+#: app/views/orderManager/popups/pnr/ticketorder.html:10
+msgid "Agent"
+msgstr "Agent"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightSummary.html:40
+msgid "Airline Filekey(s):"
+msgstr "Airline Filekey(s):"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:142
+msgid "Alternatives"
+msgstr "Alternatives"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:77
+msgid "Bookable for international flights from Germany."
+msgstr "Bookable for international flights from Germany."
+
+#: app/views/orderManager/accordions/pnrOverView.html:69
+msgid "Booking date"
+msgstr "Booking date"
+
+#: app/views/orderManager/partials/pnrOverView/pnrPaymentCompleted.html:41
+msgid "CC method:"
+msgstr "CC method:"
+
+#: app/views/orderManager/accordions/pnrOverView.html:118
+msgid "Cancel Booking"
+msgstr "Cancel Booking"
+
+#: app/views/orderManager/partials/pnrOverView/pnrPaymentCompleted.html:59
+msgid "Card holder:"
+msgstr "Card holder:"
+
+#: app/views/orderManager/partials/pnrOverView/pnrPaymentCompleted.html:45
+msgid "Card number:"
+msgstr "Card number:"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:65
+#: app/views/orderManager/partials/superPnrOverView/passengerData/FFNFields.html:29
+#: app/views/orderManager/partials/superPnrOverView/passengerData/TSAFields.html:39
+msgid "Confirm"
+msgstr "Confirm"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:48
+msgid "Country of issuance"
+msgstr "Country of issuance"
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:36
+msgid ""
+"Credit card data must be reentered in case of switching the credit card "
+"method."
+msgstr ""
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:93
+msgid "Current pricing:"
+msgstr "Current pricing:"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:27
+msgid "Currently stored fare"
+msgstr "Currently stored fare"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:2
+msgid "Data for the Advanced Passenger Information System."
+msgstr "Data for the Advanced Passenger Information System."
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/TSAFields.html:2
+msgid ""
+"Data for the Secure Flight Program of the Transport Security Administration "
+"of the United States of America for flights from, to, via or crossing the "
+"airspace of the USA and/or with US-American carriers."
+msgstr ""
+"Data for the Secure Flight Program of the Transport Security Administration "
+"of the United States of America for flights from, to, via or crossing the "
+"airspace of the USA and/or with US-American carriers."
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:30
+#: app/views/orderManager/partials/superPnrOverView/passengerData/TSAFields.html:33
+msgid "Date of Birth"
+msgstr "Date of birth"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:7
+msgid ""
+"Date of birth entered in APIS data does not match the date of birth entered "
+"for passenger TSA. Please verify and adjust."
+msgstr ""
+"Date of birth entered in APIS data does not match the date of birth entered "
+"for passenger TSA. Please verify and adjust."
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:6
+msgid ""
+"Date of birth entered in APIS data does not match the date of birth entered "
+"for this passenger. Please verify and adjust."
+msgstr ""
+"Date of birth entered in APIS data does not match the date of birth entered "
+"for this passenger. Please verify and adjust."
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/TSAFields.html:6
+msgid ""
+"Date of birth entered in TSA data does not match the date of birth entered "
+"for this passenger. Please verify and adjust."
+msgstr ""
+"Date of birth entered in TSA data does not match the date of birth entered "
+"for this passenger. Please verify and adjust."
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:37
+msgid "Document type"
+msgstr "Document type"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:39
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:60
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:81
+msgid "Edit"
+msgstr "Edit"
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:6
+msgid "Expired pricing"
+msgstr "Expired pricing"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:52
+msgid "Extras & SSR/OSI"
+msgstr "Extras & SSR/OSI"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:53
+msgid "Extras: information will follow"
+msgstr "Extras: information will follow"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/FFNFields.html:1
+#: app/views/orderManager/partials/superPnrOverView/passengerData/passengerDataFields.html:7
+msgid "FFN"
+msgstr "FFN"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightSummary.html:24
+#: app/views/orderManager/partials/pnrOverView/pnrFlightSummary.html:25
+msgid "Fare Family %1$s"
+msgstr "Fare Family %1$s"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:21
+msgid "Fares/pricings are only valid the same day the reservation was made."
+msgstr "Fares/pricings are only valid the same day the reservation was made."
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightCalculation.html:6
+msgid "Flight calculation"
+msgstr "Flight calculation"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightSummary.html:13
+msgid "Flight details"
+msgstr "Flight details"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:23
+msgid "Flight services"
+msgstr "Flight services"
+
+#: app/views/orderManager/partials/pnrOverView/pnrPaymentCompleted.html:30
+msgid "Form of payment"
+msgstr "Form of payment"
+
+#: app/views/orderManager/partials/pnrOverView/pnrPaymentCompleted.html:34
+msgid "Form of payment:"
+msgstr "Form of payment:"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/passengerDataFields.html:7
+msgid "Frequent Flyer Number"
+msgstr "Frequent flyer number"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/FFNFields.html:18
+msgid "Frequent flyer number"
+msgstr "Frequent flyer number"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:143
+msgid "Holiday Extras"
+msgstr "Holiday Extras"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:231
+msgid "Ignore & close reprice"
+msgstr "Ignore & close reprice"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:123
+msgid "Insurances"
+msgstr "Insurances"
+
+#: app/views/orderManager/accordions/pnrOverView.html:78
+msgid "Last modified"
+msgstr "Last modified"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:12
+#: app/views/orderManager/partials/superPnrOverView/passengerData/TSAFields.html:11
+msgid "Lastname as per passport"
+msgstr "Lastname as per passport"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightCalculation.html:23
+msgid "Less"
+msgstr "Less"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightCalculation.html:21
+msgid "Markup"
+msgstr "Markup"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:53
+msgid "Nationality"
+msgstr "Nationality"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:209
+msgid "No alternative fares available."
+msgstr "No alternative fares available."
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:17
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:206
+msgid ""
+"No alternative fares available. Please contact your service team for further "
+"details."
+msgstr ""
+"No alternative fares available. Please contact your service team for further "
+"details."
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:18
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:203
+msgid ""
+"No alternative fares available. Please contact your service team or cancel "
+"the PNR."
+msgstr ""
+"No alternative fares available. Please contact your service team or cancel "
+"the PNR."
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:130
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:150
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:37
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:59
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:80
+msgid "Not available"
+msgstr "Not available"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:42
+msgid "Number of document"
+msgstr "Number of document"
+
+#: app/views/orderManager/popups/pnr/alertPopup.html:22
+msgid "OK"
+msgstr "OK"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:110
+msgid "Open"
+msgstr "Open"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:96
+msgid "Other travel services"
+msgstr "Other travel services"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/pnrPaxSummary.html:3
+msgid "Passenger details"
+msgstr "Passenger details"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightCalculation.html:16
+msgid "Pax"
+msgstr "Pax"
+
+#: app/views/orderManager/partials/pnrOverView/pnrPaymentOpen.html:5
+msgid "Payment - open"
+msgstr "Payment - open:"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:8
+msgid "Please confirm APIS data before proceeding."
+msgstr "Please confirm APIS data before proceeding."
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/FFNFields.html:7
+msgid "Please confirm FFN data before proceeding."
+msgstr "Please confirm FFN data before proceeding."
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/TSAFields.html:7
+msgid "Please confirm TSA data before proceeding."
+msgstr "Please confirm TSA data before proceeding."
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/FFNFields.html:6
+msgid "Please enter a valid frequent flyer number (6-20 digits)."
+msgstr "Please enter a valid frequent flyer number (6-20 digits)."
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:5
+msgid "Please enter missing data"
+msgstr "Please enter missing data."
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/TSAFields.html:5
+msgid "Please enter missing data."
+msgstr "Please enter missing data."
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:23
+msgid "Please enter required APIS data before ordering your ticket."
+msgstr "Please enter required APIS data before ordering your ticket."
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:21
+msgid "Please enter required TSA data before ordering your ticket."
+msgstr "Please enter required TSA data before ordering your ticket."
+
+#: app/views/orderManager/popups/pnr/ticketorder.html:13
+msgid "Please enter your agent initials:"
+msgstr "Please enter your agent initials:"
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:35
+msgid "Please note"
+msgstr ""
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:20
+msgid "Please note:"
+msgstr "Please note:"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:222
+msgid ""
+"Please save your alternative selection by clicking on the \"Store "
+"repricing\" button"
+msgstr ""
+"Please save your alternative selection by clicking on the \"Store "
+"repricing\" button"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/FFNFields.html:5
+msgid "Please select a frequent flyer program from the list."
+msgstr "Please select a frequent flyer program from the list."
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/FFNFields.html:2
+msgid ""
+"Please select an airline/frequent flyer program from the list and enter the "
+"frequent flyer number (FFN) as printed on the card. Only those airlines "
+"offering an agreement with the validating carrier are being displayed."
+msgstr ""
+"Please select an airline/frequent flyer program from the list and enter the "
+"frequent flyer number (FFN) as printed on the card. Only those airlines "
+"offering an agreement with the validating carrier are being displayed."
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:16
+msgid ""
+"Please select one of the fares if you like to reprice the booking. Otherwise "
+"please contact your service team."
+msgstr ""
+"Please select one of the fares if you like to reprice the booking. Otherwise "
+"please contact your service team."
+
+#: app/views/orderManager/popups/pnr/history/archiveHistory.html:8
+msgid "Please wait while the Archive & History are being loaded."
+msgstr "Please wait while the Archive & History are being loaded."
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:20
+msgid "Please wait, FFN programs are loading."
+msgstr "Please wait."
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:11
+msgid "Please wait, MultiPricing is loading."
+msgstr "Please wait."
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:14
+msgid "Please wait, selected fare repricing is storing."
+msgstr "Please wait, selected fare repricing is storing."
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightCalculation.html:17
+msgid "Price"
+msgstr "Price"
+
+#: app/views/orderManager/partials/pnrOverView/pnrPaymentCompleted.html:19
+#: app/views/orderManager/partials/pnrOverView/pnrPaymentOpen.html:27
+msgid "Price details"
+msgstr "Price details"
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:8
+msgid "Pricing from"
+msgstr "Pricing from"
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:7
+msgid "Pricing from today"
+msgstr "Pricing from today"
+
+#: app/views/orderManager/accordions/pnrOverView.html:18
+msgid "Pricing is not up to date, please reprice before ticketing."
+msgstr "Pricing is not up to date, please reprice before ticketing."
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:27
+msgid ""
+"Pricing is not up to date. Please reprice for ticket order or please get in "
+"touch with your service team."
+msgstr ""
+"Pricing is not up to date. Please reprice for ticket order or please get in "
+"touch with your service team."
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/FFNFields.html:11
+msgid "Program"
+msgstr "Program"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/TSAFields.html:43
+#: app/views/orderManager/partials/superPnrOverView/passengerData/TSAFields.html:48
+msgid "Redress number"
+msgstr "Redress number"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightCalculation.html:44
+msgid "Reprice"
+msgstr "Reprice"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:14
+msgid "Repricing"
+msgstr "Repricing"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:34
+msgid "Reserve a chargeable or non chargeable seat."
+msgstr "Reserve a chargeable or non chargeable seat."
+
+#: app/views/orderManager/accordions/pnrOverView.html:123
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:234
+msgid "Rules"
+msgstr "Rules"
+
+#. translation for 'saving' in price table of order manager pnr page
+#: app/views/orderManager/partials/pnrOverView/pnrFlightCalculation.html:19
+msgid "Saving_priceTable"
+msgstr "Saving"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:31
+msgid "Seat map: information will follow"
+msgstr "Seat map: information will follow"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:30
+msgid "Seat reservation"
+msgstr "Seat reservation"
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:31
+msgid "Segment status change"
+msgstr "Segment status change"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightCalculation.html:24
+msgid "Show more"
+msgstr "Show more"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:228
+msgid "Store repricing"
+msgstr "Store repricing"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightSummary.html:35
+msgid "TKTL"
+msgstr "TKTL"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/TSAFields.html:1
+#: app/views/orderManager/partials/superPnrOverView/passengerData/passengerDataFields.html:10
+msgid "TSA"
+msgstr "TSA"
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:22
+msgid "TSA data missing"
+msgstr "TSA data missing"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightCalculation.html:18
+msgid "Tax"
+msgstr "Tax"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/TSAFields.html:44
+msgid ""
+"The redress number is a 7 digit number provided by the Department of "
+"Homeland Security under there Traveler Redress Inquiry Program (TRIP). If a "
+"traveler already has a redress number e.g. due to watch list issues, "
+"screening problems at ports of entry or any other difficulties, it can be "
+"provided here."
+msgstr ""
+"The redress number is a 7 digit number provided by the Department of "
+"Homeland Security under there Traveler Redress Inquiry Program (TRIP). If a "
+"traveler already has a redress number e.g. due to watch list issues, "
+"screening problems at ports of entry or any other difficulties, it can be "
+"provided here."
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:17
+msgid "The repricing has failed. Please retry or contact your service team."
+msgstr "The repricing has failed. Please retry or contact your service team."
+
+#: app/views/orderManager/accordions/pnrOverView.html:115
+#: app/views/orderManager/popups/pnr/ticketorder.html:22
+msgid "Ticket order"
+msgstr "Ticket order"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightCalculation.html:20
+msgid "Tkt-fee"
+msgstr "Tkt-fee"
+
+#: app/views/orderManager/accordions/pnrOverView.html:89
+#: app/views/orderManager/partials/pnrOverView/pnrFlightCalculation.html:50
+msgid "Total:"
+msgstr "Total:"
+
+#: app/views/orderManager/accordions/pnrOverView.html:59
+msgid "Travel dates"
+msgstr "Travel dates"
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:32
+msgid ""
+"Unfortunately at least one of your flight segments have been cancelled by "
+"the airline, please urgently contact your service team for assistance."
+msgstr ""
+"Unfortunately at least one of your flight segments have been cancelled by "
+"the airline. Please urgently contact your service team for assistance."
+
+#: app/scripts/constants/orderManager/om_pnr_overview_constants.js:5
+msgid "Valid pricing"
+msgstr "Valid pricing"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/APISFields.html:58
+msgid "Validity"
+msgstr "Validity"
+
+#: app/views/orderManager/partials/pnrOverView/pnrPaymentCompleted.html:49
+msgid "Validity:"
+msgstr "Validity:"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:127
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:147
+msgid "You will be transferred to an exteranl website."
+msgstr "You will be transferred to an exteranl website."
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:107
+msgid "You will be transferred to an external website."
+msgstr "You will be transferred to an external website."
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:74
+msgid "ZZF: information will follow"
+msgstr "ZZF: information will follow"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:73
+msgid "Zug zum Flug"
+msgstr "Zug zum Flug"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightSummary.html:53
+msgid "Zum zug Flug"
+msgstr "Zum zum Flug"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:103
+msgid "atmosfair"
+msgstr "atmosfair"
+
+#: app/views/orderManager/partials/pnrOverView/additionalServices.html:104
+msgid "atmosfair: information will follow"
+msgstr "atmosfair: information will follow"
+
+#: app/views/orderManager/partials/superPnrOverView/passengerData/FFNFields.html:33
+msgid "close and ignore"
+msgstr "Close and ignore"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:146
+msgid "left arrow"
+msgstr "left arrow"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightSummary.html:52
+msgid "offered and invoiced by"
+msgstr "offered and invoiced by"
+
+#: app/views/orderManager/partials/pnrOverView/pnrPaymentCompleted.html:5
+msgid "payment - completed"
+msgstr "payment - completed"
+
+#: app/views/orderManager/partials/pnrOverView/pnrFlightRepricing.html:149
+msgid "right arrow"
+msgstr "right arrow"
+

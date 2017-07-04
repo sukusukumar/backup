@@ -1,0 +1,28 @@
+<html>
+	<body>
+		<script>
+			var loginData = {
+				loginName: "158999",
+				password: "anne2016!",
+				serverName: "aerpackit"
+			};
+			var parsed = JSON.stringify(loginData);
+			
+			console.log(parsed);
+			
+			var xhttp = new XMLHttpRequest();
+			
+			xhttp.open("POST", "https://aerpackitpreproduction.flightconex.de/redbox/api/clientSession", true);
+			
+			xhttp.setRequestHeader("Content-type", "application/json");
+			
+			xhttp.send(parsed);
+			
+			xhttp.onreadystatechange = function () {
+				if (xhttp.readyState == 4) {
+					console.log(xhttp);
+				}
+			}
+		</script>
+	</body>
+</html>

@@ -1,0 +1,425 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Daniel Sobiech <dsobiech@aer.de>, 2016. #zanata
+# Marko Vitense <marko.vitense@fti.de>, 2016. #zanata
+# Patrick Krause <pkrause@aer.de>, 2016. #zanata
+# Sukumar Vummadisetty <sukumar.vummadisetty@valuelabs.com>, 2016. #zanata
+# Uta Burkert <uta.burkert@fti.de>, 2016. #zanata
+# Anne Kremer <akremer@aer.de>, 2017. #zanata
+# Daniel Sobiech <dsobiech@aer.de>, 2017. #zanata
+# Sukumar Vummadisetty <sukumar.vummadisetty@valuelabs.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2017-01-26 04:02+0100\n"
+"Last-Translator: Anne Kremer <akremer@aer.de>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/global/travelDatepicker.html:2
+msgid "1 Day"
+msgid_plural "{{$count}} Days"
+msgstr[0] "1 Tag"
+msgstr[1] "{{$count}} Tage"
+
+#: app/scripts/constants/global_constants.js:81
+msgid "1st class"
+msgstr "1. Klasse"
+
+#: app/scripts/constants/global_constants.js:80
+msgid "2nd class"
+msgstr "2. Klasse"
+
+#: app/scripts/constants/global_constants.js:90
+msgid "Abort"
+msgstr "Abbrechen"
+
+#: app/scripts/constants/global_constants.js:6
+msgid "Aerticket - Book now"
+msgstr "BookNow"
+
+#: app/views/common/popups/agentInitials.html:6
+msgid "Agent"
+msgstr "Expedient"
+
+#: app/views/common/popups/agentInitials.html:13
+msgid "Agent:"
+msgstr "Expedient:"
+
+#: app/scripts/constants/global_constants.js:91
+msgid "An unexpected error has occured. Please retry later."
+msgstr ""
+"Ein unerwarteter Fehler ist aufgetreten. Bitte veruchen Sie es erneut oder "
+"wenden Sie sich an Ihr Serviceteam."
+
+#: app/scripts/constants/global_constants.js:27
+msgid "Apr"
+msgstr "Apr"
+
+#: app/scripts/constants/global_constants.js:13
+msgid "April"
+msgstr "April"
+
+#: app/scripts/constants/global_constants.js:31
+msgid "Aug"
+msgstr "Aug"
+
+#: app/scripts/constants/global_constants.js:17
+msgid "August"
+msgstr "August"
+
+#: app/scripts/constants/global_constants.js:4
+msgid "Back To Top"
+msgstr "Zum Seitenanfang"
+
+#: app/scripts/constants/global_constants.js:85
+msgid "Blacklist"
+msgstr "Blacklist"
+
+#: app/views/common/partials/bookingPriceDetails.html:10
+#: app/views/common/partials/bookingPriceDetails.html:11
+#: app/views/common/partials/bookingPriceDetails.html:12
+msgid "CC fee %s"
+msgstr "CC fee %s"
+
+#: app/views/common/popups/information_popup.html:13
+#: app/views/common/popups/information_popup.html:33
+#: app/views/common/popups/message_popup.html:14
+msgid "Code:"
+msgstr "Code:"
+
+#: app/scripts/constants/global_constants.js:5
+#: app/views/global/datepicker.html:5
+msgid "Date"
+msgstr "Datum"
+
+#: app/scripts/constants/global_constants.js:35
+msgid "Dec"
+msgstr "Dez"
+
+#: app/scripts/constants/global_constants.js:21
+msgid "December"
+msgstr "Dezember"
+
+#: app/views/common/popups/information_popup.html:19
+#: app/views/common/popups/information_popup.html:39
+#: app/views/common/popups/message_popup.html:20
+msgid "Description:"
+msgstr "Beschreibung:"
+
+#: app/views/common/popups/information_popup.html:25
+#: app/views/common/popups/information_popup.html:45
+#: app/views/common/popups/message_popup.html:26
+msgid "Detailed Message:"
+msgstr "Detailbeschreibung:"
+
+#: app/scripts/constants/global_constants.js:88
+msgid "Error"
+msgstr "Fehler"
+
+#: app/views/common/partials/bookingPriceDetails.html:9
+msgid "Extras"
+msgstr "Extras"
+
+#: app/scripts/constants/global_constants.js:25
+msgid "Feb"
+msgstr "Feb"
+
+#: app/scripts/constants/global_constants.js:11
+msgid "February"
+msgstr "Februar"
+
+#: app/scripts/constants/global_constants.js:61
+msgid "Fr"
+msgstr "Fr"
+
+#: app/scripts/constants/global_constants.js:52
+msgid "Fri"
+msgstr "Fr."
+
+#: app/scripts/constants/global_constants.js:43
+msgid "Friday"
+msgstr "Freitag"
+
+#: app/views/login/login.html:42
+msgid "If the error remains please log out from cockpit and log in again."
+msgstr ""
+"Falls der Fehler weiterhin besteht, bitte aus Cockpit ausloggen und neu "
+"einloggen."
+
+#: app/scripts/constants/global_constants.js:24
+msgid "Jan"
+msgstr "Jan"
+
+#: app/scripts/constants/global_constants.js:10
+msgid "January"
+msgstr "Januar"
+
+#: app/scripts/constants/global_constants.js:30
+msgid "Jul"
+msgstr "Jul"
+
+#: app/scripts/constants/global_constants.js:16
+msgid "July"
+msgstr "Juli"
+
+#: app/scripts/constants/global_constants.js:29
+msgid "Jun"
+msgstr "Jun"
+
+#: app/scripts/constants/global_constants.js:15
+msgid "June"
+msgstr "Juni"
+
+#: app/views/common/partials/bookingPriceDetails.html:18
+msgid "Less"
+msgstr "weniger"
+
+#: app/views/login/login.html:10
+#: app/views/login/login.html:30
+msgid "Login"
+msgstr "Login"
+
+#: app/scripts/constants/global_constants.js:26
+msgid "Mar"
+msgstr "Mrz"
+
+#: app/scripts/constants/global_constants.js:12
+msgid "March"
+msgstr "März"
+
+#: app/views/common/partials/bookingPriceDetails.html:15
+msgid "Markup"
+msgstr "Entgelt"
+
+#: app/scripts/constants/global_constants.js:14
+#: app/scripts/constants/global_constants.js:28
+msgid "May"
+msgstr "Mai"
+
+#: app/scripts/constants/global_constants.js:57
+msgid "Mo"
+msgstr "Mo"
+
+#: app/scripts/constants/global_constants.js:48
+msgid "Mon"
+msgstr "Mo."
+
+#: app/scripts/constants/global_constants.js:39
+msgid "Monday"
+msgstr "Montag"
+
+#: app/scripts/constants/global_constants.js:7
+msgid "N/A"
+msgstr "N/A"
+
+#: app/views/common/partials/aerFlightLeg.html:119
+#: app/views/common/partials/aerFlightLeg.html:126
+msgid "No baggage included"
+msgstr "Kein Freigepäck enthalten"
+
+#: app/views/common/partials/aerFlightLeg.html:120
+#: app/views/common/partials/aerFlightLeg.html:127
+msgid "No baggage information available"
+msgstr "Keine Gepäckinformation verfügbar"
+
+#: app/scripts/constants/global_constants.js:34
+msgid "Nov"
+msgstr "Nov"
+
+#: app/scripts/constants/global_constants.js:20
+msgid "November"
+msgstr "November"
+
+#: app/views/common/popups/agentInitials.html:31
+msgid "OK"
+msgstr "OK"
+
+#: app/scripts/constants/global_constants.js:33
+msgid "Oct"
+msgstr "Okt"
+
+#: app/scripts/constants/global_constants.js:19
+msgid "October"
+msgstr "Oktober"
+
+#: app/scripts/constants/global_constants.js:89
+msgid "Ok"
+msgstr "OK"
+
+#: app/views/login/login.html:26
+#: app/views/login/login.html:27
+msgid "Password"
+msgstr "Passwort"
+
+#: app/views/common/partials/bookingPriceDetails.html:4
+msgid "Pax"
+msgstr "Passagier"
+
+#: app/views/common/popups/agentInitials.html:24
+msgid "Pay & order"
+msgstr "Tickets bestellen"
+
+#: app/views/login/login.html:19
+msgid "Please check the Username and password."
+msgstr "Bitte prüfen Sie den Benutzernamen und das Passwort."
+
+#: app/views/login/login.html:16
+msgid "Please login"
+msgstr "Bitte loggen Sie sich ein."
+
+#: app/views/common/partials/bookingPriceDetails.html:5
+msgid "Price"
+msgstr "Preis"
+
+#: app/views/common/partials/bookingPriceDetails.html:6
+msgid "Price Incl. ZZF"
+msgstr "Preis inkl. ZzF"
+
+#: app/views/login/login.html:43
+msgid "Reload browser window"
+msgstr "Browserfenster neu laden"
+
+#: app/views/common/popups/agentInitials.html:25
+msgid "Reservation only"
+msgstr "Nur Reservierung"
+
+#: app/scripts/constants/global_constants.js:62
+msgid "Sa"
+msgstr "Sa"
+
+#: app/scripts/constants/global_constants.js:53
+msgid "Sat"
+msgstr "Sa."
+
+#: app/scripts/constants/global_constants.js:44
+msgid "Saturday"
+msgstr "Samstag"
+
+#: app/views/common/popups/agentInitials.html:26
+msgid "Save payment"
+msgstr "Zahlung speichern"
+
+#. translation for 'saving' in price table of payment and confirmation pages
+#: app/views/common/partials/bookingPriceDetails.html:13
+msgid "Saving_priceTablePayment"
+msgstr "Ersparnis"
+
+#: app/views/common/partials/bookingPriceDetails.html:8
+msgid "Seats"
+msgstr "Sitzplätze"
+
+#: app/scripts/constants/global_constants.js:32
+msgid "Sep"
+msgstr "Sep"
+
+#: app/scripts/constants/global_constants.js:18
+msgid "September"
+msgstr "September"
+
+#: app/views/common/partials/bookingPriceDetails.html:17
+msgid "Show more"
+msgstr "mehr"
+
+#: app/scripts/constants/global_constants.js:56
+msgid "Su"
+msgstr "So"
+
+#: app/scripts/constants/global_constants.js:47
+msgid "Sun"
+msgstr "So."
+
+#: app/scripts/constants/global_constants.js:38
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: app/views/common/partials/bookingPriceDetails.html:7
+msgid "Tax"
+msgstr "Tax"
+
+#: app/scripts/constants/global_constants.js:60
+msgid "Th"
+msgstr "Do"
+
+#: app/scripts/constants/global_constants.js:51
+msgid "Thu"
+msgstr "Do."
+
+#: app/scripts/constants/global_constants.js:42
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: app/scripts/constants/global_constants.js:93
+msgid "Ticket time limit"
+msgstr "Ticketfrist"
+
+#: app/views/common/partials/bookingPriceDetails.html:14
+msgid "Tkt-fee"
+msgstr "Tkt.-Entgelt"
+
+#: app/views/common/partials/aerFlightLeg.html:105
+msgid "Total Travel Time"
+msgstr "Gesamtreisezeit"
+
+#: app/views/common/partials/bookingPriceDetails.html:67
+msgid "Total:"
+msgstr "Gesamt:"
+
+#: app/views/common/partials/aerFlightLeg.html:103
+msgid "Transfer in"
+msgstr "Transfer in"
+
+#: app/scripts/constants/global_constants.js:58
+msgid "Tu"
+msgstr "Di"
+
+#: app/scripts/constants/global_constants.js:49
+msgid "Tue"
+msgstr "Di."
+
+#: app/scripts/constants/global_constants.js:40
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: app/views/login/login.html:41
+msgid "Unfortunately an error occurred. Please reload your browser window."
+msgstr "Es ist ein Fehler aufgetreten. Bitte das Browserfenster neu laden."
+
+#: app/views/login/login.html:22
+#: app/views/login/login.html:23
+msgid "User Name"
+msgstr "Benutzername"
+
+#: app/scripts/constants/global_constants.js:59
+msgid "We"
+msgstr "Mi"
+
+#: app/scripts/constants/global_constants.js:50
+msgid "Wed"
+msgstr "Mi."
+
+#: app/scripts/constants/global_constants.js:41
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: app/scripts/constants/global_constants.js:84
+msgid "Whitelist"
+msgstr "Whitelist"
+
+#: app/views/common/partials/selectedFares.html:39
+#: app/views/common/partials/selectedFares.html:8
+msgid "Zug zum Flug"
+msgstr "Zug zum Flug"
+
+#: app/scripts/constants/global_constants.js:65
+msgid "next date"
+msgstr "nächstes Datum"
+
+#: app/scripts/constants/global_constants.js:64
+msgid "prev date"
+msgstr "Vorheriges Datum"
+

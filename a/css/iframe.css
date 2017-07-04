@@ -1,0 +1,136 @@
+/* defining special fonts
+----------------------------------------------------------*/
+@font-face {				/*defines  - OpenSans-Semibold font*/
+	font-family: "OpenSans-Semibold";
+	src: url('../fonts/OpenSans-Semibold.eot');
+	src: url('../fonts/OpenSans-Semibold.eot?#iefix') format('embedded-opentype'), 
+	url('../fonts/OpenSans-Semibold.woff') format('woff'), 
+	url('../fonts/OpenSans-Semibold.ttf') format('truetype');
+}
+/* complete layout specific styles are defined in this file
+----------------------------------------------------------*/
+body {
+	font-family: "OpenSans-Semibold";
+	margin:0px;
+	padding:0px;
+}
+.containerMain iframe {
+	position: absolute;
+	top: 50% ;
+	left: 50% ;
+	border: none;
+	background: none;
+	margin: 0px;
+	padding: 0px;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+	z-index: 9999;
+}
+.containerMain {
+	/*background-color: lightyellow;
+	border: 1px solid black;
+	padding: 10px; 
+	-webkit-border-radius: 10px; 
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	display: table!important;*/
+	float:left;
+}
+.containerMain div[class ^= "field"] {
+	position: relative!important;
+}
+.containerMain div {
+	/*display: inline;*/
+	margin: 0;
+	padding: 0;
+}
+.containerMain div[class ^= "containerRow"] {
+	float:left;
+	margin: 0px 11px 0px 0px;
+	/*display: table-row;*/
+}
+.containerMain div[class ^= "containerRowM"] {
+	margin: 0px 5px 0px 0px;
+}
+.containerMain div[class ^= "fieldCell"],
+.containerMain div[class ^= "preCell"],
+.containerMain div[class ^= "postCell"] {
+	/*display: table-cell;*/
+	color: #94999c;
+	font-size: 10px;
+	line-height: 18px;
+}
+.containerMain div[class ^= "post"] {
+	visibility: hidden;
+}
+.containerMain .fieldCellP {
+	width: 211px;
+}
+.containerMain .fieldCellM {
+	width: 46px;
+}
+.containerMain .fieldCellY{
+	width: 60px;
+}
+.containerMain .fieldCellV{
+	width: 44px;
+}
+.containerMain .fieldCellH{
+	width: 284px;
+}
+.containerMain input[class ^= "field"] {
+	width: 100% ;
+	margin: 2px;
+}
+
+.containerMain input[type = "text"] {
+	 background-color: #fefefe;
+    border: 1px solid #bababa;
+    border-radius: 2px;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2) inset;
+    color: #2895d8;
+    float: left;
+    height: 33px;
+    line-height: 33px;
+    margin: 0;
+    padding: 0 7px;
+    text-align: left;
+	box-sizing: border-box;
+	font-size: 12px;
+	font-family: "OpenSans-Semibold";
+}
+
+.preCellP:before {
+	content: "Card Number: ";
+}
+.preCellM:before {
+	content: "Validity: ";
+}
+.preCellY:before {
+	content: "\00a0";
+}.preCellV:before {
+	content: "CVC: ";
+	
+}.preCellH:before {
+	content: "Card Holder: ";
+}
+.preCellP:after, .preCellM:after, .preCellV:after, .preCellH:after {
+	content: "* ";
+	color:red;
+	font-size: 14px;
+}
+/*.preCellP:before {
+	content: "Creditcard Number: ";
+}.preCellM:before {
+	content: "Expiration Month: ";
+}.preCellY:before {
+	content: "Expiration Year: ";
+}.preCellV:before {
+	content: "CVC/CVV: ";
+}.preCellH:before {
+	content: "Creditcard Holder: ";
+}*/
+.invalid {
+	background-color: rgb(255, 150, 100) !important;
+}

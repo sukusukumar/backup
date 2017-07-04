@@ -1,0 +1,29 @@
+<ion-modal-view>
+  <ion-header-bar>
+		<button class="button icon ion-arrow-left-a" ng-click="closeLogin()"></button>
+    <h1 class="title">{{'Welcome ' + userType}}</h1>
+  </ion-header-bar>
+  <ion-content>
+    <form name="loginForm">
+      <div class="list">
+        <label class="item item-input item-floating-label">
+          <span class="input-label">Username</span>
+          <input type="text" placeholder="Username" ng-model="loginData.userName" name="userName" ng-required="true" ng-readonly="userType == 'admin'"></input>
+        </label>
+				<div class="form-errors" ng-if="loginSubmitted && loginForm.userName.$invalid">
+          <div class="form-error">This field is mandatory</div>
+        </div>
+        <label class="item item-input item-floating-label no-top-border">
+          <span class="input-label">Password</span>
+          <input type="password" placeholder="Password" ng-model="loginData.password" name="password" ng-required="true"></input>
+        </label>
+				<div class="form-errors" ng-if="loginSubmitted && loginForm.password.$invalid">
+          <div class="form-error">This field is mandatory</div>
+        </div>
+        <label class="item" ng-class="{'no-top-border': loginSubmitted && loginForm.password.$invalid}">
+          <button class="button button-block button-positive" type="submit" ng-click="doLogin(loginForm, loginData)">Log in</button>
+        </label>
+      </div>
+    </form>
+  </ion-content>
+</ion-modal-view>

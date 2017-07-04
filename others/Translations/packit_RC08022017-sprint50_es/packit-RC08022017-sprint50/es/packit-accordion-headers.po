@@ -1,0 +1,95 @@
+# Jose Oliver <joliver@aerticket.es>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-12-09 10:11+0100\n"
+"Last-Translator: Jose Oliver <joliver@aerticket.es>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/flight_search/accordions.html:104
+msgid "Additional services"
+msgstr "Extras"
+
+#: app/views/flight_search/accordions.html:78
+msgid "Alternatives"
+msgstr "Alternativas"
+
+#: app/views/flight_search/accordions.html:28
+msgid "Calendar matrix"
+msgstr "Calendario"
+
+#: app/views/flight_search/accordions.html:14
+msgid "Change"
+msgstr "Cambio"
+
+#: app/views/flight_search/accordions.html:61
+msgid "Collapse all"
+msgstr "Contraer todo"
+
+#: app/views/flight_search/accordions.html:91
+msgid "Details / Passenger Data"
+msgstr "Detalles / Datos de pasajero"
+
+#: app/views/flight_search/accordions.html:60
+msgid "Expand all"
+msgstr "Expandir todo"
+
+#: app/views/flight_search/accordions.html:17
+msgid "New Search"
+msgstr "Nueva búsqueda"
+
+#: app/views/flight_search/accordions.html:117
+msgid "Payment"
+msgstr "Pago"
+
+#: app/views/flight_search/accordions.html:124
+msgid "Print & e-mail"
+msgstr "Imprimir y enviar"
+
+#: app/views/flight_search/accordions.html:42
+msgid "Results"
+msgstr "Resultados"
+
+#: app/views/flight_search/accordions.html:5
+msgid "Search"
+msgstr "Buscar"
+
+#: app/views/flight_search/accordions.html:107
+#: app/views/flight_search/accordions.html:121
+#: app/views/flight_search/accordions.html:31
+#: app/views/flight_search/accordions.html:51
+#: app/views/flight_search/accordions.html:81
+#: app/views/flight_search/accordions.html:94
+msgid "Show"
+msgstr "Mostrar"
+
+#: app/views/flight_search/accordions.html:57
+msgid "Show calendar matrix"
+msgstr "Mostrar calendario"
+
+#: app/views/flight_search/accordions.html:46
+msgid "{{numberOfResults}} Result with {{numberOfAirlines}} Airline found"
+msgid_plural ""
+"{{numberOfResults}} Results with {{numberOfAirlines}} Airline found"
+msgstr[0] ""
+"{{numberOfResults}} resultado con {{numberOfAirlines}} Aerolínea encontrada"
+msgstr[1] ""
+"{{numberOfResults}} resultados con {{numberOfAirlines}} Aerolínea encontrada"
+
+#: app/views/flight_search/accordions.html:45
+msgid "{{numberOfResults}} Result with {{numberOfAirlines}} Airlines found"
+msgid_plural ""
+"{{numberOfResults}} Results with {{numberOfAirlines}} Airlines found"
+msgstr[0] ""
+"{{numberOfResults}} resultado con {{numberOfAirlines}} Aerolíneas "
+"encontradas"
+msgstr[1] ""
+"{{numberOfResults}} resultados con {{numberOfAirlines}} Aerolíneas "
+"encontradas"
+

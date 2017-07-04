@@ -1,0 +1,17 @@
+<html>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script>
+	<body ng-app="aApp">
+		<div ng-controller="ctrl1"></div>
+		<div ng-controller="ctrl2"></div>
+		<div ng-controller="ctrl3"></div>
+	</body>
+	<script>
+		var app = angular.module('aApp', ['fhs']);
+		app.controller('ctrl1', ['$scope', function ($scope) {
+			
+		}])
+		app.service('service1', function() {
+			
+		})
+	</script>
+</html>

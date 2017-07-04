@@ -1,0 +1,188 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Chari Prima <rprima@aerticket.es>, 2016. #zanata
+# Jose Oliver <joliver@aerticket.es>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-12-15 09:28+0100\n"
+"Last-Translator: Anne Kremer <akremer@aer.de>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/orderManager/accordions/results.html:7
+msgid "0 Bookings found."
+msgstr "0 Reservas encontradas."
+
+#: app/scripts/constants/orderManager/om_results_constants.js:69
+msgid "Agent"
+msgstr "Agente"
+
+#: app/scripts/constants/orderManager/om_results_constants.js:37
+msgid "Airline"
+msgstr "Aerolínea"
+
+#: app/views/orderManager/accordions/results.html:123
+#: app/views/orderManager/accordions/results.html:151
+msgid "All items can be rearranged by drag & drop."
+msgstr "Todos los artículos se pueden reorganizar arrastrando y soltando."
+
+#: app/scripts/constants/orderManager/om_results_constants.js:326
+msgid ""
+"An unexpected error has occured. Please retry your operation or contact your "
+"service team."
+msgstr ""
+"Un error inesperado ha ocurrido. Por favor vuelva a intentar la operación o "
+"póngase en contacto con el servicio de atención al cliente."
+
+#: app/scripts/constants/orderManager/om_results_constants.js:57
+msgid "BKG Date"
+msgstr "Fecha de reserva"
+
+#: app/views/orderManager/accordions/results.html:145
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: app/views/orderManager/accordions/results.html:124
+#: app/views/orderManager/accordions/results.html:152
+msgid "Click on any star to personalize your columns."
+msgstr "Haga click sobre cualquier estrella para personalizar sus columnas"
+
+#: app/scripts/constants/orderManager/om_results_constants.js:41
+msgid "Departure"
+msgstr "Salida"
+
+#: app/scripts/constants/orderManager/om_results_constants.js:61
+msgid "Fare"
+msgstr "Tarifa"
+
+#: app/scripts/constants/orderManager/om_results_constants.js:85
+msgid "Farebase"
+msgstr "Base tarifaria"
+
+#: app/scripts/constants/orderManager/om_results_constants.js:45
+msgid "From"
+msgstr "Desde"
+
+#: app/scripts/constants/orderManager/om_results_constants.js:77
+msgid "GDS"
+msgstr "GDS"
+
+#: app/scripts/constants/orderManager/om_results_constants.js:25
+msgid "Locator"
+msgstr "Localizador"
+
+#: app/scripts/constants/orderManager/om_results_constants.js:29
+msgid "Name(s)"
+msgstr "Nombre(s)"
+
+#: app/views/orderManager/accordions/results.html:92
+msgid "No. of results per page"
+msgstr ""
+
+#: app/scripts/constants/orderManager/om_results_constants.js:65
+msgid "Notes"
+msgstr "Notas"
+
+#: app/views/orderManager/accordions/results.html:98
+msgid "Page"
+msgstr ""
+
+#: app/scripts/constants/orderManager/om_results_constants.js:323
+msgid "Please wait while we update the results."
+msgstr "Por favor espere mientras actualizamos los resultados"
+
+#: app/scripts/constants/orderManager/om_results_constants.js:53
+msgid "Price"
+msgstr "Precio"
+
+#: app/scripts/constants/orderManager/om_results_constants.js:81
+msgid "Product"
+msgstr "Producto"
+
+#: app/views/orderManager/accordions/results.html:81
+msgid "Results found"
+msgstr ""
+
+#: app/scripts/constants/orderManager/om_results_constants.js:73
+#: app/views/orderManager/accordions/results.html:8
+msgid "Return"
+msgstr "Volver"
+
+#: app/scripts/constants/orderManager/om_results_constants.js:21
+msgid "SPNR"
+msgstr "SPNR"
+
+#: app/views/orderManager/accordions/results.html:144
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: app/views/orderManager/accordions/results.html:113
+msgid "Settings"
+msgstr "Ajustes"
+
+#: app/views/orderManager/partials/results/columns/tktl.html:4
+msgid "TKT ordered"
+msgstr "TKT solicitado"
+
+#: app/scripts/constants/orderManager/om_results_constants.js:33
+msgid "TKTL"
+msgstr "TKTL"
+
+#: app/scripts/constants/orderManager/om_results_constants.js:49
+msgid "To"
+msgstr "A"
+
+#: app/views/orderManager/accordions/results.html:64
+msgid "archived"
+msgstr ""
+
+#: app/views/orderManager/accordions/results.html:73
+msgid "cancel"
+msgstr "cancelar"
+
+#: app/views/orderManager/accordions/results.html:46
+#: app/views/orderManager/partials/results/columns/tktl.html:3
+msgid "cancelled"
+msgstr "cancelado"
+
+#: app/views/orderManager/partials/results/columns/agentNotes.html:2
+msgid "enter text here"
+msgstr "Introducir texto aquí"
+
+#: app/views/orderManager/partials/results/columns/agentNotes.html:1
+msgid "enter text here..."
+msgstr "introducir texto aquí..."
+
+#: app/views/orderManager/accordions/results.html:55
+msgid "issued"
+msgstr ""
+
+#: app/views/orderManager/accordions/results.html:28
+msgid "open bookings"
+msgstr ""
+
+#: app/views/orderManager/accordions/results.html:19
+msgid "open orders"
+msgstr ""
+
+#: app/views/orderManager/accordions/results.html:74
+msgid "search"
+msgstr "buscar"
+
+#: app/views/orderManager/partials/results/columns/tktl.html:5
+msgid "ticketed"
+msgstr "emitido"
+
+#: app/views/orderManager/accordions/results.html:9
+msgid "to previous results."
+msgstr "ir a resultados anteriores"
+
+#: app/views/orderManager/partials/results/columns/tktl.html:8
+msgid "unknown"
+msgstr "desconocido"
+

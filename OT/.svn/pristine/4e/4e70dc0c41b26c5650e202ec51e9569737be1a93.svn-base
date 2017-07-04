@@ -1,0 +1,229 @@
+<html>
+<div class="maincontainer" style="padding:15px">
+		<div class="maincontent"     style="margin-left: 0px;">
+			<div class="container-fluid">
+				<div class="ot-deviceData" style="max-width:100%;">
+					
+					<div class="tab-content">
+					  <div id="devices" class="tab-pane fade in active">
+						<div class="orchestra_devices_table" style="height:500px">
+						<div class="row">
+							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="max-width:100%">
+								<div class="device-table">
+								
+								<div style="width:100%;height:50px;background-color:#d7dfec">
+									
+								</div>
+								
+								<div id="tables" style="width:100%;position:relative;margin-top:10px">	
+									
+									<div class="table-responsive" style="width:38%;height:200px;float:left;">
+										<table class="table">
+											<thead>
+												<tr>
+													
+													<th>Files <span class="caret"></span></th>
+													<th>Exe Cmds <span class="caret"></span></th>
+													<th>Files <span class="caret"></span></th>
+													<th>Exe Cmds <span class="caret"></span></th>
+													
+												</tr>
+												
+											</thead>
+											<tbody style="max-height:500px">
+												
+											</tbody>
+										</table>
+									</div>
+									
+									<div class="table-responsive" style="width:18%;height:200px;float:left;margin-left:25px;">
+										<table class="table">
+											<thead>
+												<tr>
+													
+													<th>Device Name <span class="caret"></span></th>
+													
+												</tr>
+												<tr>
+													
+													<th><label class="hide" for="deviceName">Device Name</label><input type="text" class="device_col_search" id="deviceName" name="deviceName"></th>
+												</tr>
+											</thead>
+											<tbody style="max-height:500px">
+												<tr>
+													
+													
+													<td>Unknown</td>
+													
+												</tr>
+												<tr>
+													
+													
+													<td>Unknown</td>
+													
+												</tr>
+												<tr>
+													
+												
+													<td>Unknown</td>
+													
+												</tr>
+												<tr>
+													
+													
+													<td>Unknown</td>
+													
+												</tr>
+												<tr>
+													
+													
+													<td>Unknown</td>
+													
+												</tr>
+												<tr>
+													
+													
+													<td>Unknown</td>
+												
+												</tr>
+												<tr>
+													
+												
+													<td>Unknown</td>
+													
+												</tr>
+												<tr>
+													
+													
+													<td>Unknown</td>
+											
+												</tr>
+												<tr>
+													
+													
+													<td>Unknown</td>
+												
+												</tr>
+												<tr>
+													
+													
+													<td>Unknown</td>
+												
+												</tr>
+												<tr>
+													
+													
+													<td>Unknown</td>
+												
+												</tr>
+											</tbody>
+										</table>
+									</div>	
+									
+									
+								<div class="table-responsive" style="width:38%;height:200px;float:left;margin-left:25px;">
+										<table class="table">
+											<thead>
+												<tr>
+													
+													<th>Device ID <span class="caret"></span></th>
+													<th>Device Name <span class="caret"></span></th>
+													
+												</tr>
+												<tr>
+													
+													<th><label class="hide" for="deviceID">Device ID</label><input type="text" class="device_col_search" id="deviceID" name="deviceId"></th>
+													<th><label class="hide" for="deviceName">Device Name</label><input type="text" class="device_col_search" id="deviceName" name="deviceName"></th>
+												</tr>
+											</thead>
+											<tbody style="max-height:500px">
+												<tr>
+													
+													<td>5</td>
+													<td>Unknown</td>
+													
+												</tr>
+												<tr>
+													
+													<td>6</td>
+													<td>Unknown</td>
+													
+												</tr>
+												<tr>
+													
+													<td>7</td>
+													<td>Unknown</td>
+													
+												</tr>
+												<tr>
+													
+													<td>8</td>
+													<td>Unknown</td>
+													
+												</tr>
+												<tr>
+													
+													<td>9</td>
+													<td>Unknown</td>
+													
+												</tr>
+												<tr>
+													
+													<td>10</td>
+													<td>Unknown</td>
+												
+												</tr>
+												<tr>
+													
+													<td>11</td>
+													<td>Unknown</td>
+													
+												</tr>
+												<tr>
+													
+													<td>12</td>
+													<td>Unknown</td>
+											
+												</tr>
+												<tr>
+													
+													<td>13</td>
+													<td>Unknown</td>
+												
+												</tr>
+												<tr>
+													
+													<td>14</td>
+													<td>Unknown</td>
+												
+												</tr>
+												<tr>
+													
+													<td>15</td>
+													<td>Unknown</td>
+												
+												</tr>
+											</tbody>
+										</table>
+									</div>	
+						</div>			
+								</div>
+								
+								<div style="width:100%;height:50px;margin:30px 90%">
+									<input type="button" name="button" value="Next" class="btn btn-info"/>
+								</div>
+								
+								
+							</div>
+						</div>
+					</div>
+				  </div>
+				 
+				 
+				</div>				
+				</div>
+					
+			</div>
+		</div>
+	</div>
+</html>

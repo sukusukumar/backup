@@ -1,0 +1,57 @@
+<html>
+	<head>
+		<style>
+			*{
+				padding: 0px;
+				margin: 0px;
+			}
+			#suku{
+				width: 500px;
+				height: 500px;
+				display: table;
+			}
+			#kumar{
+				border: 10px solid red;
+				display: table-cell;
+				vertical-align: middle;
+			}
+			.content {
+				margin: 0 auto;
+				border: 10px solid green;
+				height: 200px;
+				width: 200px;
+			}
+			.active {
+				position: absolute;
+				left: 650px;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="suku">
+			<div id="kumar">
+				<div class="content" id="a">
+				</div>
+			</div>
+		</div>
+	</body>
+	<script>
+		document.getElementById('kumar').addEventListener('mouseover', function(event){
+		 console.log('over', event);
+		 /*this.style.position = 'relative';
+		 this.children[0].className += ' active';
+		 this.children[0].setAttribute('style', 'position : absolute; left: 650px;');*/
+		});
+		
+		document.getElementById('kumar').addEventListener('mouseout', function(event){
+		 console.log('out', event);
+		});
+		
+		document.getElementById('a').addEventListener('mouseover', function(event){
+		 console.log('over', event);
+		 /*this.style.position = 'relative';
+		 this.children[0].className += ' active';
+		 this.children[0].setAttribute('style', 'position : absolute; left: 650px;');*/
+		});
+	</script>
+</html>

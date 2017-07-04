@@ -1,0 +1,155 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Caro Eickhoff <traduction@carolei.de>, 2016. #zanata
+# Anne Kremer <akremer@aer.de>, 2017. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2017-01-26 05:50+0100\n"
+"Last-Translator: Anne Kremer <akremer@aer.de>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: app/views/flight_search/partials/seat/seatSegment.html:17
+msgid "(by %1$s)"
+msgstr "(by %1$s)"
+
+#: app/views/flight_search/partials/seat/seatSegment.html:98
+msgid "Add"
+msgstr "Ajouter"
+
+#: app/views/flight_search/partials/seat/seatSegment.html:95
+msgid "Clear"
+msgstr "Effacer"
+
+#: app/views/flight_search/partials/additionalServices/seatselection.html:59
+#: app/views/orderManager/partials/additionalServices/seatselection.html:61
+msgid "Discard changes"
+msgstr "Annuler les changements"
+
+#: app/views/flight_search/partials/seat/seatSegment.html:92
+msgid "Edit"
+msgstr "Modifier"
+
+#: app/views/flight_search/popups/seat/seatConfirmation.html:21
+msgid "Edit Seats"
+msgstr "Modifer les sièges"
+
+#: app/views/flight_search/partials/seat/seatSegment.html:113
+msgid "No seat map information is available."
+msgstr "Information sur la répartition des sièges indisponible."
+
+#: app/views/flight_search/partials/additionalServices/seatselection.html:28
+#: app/views/orderManager/partials/additionalServices/seatselection.html:30
+msgid "Pax"
+msgstr "Passagers"
+
+#: app/views/flight_search/popups/seat/seatConfirmation.html:12
+msgid "Please note"
+msgstr "Important"
+
+#: app/views/flight_search/partials/additionalServices/seatselection.html:56
+#: app/views/orderManager/partials/additionalServices/seatselection.html:58
+msgid "Proceed"
+msgstr "Poursuivre"
+
+#: app/views/flight_search/popups/seat/seatConfirmation.html:18
+msgid "Proceed anyway"
+msgstr "Poursuivre quand même"
+
+#: app/views/flight_search/partials/additionalServices/seatselection.html:7
+#: app/views/orderManager/partials/additionalServices/seatselection.html:7
+msgid "Seat Selection"
+msgstr "Sélection de sièges"
+
+#: app/views/flight_search/partials/additionalServices/seatselection.html:8
+#: app/views/orderManager/partials/additionalServices/seatselection.html:8
+msgid "Seat map: information will follow"
+msgstr "Siège: l'information est pour bientôt"
+
+#: app/views/flight_search/partials/seat/seatSegment.html:76
+msgid "Seat:"
+msgstr "Siège :"
+
+#: app/views/flight_search/partials/additionalServices/seatselection.html:29
+#: app/views/orderManager/partials/additionalServices/seatselection.html:31
+msgid "Seats"
+msgstr "Sièges"
+
+#: app/views/flight_search/partials/additionalServices/seatselection.html:24
+#: app/views/orderManager/partials/additionalServices/seatselection.html:24
+msgid "Seats Price Details"
+msgstr "Infos sur les tarifs des sièges"
+
+#: app/views/flight_search/partials/additionalServices/seatselection.html:17
+#: app/views/orderManager/partials/additionalServices/seatselection.html:17
+msgid "Select seat(s) for %1$s - %2$s"
+msgstr "Sélectionner le(s) siège(s) pour %1$s - %2$s"
+
+#: app/views/flight_search/partials/additionalServices/seatselection.html:11
+msgid ""
+"The booking of seats is subject to airline confirmation. For chargeable "
+"seats, an EMD needs to be issued."
+msgstr ""
+"La réservation de sièges doit être confirmée par la compagnie aérienne. Pour "
+"des sièges payants, un EMD doit être délivré. "
+
+#: app/views/flight_search/partials/additionalServices/seatselection.html:32
+#: app/views/orderManager/partials/additionalServices/seatselection.html:34
+msgid "Total"
+msgstr "Total"
+
+#: app/views/flight_search/partials/additionalServices/seatselection.html:47
+#: app/views/orderManager/partials/additionalServices/seatselection.html:47
+msgid "Total:"
+msgstr "Total :"
+
+#: app/views/flight_search/popups/seat/seatConfirmation.html:13
+msgid "You have not selected seats for all flight segments/passengers."
+msgstr ""
+"Vous n'avez sélectionné aucun siège pour les segments/passagers de vol. "
+
+#: app/views/common/partials/seatmap/legends.html:12
+msgid "available, charge applies"
+msgstr "disponible, avec frais supplémentaires "
+
+#: app/views/common/partials/seatmap/legends.html:6
+msgid "available, no charge"
+msgstr "disponible, sans frais supplémentaires "
+
+#: app/views/common/partials/seatmap/legends.html:36
+msgid "crewseat"
+msgstr "siège d'équipage"
+
+#: app/views/common/partials/seatmap/legends.html:54
+msgid "garderobe"
+msgstr "garderobe"
+
+#: app/views/common/partials/seatmap/legends.html:48
+msgid "kitchen"
+msgstr "cuisine"
+
+#: app/views/common/partials/seatmap/legends.html:18
+msgid "not bookable"
+msgstr "ne peut pas être réservé"
+
+#: app/views/common/partials/seatmap/legends.html:30
+msgid "occupied"
+msgstr "occupé"
+
+#: app/views/common/partials/seatmap/legends.html:24
+msgid "selected"
+msgstr "sélectionné"
+
+#: app/views/common/partials/seatmap/legends.html:60
+msgid "staircase"
+msgstr "escaliers"
+
+#: app/views/common/partials/seatmap/legends.html:42
+msgid "toilet"
+msgstr "toilettes"
+

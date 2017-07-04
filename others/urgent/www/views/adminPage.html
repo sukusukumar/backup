@@ -1,0 +1,21 @@
+<div class="bar bar-header bar-positive">
+	<button class="button icon ion-arrow-left-a" ng-click="gotoHome()"></button>
+  <h1 class="title">List of all PNRs</h1>
+</div>
+<div class="bar bar-subheader">
+	<input type="text" placeholder="Search PNRs" style="width: 100%;">
+	<button class="button button-icon ion-search" ng-click="clearSearch()"></button>
+</div>
+<ion-content class="padding has-header has-footer has-subheader">
+	<div class="list">
+	
+   <div class="item item-icon-right" ng-repeat="pnr in pnrList">
+      <i class="icon" ng-class="{'ion-android-checkmark-circle': pnr.available!='0', 'ion-android-close': pnr.available=='0'}"></i>
+      {{pnr.pnr}}
+   </div>
+	 
+</div>
+</ion-content>
+<div class="bar bar-footer bar-positive">
+   <h1 class="title">@2017 All rights reserved</h1>
+</div>

@@ -1,0 +1,52 @@
+# Jose Oliver <joliver@aerticket.es>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-12-09 01:37+0100\n"
+"Last-Translator: Jose Oliver <joliver@aerticket.es>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/scripts/constants/orderManager/om_search_constants.js:8
+#: app/views/orderManager/accordions/search.html:35
+msgid "All Bookings"
+msgstr "Todas las reservas"
+
+#: app/views/orderManager/accordions/search.html:9
+msgid "Enter Last name or Booking reference"
+msgstr "Introduzca apellido o localizador de la reserva"
+
+#: app/scripts/constants/orderManager/om_search_constants.js:7
+#: app/views/orderManager/accordions/search.html:26
+msgid "Open Bookings"
+msgstr "Reservas abiertas"
+
+#: app/scripts/constants/orderManager/om_search_constants.js:4
+msgid "Please wait, Quick Links Summary is loading."
+msgstr "Por favor espere, se están cargando los accesos rápidos"
+
+#: app/scripts/constants/orderManager/om_search_constants.js:5
+msgid "Please wait, results are loading."
+msgstr "Por favor espere, se están cargando los resultados."
+
+#: app/views/orderManager/accordions/search.html:22
+msgid "Quick Links"
+msgstr "Enlaces rápidos"
+
+#: app/views/orderManager/accordions/search.html:13
+msgid "Search"
+msgstr "Búsqueda"
+
+#: app/views/orderManager/accordions/search.html:41
+msgid "Ticket timelimit"
+msgstr "Tiempo límite de emisión"
+
+#: app/views/orderManager/accordions/search.html:48
+msgid "expired"
+msgstr "expirado"
+

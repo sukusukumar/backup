@@ -1,0 +1,1319 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Caro Eickhoff <traduction@carolei.de>, 2016. #zanata
+# Anne Kremer <akremer@aer.de>, 2017. #zanata
+# Sukumar Vummadisetty <sukumar.vummadisetty@valuelabs.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2017-01-27 08:11+0100\n"
+"Last-Translator: Sukumar Vummadisetty <sukumar.vummadisetty@valuelabs.com>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:97
+msgid "%1$s L"
+msgstr "%1$s L"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:88
+msgid "%1$s M"
+msgstr "%1$s M"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:79
+msgid "%1$s S"
+msgstr "%1$s S"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:106
+msgid "%1$s XL"
+msgstr "%1$s XL"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:56
+msgid "%1$s fare families"
+msgstr "%1$s Cat. tarifaires"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:133
+msgid "%1$s+ L"
+msgstr "%1$s+ L"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:124
+msgid "%1$s+ M"
+msgstr "%1$s+ M"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:142
+msgid "%1$s+ XL"
+msgstr "%1$s+ XL"
+
+#: app/views/flight_search/partials/resultFilters/airlineAndAlliances.html:31
+#: app/views/flight_search/partials/resultFilters/airlineAndAlliances.html:55
+#: app/views/flight_search/partials/resultFilters/arrival.html:29
+#: app/views/flight_search/partials/resultFilters/baggage.html:29
+#: app/views/flight_search/partials/resultFilters/departure.html:29
+#: app/views/flight_search/partials/resultFilters/equipment.html:28
+#: app/views/flight_search/partials/resultFilters/fareFamily.html:29
+#: app/views/flight_search/partials/resultFilters/fareType.html:30
+#: app/views/flight_search/partials/resultFilters/numberOfStops.html:29
+#: app/views/flight_search/partials/resultFilters/tktl.html:29
+#: app/views/flight_search/partials/resultFilters/via.html:29
+#: app/views/flight_search/partials/results/resultFilter.html:34
+msgid "%s more"
+msgstr "%s plus"
+
+#: app/views/flight_search/popups/results/fareRules.html:97
+#: app/views/flight_search/popups/results/fareRules.html:98
+msgid "%s of %s apply."
+msgstr "S'applique pour %s de %s."
+
+#: app/views/flight_search/accordions/results.html:35
+msgid "0 Results Found."
+msgstr "0 résultat trouvé."
+
+#: app/views/flight_search/partials/results/generalCarriage.html:51
+msgid ""
+"According to Article 3 of the Warsaw Convention, an air ticket, including e-"
+"tickets, is evidence of the agreement between the Passenger and the Carrier. "
+"By purchasing a ticket, the Passenger confirms that he/she agrees with the "
+"terms of the agreement. If the Passenger failed to use a booked seat on a "
+"flight segment, he/she must notify the Carrier about changes in the terms of "
+"the agreement and his/her intention to continue the flight on subsequent "
+"segments. To do so, the Passenger should contact the office where the "
+"booking was made or an Aeroflot office to make the required changes to his/"
+"her personal booking. If the Passenger fails to perform these activities, "
+"the booking system automatically cancels the subsequent flight segments as "
+"‘the Passenger failed to start the journey’. The cancellation is performed "
+"without notifying the Passenger. Source: Federal Aviation Rules, Section 2, "
+"Item 27 and Section 5, item 75."
+msgstr ""
+"Selon les dispositions de l'Article 3 de la Convention de Varsovie, les "
+"billets d'avion, y compris les billets électroniques, certifient que le "
+"passager et le transporteur ont convenu d'un contrat. En achetant un billet, "
+"le passager consent à accepter les conditions générales ci-après. Dans le "
+"cas où le passager n'utiliserait pas le siège qu'il/elle a réservé pour une "
+"partie de l'itinéraire, il/elle doit informer le transporteur de son désir "
+"d'amender le contrat et de son intention de continuer le transport pour les "
+"trajets à suivre.  Pour ce faire, le passager doit contacter le centre de "
+"réservation où le billet a été émis ou une agence d' Aeroflot, afin de "
+"modifier sa réservation personnelle en conséquence .  Autrement, le système "
+"de réservation devra annuler tous les autres segments de façon automatique "
+"sous motif que « Le Passager ne s'est pas présenté pour effectuer son trajet "
+"», sans prévenir le passager au préalable. Sources : Règles de l'aviation "
+"fédérale, paragraphe 2, clause 27 et paragraphe 5, clause 75."
+
+#: app/views/flight_search/popups/results/printEmail.html:44
+msgid "Agency fee:"
+msgstr "Commission: "
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:66
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:70
+msgid "Agent markup"
+msgstr "Commission agent"
+
+#: app/views/flight_search/partials/resultFilters/airlineAndAlliances.html:38
+msgid "Airline"
+msgstr "Cie aérienne"
+
+#: app/scripts/constants/flight_search/result_constants.js:65
+msgid "Airline name ascending"
+msgstr "Noms de cies aériennes, par ordre de prix croissant"
+
+#: app/scripts/constants/flight_search/result_constants.js:69
+msgid "Airline name descending"
+msgstr "Noms de cies aériennes, par ordre de prix décroissant"
+
+#: app/views/flight_search/partials/resultFilters/airlineAndAlliances.html:2
+msgid "Airlines / Alliances"
+msgstr "Cies aériennes / Alliances"
+
+#: app/scripts/constants/flight_search/result_constants.js:158
+msgid "Airport change"
+msgstr "Changement d'aéroport"
+
+#: app/views/flight_search/popups/results/createoffer.html:29
+msgid "All flight options"
+msgstr "Toutes les options de vol"
+
+#: app/views/flight_search/partials/resultFilters/airlineAndAlliances.html:15
+msgid "Alliances & Joint ventures"
+msgstr "Alliances & partenariats"
+
+#: app/views/flight_search/partials/results/generalCarriage.html:39
+msgid ""
+"An air carrier issuing a ticket for carriage over the routes of another air "
+"carrier does so only as its Agent."
+msgstr ""
+"Un transporteur aérien délivrant un billet pour le transport sur les routes "
+"d'un autre transporteur ne peut le faire que s'il agit à titre d'agent de ce "
+"dernier."
+
+#: app/views/flight_search/partials/results/generalCarriage.html:42
+msgid ""
+"Any exclusion or limitation of liability of the Carrier shall apply to and "
+"be for the benefit of agents, servants and representatives thereof and any "
+"person whose aircraft is used by the Carrier for carriage and its agents, "
+"servants and representatives."
+msgstr ""
+"Toute exclusion ou limitation de notre responsabilité s'appliquera et "
+"bénéficiera à nos agents, nos employés et représentants, ainsi qu'au "
+"propriétaire de l'avion utilisé par le transporteur pour le trajet, de même "
+"que par ses agents, employés et représentants. "
+
+#: app/views/flight_search/partials/resultFilters/arrival.html:2
+msgid "Arrival airport"
+msgstr "Aéroport d'arrivée"
+
+#: app/views/flight_search/partials/results/generalCarriage.html:23
+msgid "As used in this contract"
+msgstr "Tel qu'utilisé dans ce contrat"
+
+#: app/views/flight_search/popups/results/extras.html:15
+msgid "Available extras"
+msgstr "Extras disponibles"
+
+#: app/scripts/constants/flight_search/result_constants.js:39
+#: app/scripts/constants/flight_search/result_constants.js:40
+#: app/scripts/constants/flight_search/result_constants.js:41
+msgid "Available for %s only"
+msgstr "Disponible pour %s seulement"
+
+#: app/scripts/constants/flight_search/result_constants.js:23
+#: app/scripts/constants/flight_search/result_constants.js:24
+#: app/scripts/constants/flight_search/result_constants.js:25
+#: app/scripts/constants/flight_search/result_constants.js:26
+#: app/scripts/constants/flight_search/result_constants.js:27
+#: app/scripts/constants/flight_search/result_constants.js:28
+#: app/scripts/constants/flight_search/result_constants.js:29
+msgid "Available for everyone"
+msgstr "Disponible pour tous"
+
+#: app/scripts/constants/flight_search/result_constants.js:46
+#: app/scripts/constants/flight_search/result_constants.js:47
+#: app/scripts/constants/flight_search/result_constants.js:48
+msgid "Available only for %s only"
+msgstr "Uniquement disponible pour %s seulement"
+
+#: app/scripts/constants/flight_search/result_constants.js:36
+msgid "Available only for NGO staff"
+msgstr "Disponible uniquement pour le personnel des ONG"
+
+#: app/scripts/constants/flight_search/result_constants.js:33
+msgid "Available only for military staff"
+msgstr "Disponible uniquement pour le personnel militaire"
+
+#: app/scripts/constants/flight_search/result_constants.js:30
+msgid "Available only for packaging"
+msgstr "Disponible uniquement pour prestations terrestres"
+
+#: app/scripts/constants/flight_search/result_constants.js:32
+msgid ""
+"Available only for passengers with certain nationality/country of origin"
+msgstr ""
+"Disponible uniquement pour les passagers avec certaines nationalités/pays "
+"d'origine "
+
+#: app/scripts/constants/flight_search/result_constants.js:34
+msgid "Available only for sea passage"
+msgstr "Disponible uniquement pour le passage maritime"
+
+#: app/scripts/constants/flight_search/result_constants.js:35
+msgid "Available only for travel agents"
+msgstr "Disponible uniquement pour les agents de voyage"
+
+#: app/scripts/constants/flight_search/result_constants.js:31
+msgid "Available only for youth, students/teachers with corresponding ID"
+msgstr ""
+"Disponible uniquement pour les jeunes, les étudiants/enseignants possédant "
+"la carte  d'identité justificative correspondante"
+
+#: app/views/flight_search/popups/results/resultsSeatmap.html:21
+msgid "Available seatmaps"
+msgstr "Plans de cabine disponibles"
+
+#: app/views/flight_search/partials/resultFilters/baggage.html:2
+#: app/views/flight_search/partials/results/is-fare-family-upsell.html:29
+#: app/views/flight_search/partials/results/non-fare-family-upsell.html:30
+msgid "Baggage"
+msgstr "Bagages"
+
+#: app/scripts/constants/flight_search/result_constants.js:81
+msgid "Best results"
+msgstr "Meilleurs résultats"
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:115
+msgid "Book now"
+msgstr "Réserver maintenant"
+
+#: app/views/flight_search/partials/results/non-fare-family-upsell.html:34
+msgid "Booking class"
+msgstr "Classe de réservation"
+
+#: app/views/flight_search/partials/results/aerItinerarySegment.html:50
+msgid "Booking class / no. of available seats"
+msgstr "Classe de réservation / nbre de sièges disponibles"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:125
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:134
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:143
+msgid "Business"
+msgstr "Affaires"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:67
+msgid "CABIN CLASS"
+msgstr "CLASSE DE VOYAGE"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:69
+msgid "CANCELATION / REFUND"
+msgstr "ANNULATION / REMBOURSEMENT"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:68
+msgid "CHECKED BAGGAGE"
+msgstr "BAGAGES ENREGISTRÉS"
+
+#: app/views/flight_search/partials/results/generalCarriage.html:25
+msgid "Carriage"
+msgstr "Transport"
+
+#: app/views/flight_search/partials/results/generalCarriage.html:30
+msgid ""
+"Carriage hereunder is subject to the rules and limitations relating to "
+"liability established by the Warsaw Convention unless such carriage is not "
+"\"international carriage\" as defined by that Convention."
+msgstr ""
+"Le transport ci-dessous est soumis aux règles et limitations relatives à la "
+"responsabilité établies par la Convention de Varsovie, sauf si ce transport "
+"est classé \"transport international\", selon la définition de cette "
+"Convention. "
+
+#: app/scripts/constants/flight_search/result_constants.js:10
+msgid "Charter fare"
+msgstr "Tarif charter"
+
+#: app/views/flight_search/partials/resultFilters/general.html:20
+msgid "Cheapest flight per airline"
+msgstr "Le moins cher (cie aérienne)"
+
+#: app/views/flight_search/partials/results/generalCarriage.html:45
+msgid ""
+"Checked-in luggage will be delivered to the bearer of thereof. In case of "
+"damage to luggage during international transportation, complaints must be "
+"made in writing to the Carrier forthwith after discovery of such damage and, "
+"at the latest, within seven days of receipt; in case of delay, complaints "
+"must be made within 21 days from the date the baggage was delivered. See "
+"tariffs or conditions of carriage regarding non-international transportation."
+""
+msgstr ""
+"Les bagages enregistrés seront remis au porteur du billet d'avion. En cas de "
+"dommages subis par les bagages durant un transport international, les "
+"réclamations doivent être adressées au transporteur aérien par écrit, "
+"immédiatement après que le dommage a été découvert et, au plus tard, dans un "
+"délai de sept jours à compter de la date de livraison des bagages ; en cas "
+"de retard, les plaintes doivent être déposées sous 21 jours à compter de la "
+"date de livraison des bagages. Pour les transports non-internationaux, "
+"veuillez vous référer aux tarifs ou aux conditions générales de transport. "
+
+#: app/views/flight_search/partials/results/is-fare-family-upsell.html:4
+#: app/views/flight_search/partials/results/non-fare-family-upsell.html:4
+msgid "Close & ignore upsell"
+msgstr "Fermer & ignorer surclasser"
+
+#: app/scripts/constants/flight_search/result_constants.js:168
+#: app/views/flight_search/partials/results/results-filters.html:18
+#: app/views/flight_search/popups/results/extras.html:18
+msgid "Collapse all"
+msgstr "Tout réduire"
+
+#: app/scripts/constants/flight_search/result_constants.js:160
+msgid "Companion fare"
+msgstr "Tarif accompagnateur"
+
+#: app/views/flight_search/partials/results/generalCarriage.html:17
+msgid "Conditions of contract"
+msgstr "Conditions contractuelles"
+
+#: app/views/flight_search/popups/results/printEmail.html:64
+msgid "Create PDF document"
+msgstr "Créer un document PDF"
+
+#: app/views/flight_search/popups/results/createoffer.html:6
+msgid "Create offer"
+msgstr "Créer une offre"
+
+#: app/scripts/constants/flight_search/result_constants.js:16
+msgid "Cruise fare"
+msgstr "Tarif croisière"
+
+#: app/views/flight_search/partials/resultFilters/time.html:2
+msgid "Departure & arrival time"
+msgstr "Heure de départ & d'arrivée"
+
+#: app/views/flight_search/partials/resultFilters/departure.html:2
+msgid "Departure airport"
+msgstr "Aéroport de départ"
+
+#: app/views/flight_search/popups/results/farefamily/tab.html:6
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:25
+msgid "Details"
+msgstr "Détails"
+
+#: app/scripts/constants/flight_search/result_constants.js:129
+msgid "Different baggage rules per leg"
+msgstr "Règles relatives aux bagages différentes selon le segment de vol"
+
+#: app/scripts/constants/flight_search/result_constants.js:11
+msgid "Direct connect fare"
+msgstr "Tarif Direct Connect"
+
+#: app/scripts/constants/flight_search/result_constants.js:109
+#: app/scripts/constants/flight_search/result_constants.js:99
+msgid "Direct only"
+msgstr "Vols directs uniquement"
+
+#: app/views/flight_search/popups/results/printEmail.html:18
+msgid "Document Type:"
+msgstr "Type de document:"
+
+#: app/views/flight_search/partials/results/aerFlightRow.html:51
+msgid "Duration"
+msgstr "Durée"
+
+#: app/scripts/constants/flight_search/result_constants.js:73
+msgid "Duration ascending"
+msgstr "Durée, par ordre croissant "
+
+#: app/scripts/constants/flight_search/result_constants.js:77
+msgid "Duration descending"
+msgstr "Durée, par ordre décroissant "
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:107
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:80
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:89
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:98
+msgid "Economy"
+msgstr "Economique"
+
+#: app/views/flight_search/partials/results/generalCarriage.html:26
+msgid "Electronic ticket"
+msgstr "Billet électronique"
+
+#: app/views/flight_search/popups/results/printEmail.html:61
+msgid "Email (PDF attachment)"
+msgstr "Envoyer PDF par e-mail"
+
+#: app/views/flight_search/popups/results/createoffer.html:37
+msgid "Email (PDF)"
+msgstr "Email (PDF)"
+
+#: app/views/flight_search/partials/resultFilters/equipment.html:2
+msgid "Equipment"
+msgstr "Equipement"
+
+#: app/views/flight_search/popups/results/createoffer.html:40
+msgid "Excel file"
+msgstr "Fichier Excel"
+
+#: app/scripts/constants/flight_search/result_constants.js:162
+msgid "Exclusive fares"
+msgstr "Tarif Direct Connect LH Group"
+
+#: app/scripts/constants/flight_search/result_constants.js:167
+#: app/views/flight_search/partials/results/results-filters.html:15
+#: app/views/flight_search/popups/results/extras.html:19
+#: app/views/flight_search/popups/results/fareRules.html:61
+msgid "Expand all"
+msgstr "Tout afficher"
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:129
+msgid "Extras"
+msgstr "Extras"
+
+#: app/views/flight_search/popups/results/extras.html:41
+msgid "Extras can be booked after entering the passenger data"
+msgstr ""
+"Les extras (services supplémentaires) peuvent être réservés après avoir "
+"saisi les données du passager"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:151
+msgid "FIRST"
+msgstr "PREMIER"
+
+#: app/scripts/constants/flight_search/result_constants.js:174
+#: app/views/flight_search/partials/resultFilters/fareFamily.html:2
+msgid "Fare Families"
+msgstr "Cat. tarifaire"
+
+#: app/views/flight_search/partials/results/aerFlightRow.html:38
+msgid "Fare Family %1$s"
+msgstr "Cat. tarifaire %1$s"
+
+#: app/views/flight_search/popups/results/fareRules.html:56
+msgid "Fare rules"
+msgstr "Règles tarifaires"
+
+#: app/views/flight_search/partials/resultFilters/fareType.html:2
+msgid "Fare type"
+msgstr "Type de tarif"
+
+#: app/views/flight_search/popups/results/fareRules.html:50
+msgid "Farebase"
+msgstr "Base de tarifs"
+
+#: app/views/flight_search/partials/results/results-filters.html:6
+msgid "Filters"
+msgstr "Filtres"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:152
+msgid "First"
+msgstr "Premier"
+
+#: app/views/flight_search/popups/results/resultsSeatmap.html:28
+msgid ""
+"For informational purpose only, seats can be booked later in booking process "
+"after passenger data have been entered."
+msgstr ""
+"À des fins d'information uniquement, les sièges peuvent être réservés plus "
+"tard, une fois que les données personnelles des passagers ont été "
+"enregistrées. "
+
+#: app/views/flight_search/popups/results/createoffer.html:12
+#: app/views/flight_search/popups/results/printEmail.html:12
+msgid "Free text (will be displayed above the offer)"
+msgstr "Texte libre (sera affiché au-dessus de l'offre)"
+
+#: app/views/flight_search/partials/resultFilters/general.html:2
+msgid "General"
+msgstr "Général"
+
+#: app/scripts/constants/flight_search/result_constants.js:171
+msgid "General conditions of carriage"
+msgstr "Conditions générales de transport"
+
+#: app/views/flight_search/popups/results/fareRules.html:45
+#: app/views/flight_search/popups/results/fareRules.html:71
+msgid "General remarks"
+msgstr "Remarques générales"
+
+#: app/scripts/constants/flight_search/result_constants.js:157
+msgid "High yield offer"
+msgstr "Offre à haut rendement"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:50
+msgid ""
+"Hundreds of airlines introduced airline fare families to better group and "
+"differentiate their fares even inside one cabin class. This often goes hand "
+"in hand with the introduction of fares without free baggage allowance and "
+"chargeable ancillaries/extras. A growing number of those airline fare "
+"families is now also published in the GDS. As there is no common standard of "
+"number and naming across different airlines, we invented our own grouping "
+"system (see table below), that will allow you to better compare between "
+"several airlines."
+msgstr ""
+"Nos propres catégories tarifaires vous aident à comparer rapidement les "
+"différents tarifs de centaines de compagnies aériennes.  Grâce au "
+"regroupement, vous pouvez par exemple facilement reconnaître si une "
+"franchise de bagages est incluse dans le tarif en question ou pas.  En cas "
+"de \"?\" près de Annulation/Modification de la réservation dans le tableau "
+"ci-dessous, vous pouvez obtenir des détails en allant dans l'onglet \"Cat. "
+"tarifaire des cies aériennes\". "
+
+#: app/scripts/constants/flight_search/result_constants.js:104
+#: app/scripts/constants/flight_search/result_constants.js:114
+#: app/scripts/constants/flight_search/result_constants.js:142
+msgid "Immediate ticket issuance"
+msgstr "Émission immédiate "
+
+#: app/scripts/constants/flight_search/result_constants.js:101
+#: app/scripts/constants/flight_search/result_constants.js:111
+msgid "Immediately"
+msgstr "< 2j"
+
+#: app/views/flight_search/popups/results/printEmail.html:47
+msgid "Included in fare"
+msgstr "Inclu dans le tarif"
+
+#: app/views/flight_search/popups/results/extras.html:28
+msgid "Information"
+msgstr "Information"
+
+#: app/scripts/constants/flight_search/result_constants.js:163
+msgid "International fares"
+msgstr "Tarifs internationaux"
+
+#: app/scripts/constants/flight_search/result_constants.js:103
+#: app/scripts/constants/flight_search/result_constants.js:113
+msgid "Later"
+msgstr "> 7j"
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:41
+msgid "Less"
+msgstr "Moins"
+
+#: app/views/flight_search/popups/results/printEmail.html:51
+msgid "Listed separately"
+msgstr "Listé separemment"
+
+#: app/views/flight_search/accordions/results.html:18
+msgid "Loading...."
+msgstr "En cours de chargement...."
+
+#: app/scripts/constants/flight_search/result_constants.js:8
+#: app/scripts/constants/flight_search/result_constants.js:9
+msgid "Lowcost fare"
+msgstr "Tarif Low Cost"
+
+#: app/scripts/constants/flight_search/result_constants.js:131
+msgid "MIX"
+msgstr "MIX"
+
+#: app/views/flight_search/popups/results/routingMilage.html:131
+msgid "Map view"
+msgstr "Visualiser le plan"
+
+#: app/views/flight_search/partials/results/aerAgentMarkup2.html:2
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:37
+msgid "Markup"
+msgstr "Commission"
+
+#: app/views/flight_search/partials/resultFilters/maxTime.html:2
+msgid "Maximum travel time"
+msgstr "Durée voyage maximale "
+
+#: app/scripts/constants/flight_search/result_constants.js:15
+msgid "Military fare"
+msgstr "Tarif militaire"
+
+#: app/scripts/constants/flight_search/result_constants.js:130
+msgid "Mix"
+msgstr "Mix"
+
+#: app/scripts/constants/flight_search/result_constants.js:19
+msgid "Mixed"
+msgstr "Combiné"
+
+#: app/scripts/constants/flight_search/result_constants.js:126
+msgid "Mixed Airlines"
+msgstr "Cies aériennes combinées"
+
+#: app/views/flight_search/partials/results/is-fare-family-upsell.html:37
+msgid "More information"
+msgstr "Plus d'informations"
+
+#: app/scripts/constants/flight_search/result_constants.js:138
+msgid "N/A"
+msgstr "N/A"
+
+#: app/scripts/constants/flight_search/result_constants.js:6
+msgid "Negotiated fare"
+msgstr "Tarif négocié"
+
+#: app/scripts/constants/flight_search/result_constants.js:7
+msgid "Net fare"
+msgstr "Tarif net"
+
+#: app/views/flight_search/partials/results/results-filters.html:25
+msgid "No Filters Applied"
+msgstr "Aucun filtre appliqué"
+
+#: app/views/flight_search/partials/results/generalCarriage.html:60
+msgid ""
+"No agent, servant or representative of the Carrier has the authority to "
+"alter, modify or waive any provision of this Contract."
+msgstr ""
+"Aucun agent, employé ou représentant du transporteur n'est autorisé à "
+"changer, modifier ou supprimer l'une des dispositions de ce Contrat.  "
+
+#: app/scripts/constants/flight_search/result_constants.js:133
+#: app/views/flight_search/partials/results/aerItinerarySegment.html:105
+#: app/views/flight_search/partials/results/aerItinerarySegment.html:112
+msgid "No baggage included"
+msgstr "Aucun bagage n'est inclus"
+
+#: app/scripts/constants/flight_search/result_constants.js:137
+#: app/views/flight_search/partials/results/aerItinerarySegment.html:106
+#: app/views/flight_search/partials/results/aerItinerarySegment.html:113
+msgid "No baggage information available"
+msgstr "Aucune information relative aux bagages n'est disponible"
+
+#: app/views/flight_search/popups/results/farefamilies.html:20
+msgid "No fare family description found."
+msgstr "Aucune description des cat. tarifaires n'a été trouvée."
+
+#: app/views/flight_search/popups/results/fareRules.html:41
+msgid "No fare rules found."
+msgstr "Aucune règle tarifaire n'a été trouvée."
+
+#: app/scripts/constants/flight_search/result_constants.js:143
+msgid "No information available"
+msgstr "Aucune information disponible"
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:50
+msgid ""
+"No results have been returned for the selected passenger. Adult is being "
+"displayed as default."
+msgstr ""
+"Aucun résultat n'a été trouvé pour le passager sélectionné. Un adulte "
+"s'affiche par défaut. "
+
+#: app/scripts/constants/flight_search/result_constants.js:144
+msgid "No upsell options available for this offer."
+msgstr "Aucune option surclasser n'est disponible pour cette offre."
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:30
+msgid "No."
+msgstr "Nbre"
+
+#: app/scripts/constants/flight_search/result_constants.js:18
+msgid "Non-governmental fare"
+msgstr "Tarif non gouvernemental"
+
+#: app/scripts/constants/flight_search/result_constants.js:100
+#: app/scripts/constants/flight_search/result_constants.js:110
+msgid "Not specified"
+msgstr "Non spécifié"
+
+#: app/views/flight_search/popups/results/routingMilage.html:127
+msgid "Note"
+msgstr "Remarque"
+
+#: app/views/flight_search/partials/resultFilters/numberOfStops.html:2
+msgid "Number of stops"
+msgstr "Nombre d'escales"
+
+#: app/scripts/constants/flight_search/result_constants.js:89
+msgid "Number of technical stops"
+msgstr "Nombre d'escales techniques"
+
+#: app/scripts/constants/flight_search/result_constants.js:122
+msgid "NumberOfStops_DIRECT"
+msgstr "Vols  directs"
+
+#: app/scripts/constants/flight_search/result_constants.js:120
+msgid "NumberOfStops_MAX_1"
+msgstr "Max. 1 stop"
+
+#: app/scripts/constants/flight_search/result_constants.js:121
+msgid "NumberOfStops_MAX_2"
+msgstr "Max. 2 stop"
+
+#: app/scripts/constants/flight_search/result_constants.js:123
+msgid "NumberOfStops_NONSTOP"
+msgstr "Nonstop"
+
+#: app/views/flight_search/popups/results/extras.html:58
+msgid "OK"
+msgstr "OK"
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:120
+msgid "Offer"
+msgstr "Offre"
+
+#: app/views/flight_search/popups/results/createoffer.html:43
+msgid "PDF file"
+msgstr "Fichier PDF "
+
+#: app/scripts/constants/flight_search/result_constants.js:17
+msgid "PEP fare"
+msgstr "Tarif PEP"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:115
+msgid "PREM. ECO"
+msgstr "PREMIUM ECO"
+
+#. Title for pax in results screen
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:31
+msgid "Pax_flightResults"
+msgstr "Passagers"
+
+#: app/views/flight_search/partials/results/aerFlightRow.html:85
+msgid "Please expand offer and check details for more information"
+msgstr "Merci d’étendre la recherche et de vérifier les critères."
+
+#: app/views/flight_search/popups/results/extras.html:40
+msgid ""
+"Please note that this representation of extras is only for information "
+"purposes."
+msgstr ""
+"Veuillez noter que la promotion de ces extras sert uniquement à des fins "
+"d'informations."
+
+#: app/views/flight_search/popups/results/farefamilies.html:7
+msgid "Please wait while the fare families are being loaded."
+msgstr ""
+"Veuillez patienter s'il vous plaît, le chargement des cat. tarifaires est en "
+"cours."
+
+#: app/views/flight_search/popups/results/resultsSeatmap.html:7
+msgid "Please wait while the seatmap is being loaded."
+msgstr "Veuillez patienter, le chargement du plan de cabine est en cours. "
+
+#: app/views/flight_search/popups/results/extras.html:6
+msgid "Please wait, the ancillary services are being loaded."
+msgstr ""
+"Veuillez patienter, le chargement des services additionnels est en cours. "
+
+#: app/scripts/constants/flight_search/result_constants.js:147
+msgid "Please wait, the fare is being revalidated."
+msgstr "Veuillez patienter, le nouveau calcul du tarif est en cours."
+
+#: app/views/flight_search/popups/results/fareRules.html:7
+msgid "Please wait, the fare notes are being loaded."
+msgstr ""
+"Veuillez patienter, le chargement des notes sur les tarifs  est en cours. "
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:116
+msgid "Premium Eco"
+msgstr "Premium Eco"
+
+#: app/views/flight_search/partials/resultFilters/price.html:2
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:32
+msgid "Price"
+msgstr "Prix"
+
+#: app/scripts/constants/flight_search/result_constants.js:57
+msgid "Price ascending"
+msgstr "Prix, par ordre croissant"
+
+#: app/scripts/constants/flight_search/result_constants.js:61
+msgid "Price descending"
+msgstr "Prix, par ordre décroissant"
+
+#: app/scripts/constants/flight_search/result_constants.js:177
+msgid "Price difference"
+msgstr "Différence de prix"
+
+#: app/views/flight_search/popups/results/printEmail.html:6
+msgid "Print & Email"
+msgstr "Imprimer & envoyer un e-mail"
+
+#: app/views/flight_search/popups/results/extras.html:22
+#: app/views/flight_search/popups/results/fareRules.html:64
+msgid "Print & email"
+msgstr "Imprimer & envoyer un e-mail"
+
+#: app/scripts/constants/flight_search/result_constants.js:5
+msgid "Published fare"
+msgstr "Tarif publié"
+
+#: app/scripts/constants/flight_search/result_constants.js:159
+msgid "Ready to fly"
+msgstr "Ready to fly"
+
+#: app/views/flight_search/partials/results/aerFlightRow.html:110
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: app/views/flight_search/partials/results/resultFilter.html:114
+#: app/views/flight_search/partials/results/resultFilter.html:33
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: app/views/flight_search/partials/results/results-filters.html:12
+msgid "Reset all"
+msgstr "Tout réinitialiser"
+
+#: app/views/flight_search/partials/resultFilters/airlineAndAlliances.html:54
+#: app/views/flight_search/partials/resultFilters/arrival.html:28
+#: app/views/flight_search/partials/resultFilters/baggage.html:28
+#: app/views/flight_search/partials/resultFilters/departure.html:28
+#: app/views/flight_search/partials/resultFilters/equipment.html:27
+#: app/views/flight_search/partials/resultFilters/fareFamily.html:28
+#: app/views/flight_search/partials/resultFilters/fareType.html:29
+#: app/views/flight_search/partials/resultFilters/general.html:33
+#: app/views/flight_search/partials/resultFilters/maxTime.html:41
+#: app/views/flight_search/partials/resultFilters/numberOfStops.html:28
+#: app/views/flight_search/partials/resultFilters/price.html:28
+#: app/views/flight_search/partials/resultFilters/time.html:63
+#: app/views/flight_search/partials/resultFilters/tktl.html:28
+#: app/views/flight_search/partials/resultFilters/via.html:28
+msgid "Reset_resultFilter"
+msgstr "Réinitialiser"
+
+#: app/scripts/constants/flight_search/result_constants.js:161
+msgid "Resident Discounts"
+msgstr "Réductions pour résidents"
+
+#: app/views/flight_search/popups/results/routingMilage.html:23
+msgid "Route / Mileage"
+msgstr "Trajet / Nbre de miles"
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:132
+msgid "Routing"
+msgstr "Itinéraire"
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:135
+msgid "Rules"
+msgstr "Règles"
+
+#: app/scripts/constants/flight_search/result_constants.js:13
+msgid "STA fare"
+msgstr "Tarif STA"
+
+#. Title for saving in price table of expanded result
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:34
+msgid "Saving_flightResults"
+msgstr "Réduction"
+
+#: app/views/flight_search/popups/results/resultsSeatmap.html:33
+msgid "Seat map(s) for %1$s - %2$s"
+msgstr "Plan(s) de cabine pour %1$s - %2$s"
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:126
+msgid "Seats"
+msgstr "Sièges"
+
+#: app/views/flight_search/popups/results/createoffer.html:22
+msgid "Selected flight options only"
+msgstr "Options pour les vols sélectionnés uniquement"
+
+#: app/views/flight_search/partials/results/results-list.html:3
+msgid ""
+"Selected recommendation is not available anymore and was removed from the "
+"results list. Please select another recommendation"
+msgstr ""
+"La référence sélectionnée n'est plus disponible et a été supprimée de la "
+"liste de résultats. Veuillez sélectionner une autre référence. "
+
+#: app/views/flight_search/partials/resultFilters/general.html:26
+msgid "Shortest flight time per airline"
+msgstr "Le temps de vol le plus court (cie aérienne)"
+
+#: app/scripts/constants/flight_search/result_constants.js:166
+msgid "Show all"
+msgstr "Tout afficher"
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:40
+msgid "Show more"
+msgstr "Afficher plus"
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:23
+msgid "Show price breakdown"
+msgstr "Afficher les détails du prix"
+
+#: app/scripts/constants/flight_search/result_constants.js:102
+#: app/scripts/constants/flight_search/result_constants.js:112
+msgid "Soon"
+msgstr "2 - 7j"
+
+#: app/views/flight_search/partials/results/aerFlightRow.html:61
+msgid "Special information for this offer:"
+msgstr "Information importante sur cette offre:"
+
+#: app/scripts/constants/flight_search/result_constants.js:156
+msgid "Special offer"
+msgstr "Offre spéciale"
+
+#: app/scripts/constants/flight_search/result_constants.js:92
+msgid "Stop"
+msgstr "Escale"
+
+#: app/scripts/constants/flight_search/result_constants.js:93
+#: app/views/flight_search/partials/results/aerFlightRow.html:46
+msgid "Stops"
+msgstr "Escales"
+
+#: app/views/flight_search/popups/results/routingMilage.html:104
+#: app/views/flight_search/popups/results/routingMilage.html:61
+msgid "Subtotal mileage"
+msgstr "Sous-total du nombre de miles"
+
+#: app/views/flight_search/partials/results/aerFlightRow.html:12
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:33
+msgid "Tax"
+msgstr "Taxe"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:49
+msgid "The %1$s fare families"
+msgstr "Les cat. tarifaires %1$s "
+
+#: app/views/flight_search/partials/results/generalCarriage.html:54
+msgid ""
+"The Carrier undertakes to use its best efforts to carry the Passenger and "
+"luggage with reasonable dispatch. Times shown in timetables or elsewhere are "
+"not guaranteed and form no part of this contract. The Carrier may without "
+"notice substitute alternate carriers or aircraft, and may alter or omit "
+"stopping places shown on the ticket in case of necessity. Schedules are "
+"subject to change without notice. The Carrier assumes no responsibility for "
+"making connections."
+msgstr ""
+"Le transporteur s'engage à mettre tout en œuvre pour transporter le passager "
+"et ses bagages dans des délais raisonnables. Les heures indiquées sur les "
+"horaires publiés ou ailleurs ne sont pas garanties et ne font pas partie "
+"intégrante de ce contrat. Le transporteur peut, sans donner de préavis, "
+"substituer ses services par d’autres transporteurs ou aéronefs de "
+"remplacement, et il peut modifier ou omettre des escales indiquées sur le "
+"billet en cas de nécessité. Les horaires peuvent être modifiés sans préavis. "
+"Le transporteur n’assume aucune responsabilité à l’égard des vols de "
+"correspondances. "
+
+#: app/views/flight_search/partials/results/generalCarriage.html:36
+msgid ""
+"The Carrier's name may be abbreviated in the ticket, the full name and its "
+"abbreviation being set forth in the Carrier's tariffs, conditions of "
+"carriage, regulations or timetables; the Carrier's address shall be the "
+"airport of departure shown opposite the first abbreviation of the Carrier's "
+"name in the ticket; the agreed stopping places are those places set forth in "
+"this ticket or as shown in the Carrier's timetables as scheduled stopping "
+"places on the Passenger's route; carriage to be performed hereunder by "
+"several successive carriers is regarded as a single operation."
+msgstr ""
+"Le nom du transporteur peut être abrégé sur le billet, le nom intégral et "
+"son abréviation étant énoncés dans les tarifs du transporteur, les "
+"conditions de transport, la réglementation ou les horaires; l’adresse du "
+"transporteur est celle de l’aéroport de départ indiquée en regard de la "
+"première abréviation du nom du transporteur apparaissant sur le billet; les "
+"escales prévues sont celles qui sont indiquées sur ce billet ou sur les "
+"horaires du transporteur comme des escales régulières sur l’itinéraire du "
+"passager;  le transport devant être effectué en vertu des présentes "
+"conditions par plusieurs transporteurs successifs est considéré comme une "
+"seule opération."
+
+#: app/views/flight_search/partials/results/generalCarriage.html:57
+msgid ""
+"The Passenger shall comply with Government travel requirements, present "
+"exit, entry and other required documents, and arrive at the airport as per "
+"the the time indicated by the Carrier or, if no time is indicated, early "
+"enough to complete the departure procedures."
+msgstr ""
+"Les passagers doivent se conformer aux normes gouvernementales en matière de "
+"voyages, présenter les documents de sortie, d’entrée et autres qui sont "
+"exigés et ils doivent se présenter à l’aéroport au plus tard à l’heure fixée "
+"par le transporteur ou, si aucune heure n’est fixée, assez tôt avant le "
+"départ afin de compléter les formalités de départ. "
+
+#: app/views/flight_search/popups/results/routingMilage.html:127
+msgid ""
+"The actual flight routes may differ from the routes shown below, based on "
+"weather, earth rotation and security conditions. The miles that will be "
+"credited by the airline’s frequent flyer program may differ from the miles "
+"shown below."
+msgstr ""
+"Les itinéraires réels parcourus peuvent différer des trajets indiqués ci-"
+"dessous en fonction du temps, de la rotation de la terre et des conditions "
+"de sécurité. Les miles qui seront crédités par le programme de voyageur "
+"fréquent de la compagnie aérienne peuvent différer des miles affichés ci-"
+"dessous. "
+
+#: app/views/flight_search/accordions/results.html:28
+msgid "There is a network error to load more results. Please"
+msgstr ""
+"Il y a une erreur de réseau pour charger plus de résultats. Veuillez s'il "
+"vous plaît..."
+
+#: app/views/flight_search/partials/results/generalCarriage.html:48
+msgid ""
+"This ticket is good for carriage for one year from the date of issue, except "
+"as otherwise provided therein, or in the Carrier's tariffs, conditions of "
+"carriage, or related regulations. The fare for carriage hereunder is subject "
+"to change prior to commencement of carriage. The Carrier may refuse "
+"transportation if the applicable fare has not been paid."
+msgstr ""
+"Ce billet est valable à des fins de transport pendant un an à compter de la "
+"date d’émission, sauf stipulation contraire dans ce billet, dans les tarifs, "
+"les conditions de transport ou les règlements connexes du transporteur. Le "
+"tarif de transport en vertu des présentes conditions est sujet à changement "
+"sans préavis avant le début du transport. Le transporteur peut refuser le "
+"transport si le tarif applicable n’a pas été acquitté."
+
+#: app/views/flight_search/partials/results/generalCarriage.html:24
+msgid "Ticket"
+msgstr "Billet"
+
+#: app/views/flight_search/partials/resultFilters/tktl.html:2
+msgid "Ticket time limit"
+msgstr "Date limite d'émission billet"
+
+#: app/scripts/constants/flight_search/result_constants.js:108
+#: app/scripts/constants/flight_search/result_constants.js:98
+msgid "Time"
+msgstr "Temps"
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:35
+msgid "Tkt-fee"
+msgstr "Frais d‘émission"
+
+#: app/views/flight_search/partials/results/generalCarriage.html:33
+msgid ""
+"To the extent that they are not in conflict with the foregoing, carriage and "
+"other services performed by each carrier are subject to: (i) provisions "
+"contained in the ticket, (ii) applicable tariffs, (iii) the Carrier's "
+"conditions of carriage and related regulations which are made part hereof "
+"(and are available on application at the offices of the Carrier), except for "
+"transportation on routes in the United States or Canada, or outside thereof "
+"to which the tariffs in force in those countries apply."
+msgstr ""
+"Dans la mesure où il n’y a aucune incompatibilité avec ce qui précède, le "
+"transport et les autres services fournis par le transporteur sont assujettis "
+": (i) aux conditions contenues dans ce billet, (ii) aux tarifs applicables, "
+"(iii) aux conditions de transport du transporteur et à la réglementation "
+"connexe qui font partie intégrante des présentes conditions (et sont "
+"disponibles sur demande au bureau du transporteur), à l'exception du "
+"transport sur des trajets situés aux États-Unis ou au Canada, ou en dehors "
+"de ces territoires, auquel cas ce sont les tarifs en vigueur dans ces pays "
+"qui s'appliquent. "
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:97
+msgid "Total"
+msgstr "Total"
+
+#: app/views/flight_search/partials/results/aerItinerarySegment.html:99
+msgid "Total Travel Time"
+msgstr "Durée totale voyage"
+
+#: app/scripts/constants/flight_search/result_constants.js:107
+#: app/scripts/constants/flight_search/result_constants.js:97
+msgid "Total Travel time"
+msgstr "Durée totale voyage"
+
+#: app/scripts/constants/flight_search/result_constants.js:150
+msgid "Total markup"
+msgstr "Commission totale"
+
+#: app/views/flight_search/popups/results/routingMilage.html:117
+#: app/views/flight_search/popups/results/routingMilage.html:15
+msgid "Total mileage"
+msgstr "Nbre de miles total "
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:38
+msgid "Total p.p."
+msgstr "Total par pers."
+
+#: app/scripts/constants/flight_search/result_constants.js:153
+msgid "Total saving"
+msgstr "Gain total"
+
+#: app/scripts/constants/flight_search/result_constants.js:12
+msgid "Tour operator fare"
+msgstr "Tarif Tour Opérateur"
+
+#: app/views/flight_search/partials/results/aerItinerarySegment.html:97
+msgid "Transfer in"
+msgstr "Changer à "
+
+#: app/views/flight_search/accordions/results.html:28
+msgid "Try again"
+msgstr "Essayez de nouveau"
+
+#: app/views/flight_search/popups/results/extras.html:35
+msgid "Unfortunately we could not find Extras for your selection."
+msgstr ""
+"Malheureusement, nous n'avons pas trouvé d'extras s'appliquant à vos choix. "
+
+#: app/views/flight_search/popups/results/farefamilies.html:21
+msgid ""
+"Unfortunately we could not find fare families for the selected offer. For "
+"details on fare families please contact your service team."
+msgstr ""
+"Malheureusement, nous n'avons pu trouver aucune cat. tarifaire pour l'offre "
+"sélectionnée. Pour plus de détails à propos des catégories tarifaires, "
+"veuillez contacter votre service clientèle."
+
+#: app/views/flight_search/popups/results/fareRules.html:42
+msgid ""
+"Unfortunately we could not find fare rules for the selected offer. For "
+"details on fare rules please contact your service team."
+msgstr ""
+"Malheureusement, nous n'avons pu trouver aucune règle tarifaire pour l'offre "
+"sélectionnée. Pour plus de détails à propos des règles tarifaires, veuillez "
+"contacter votre service clientèle."
+
+#: app/views/flight_search/partials/results/non-fare-family-upsell.html:13
+msgid ""
+"Unfortunately we could not find upsell for the selected offer. For details "
+"on upsell please contact your service team."
+msgstr ""
+"Malheureusement, nous n'avons pu trouver aucune vente surclasser pour "
+"l'offre sélectionnée. Pour plus de détails à propos de la vente surclasser, "
+"veuillez contacter votre service clientèle."
+
+#: app/views/flight_search/partials/results/is-fare-family-upsell.html:13
+msgid ""
+"Unfortunately we could not find upsell for the selected offer. For details "
+"on upsell please contact your service team.."
+msgstr ""
+"Malheureusement, nous n'avons pu trouver aucune vente surclasser pour "
+"l'offre sélectionnée. Pour plus de détails à propos de la vente surclasser, "
+"veuillez contacter votre service clientèle."
+
+#: app/scripts/constants/flight_search/result_constants.js:117
+msgid "Unknown"
+msgstr "Inconnu"
+
+#: app/views/flight_search/partials/results/aerFlightRowExpandedView.html:123
+#: app/views/flight_search/partials/results/is-fare-family-upsell.html:2
+#: app/views/flight_search/partials/results/non-fare-family-upsell.html:2
+msgid "Upsell"
+msgstr "Surclasser"
+
+#: app/views/flight_search/partials/resultFilters/via.html:2
+msgid "Via"
+msgstr "Via"
+
+#: app/scripts/constants/flight_search/result_constants.js:14
+msgid "Visit friends and relatives"
+msgstr "Rendre visite à la famille et aux amis"
+
+#: app/views/flight_search/partials/results/generalCarriage.html:27
+msgid "Warsaw Convention"
+msgstr "Convention de Varsovie"
+
+#: app/views/flight_search/accordions/results.html:25
+msgid "You have reached the end of the result list."
+msgstr "Vous êtes arrivés au bout de la liste de résultats. "
+
+#: app/views/flight_search/partials/results/generalCarriage.html:5
+msgid "[Airline] general conditions of carriage"
+msgstr "[Cie aérienne] conditions générales de transport "
+
+#: app/views/flight_search/partials/results/aerAgentMarkup2.html:10
+msgid "additional markup p. p."
+msgstr "commission suppl. par pers."
+
+#: app/views/flight_search/partials/results/aerFlightRow.html:68
+msgid "airport change:"
+msgstr "Changement d’aéroport"
+
+#: app/views/flight_search/partials/results/aerFlightRow.html:72
+msgid "alternate airports resulting from radius search:"
+msgstr " Aéroport inclus dans la zone de recherché étendue"
+
+#: app/views/flight_search/partials/resultFilters/time.html:49
+msgid "arrival"
+msgstr "arrivée"
+
+#: app/views/flight_search/partials/results/aerFlightRow.html:80
+msgid "cabin class mix:"
+msgstr "Classes de cabine différentes"
+
+#: app/views/flight_search/partials/results/aerFlightRow.html:107
+msgid "cheapest"
+msgstr "le moins cher"
+
+#: app/views/flight_search/partials/resultFilters/time.html:43
+msgid "departure"
+msgstr "départ"
+
+#: app/scripts/constants/flight_search/result_constants.js:116
+msgid "direct flight"
+msgstr "vol direct"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:11
+msgid "equals"
+msgstr "équivaut à"
+
+#: app/views/flight_search/popups/results/farefamily/tabContent.html:7
+msgid "fare family"
+msgstr "cat. tarifaire"
+
+#: app/views/flight_search/partials/results/aerFlightRow.html:10
+msgid "incl."
+msgstr "inclus"
+
+#: app/views/flight_search/partials/results/generalCarriage.html:25
+msgid ""
+"is equivalent to \"transportation\"; \"Carrier\" means all air carriers that "
+"carry or undertake to carry the Passenger or his/her luggage hereunder or "
+"perform any other service incidental to such air carriage;"
+msgstr ""
+"équivaut à \"transport\"; \"transporteur\" désigne tous les transporteurs "
+"qui transportent ou s'engagent à transporter le passager ou ses bagages, "
+"selon les termes de l'accord, ou exécutent tout autre service connexe à ce "
+"genre de transporteur aérien ;"
+
+#: app/scripts/constants/flight_search/result_constants.js:132
+msgid "kg allowed"
+msgstr "kg autorisés"
+
+#: app/views/flight_search/partials/results/is-fare-family-upsell.html:58
+#: app/views/flight_search/partials/results/non-fare-family-upsell.html:47
+msgid "left arrow"
+msgstr "flèche gauche"
+
+#: app/views/flight_search/partials/results/aerFlightRow.html:76
+msgid "long transfer times:"
+msgstr "Temps de transfert long"
+
+#: app/views/flight_search/partials/results/generalCarriage.html:27
+msgid ""
+"means the Convention for the Unification of Rules Relating to International "
+"Carriage by Air signed at Warsaw, 12th October 1929, or that Convention as "
+"amended at The Hague, 28th September 1955, whichever may be applicable."
+msgstr ""
+"désigne la Convention pour l'unification de certaines règles relatives au "
+"transport aérien international, signée le 12 octobre 1929 à Varsovie, ou "
+"cette même Convention, telle qu'elle a été modifiée le 28 septembre 1955 à "
+"La Hague, selon les cas. "
+
+#: app/views/flight_search/partials/results/generalCarriage.html:26
+msgid ""
+"means the Itinerary/Receipt issued by or on behalf of the Carrier, the "
+"Electronic Coupons and, if applicable, a boarding document;"
+msgstr ""
+"désigne l'itinéraire/reçu émis par ou au nom du transporteur, les Coupons "
+"Électroniques et, le cas échéant, un document d'embarquement ;"
+
+#: app/views/flight_search/partials/results/generalCarriage.html:24
+msgid ""
+"means this passenger ticket and luggage check, or this itinerary/receipt if "
+"applicable, in the case of an electronic ticket, of which these conditions "
+"and the notices form part;"
+msgstr ""
+"désigne le billet du passager et le reçu de bagages, ou \n"
+"l'itinéraire/reçu le cas échéant, s’il s’agit d’un billet électronique, et "
+"fait partie des présentes conditions et avis ;"
+
+#: app/views/flight_search/popups/results/routingMilage.html:108
+#: app/views/flight_search/popups/results/routingMilage.html:121
+#: app/views/flight_search/popups/results/routingMilage.html:37
+#: app/views/flight_search/popups/results/routingMilage.html:52
+#: app/views/flight_search/popups/results/routingMilage.html:65
+#: app/views/flight_search/popups/results/routingMilage.html:80
+#: app/views/flight_search/popups/results/routingMilage.html:95
+msgid "miles"
+msgstr "miles"
+
+#: app/views/flight_search/partials/results/aerResultItineraryRow.html:18
+msgid "more"
+msgstr "plus"
+
+#: app/scripts/constants/flight_search/result_constants.js:136
+msgid "no baggage allowed"
+msgstr "aucun bagage autorisé"
+
+#: app/scripts/constants/flight_search/result_constants.js:86
+msgid "nonstop"
+msgstr "non-stop"
+
+#: app/scripts/constants/flight_search/result_constants.js:115
+msgid "nonstop flight"
+msgstr "vol non-stop "
+
+#: app/scripts/constants/flight_search/result_constants.js:135
+msgid "piece allowed"
+msgstr "élément autorisé"
+
+#: app/scripts/constants/flight_search/result_constants.js:134
+msgid "pieces allowed"
+msgstr "éléments autorisés"
+
+#: app/views/flight_search/partials/results/is-fare-family-upsell.html:61
+#: app/views/flight_search/partials/results/non-fare-family-upsell.html:50
+msgid "right arrow"
+msgstr "flèche droite"
+
+#: app/scripts/constants/flight_search/result_constants.js:141
+msgid "selected Flight is not available"
+msgstr "Le vol sélectionné n'est pas disponible"
+
+#: app/views/flight_search/partials/results/aerFlightRow.html:104
+msgid "shortest"
+msgstr "le plus court"
+
+#: app/scripts/constants/flight_search/result_constants.js:88
+msgid "technical stop(s)"
+msgstr "escale(s) technique(s)"
+
+#: app/views/flight_search/popups/results/farefamily/tab.html:5
+msgid "{{heading}}"
+msgstr "{{heading}}"
+

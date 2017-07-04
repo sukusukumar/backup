@@ -1,0 +1,21 @@
+{
+  "cartItemList": [
+    {
+      "type": "PAYMENT",
+      "cartItemIdList": [
+        "1"
+      ],
+      "referenceNumber": 0,
+      "method": "BANK_TRANSFER"
+    },
+    {
+      "referenceNumber": 1,
+      "type": "MANUAL_MARKUP",
+      "isAppliedForEachPax": false,
+      "value": 0,
+      "flightIdList": [
+        "1"
+      ]
+    }
+  ]
+}

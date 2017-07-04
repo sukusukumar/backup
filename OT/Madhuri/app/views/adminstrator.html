@@ -1,0 +1,811 @@
+<div ng-include="'app/views/header.html'"></div>
+<div class="maincontainer">
+         <div class="maincontent">
+            <div class="container-fluid">
+				<div class="content-shadow">	
+               <div class="ot-userAdministration">
+                  <ul class="nav nav-tabs">
+                     <li id ="_one"  class="active"  ng-click = "showdiv($event)"><a data-toggle="tab">User Administration</a></li>
+                     <li id ="_two" ng-click = "showdiv($event)"><a data-toggle="tab" >Device Administration</a></li>
+                     <li id ="_three" ng-click = "showdiv($event)"><a data-toggle="tab" >Jobs Administration</a></li>
+                  </ul>
+                  <div class="tab-content">
+                     <div id="User" class="tab-pane fade in active">
+                        <div class="orchestra_devices_table">
+                           <div class="row">
+                              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+								 <div class="table-header">
+									<ul class="userAdministration-btn">
+									  <li class="active" id ="subdiv1" ng-click ="showSubDiv($event)"><a data-toggle="tab"  >Username</a></li>
+									  <li id ="subdiv2" ng-click ="showSubDiv($event)"><a data-toggle="tab"   >Role</a></li>
+									  <li id ="subdiv3" ng-click ="showSubDiv($event)"><a data-toggle="tab"  >Group</a></li>
+									</ul>
+
+									<div class="tab-content">
+									  <div id="home" class="tab-pane fade in active">
+										<div class="device-table">
+									<div class="">
+									<a href="javascript:void(0)" class="table-AdministrationAdd"><img src="images/device-plus-icon.png" alt="add"/></a>
+										<div class="popup-AdministrationAdd AdministrationAdd">
+											<form>
+											  <div class="form-group">
+												<label for="username" class="control-label col-sm-4 col-md-4 col-lg-4">Username</label>
+												<div class="col-sm-8 col-md-8 col-lg-8">
+												  <input type="text" id="username" class="form-control">
+												</div>
+											  </div>
+											  <div class="form-group">
+												<label for="name" class="control-label col-sm-4 col-md-4 col-lg-4">Name</label>
+												<div class="col-sm-8 col-md-8 col-lg-8">
+												  <input type="text" id="name" class="form-control">
+												</div>
+											  </div>
+											  <div class="form-group">
+												<label for="customer" class="control-label col-sm-4 col-md-4 col-lg-4">Customer</label>
+												<div class="col-sm-8 col-md-8 col-lg-8">
+												  <input type="text" id="customer" class="form-control">
+												</div>
+											  </div>
+											  <div class="form-group ot-btn-data">
+												<button type="button" class="btn btn-info ot-btn">Save</button>
+												<button type="button" class="btn btn-info ot-btn">Cancel</button>
+											  </div>
+											</form>
+										</div>
+									</div>
+                                    <div class="table-responsive">
+                                       <table class="table">
+                                          <thead>
+                                             <tr>
+                                                <th>Username</th>
+                                                <th>First Name</th>
+                                                <th>Last Name</th>
+                                                <th>Email</th>
+                                                <th>Group</th>
+                                                <th>Role</th>
+                                                <th>Customer</th>
+                                                <th>Created By</th>
+                                             </tr>
+                                             <tr>
+                                                <th><label class="hide" for="selectall">Select All</label><input type="text" class="device_col_search" id="selectall" name="selectall"></th>
+                                                <th><label class="hide" for="deviceID">Device ID</label><input type="text" class="device_col_search" id="deviceID" name="deviceId"></th>
+                                                <th><label class="hide" for="deviceName">Device Name</label><input type="text" class="device_col_search" id="deviceName" name="deviceName"></th>
+                                                <th><label class="hide" for="workurl">all</label><input type="text" class="device_col_search" id="workurl" name="workurl"></th>
+                                                <th><label class="hide" for="msisdn">all</label><input type="text" class="device_col_search" id="msisdn" name="msisdn"></th>
+                                                <th><label class="hide" for="network1">all</label><input type="text" class="device_col_search" id="network1" name="network1"></th>
+                                                <th><label class="hide" for="network2">all</label><input type="text" class="device_col_search" id="network2" name="network2"></th>
+                                                <th><label class="hide" for="network3">all</label><input type="text" class="device_col_search" id="network3" name="network3"></th>
+                                             </tr>
+                                          </thead>
+                                          <tbody>
+                                             <tr>
+                                                <td>Devman</td>
+                                                <td>Mick</td>
+                                                <td>Lyon</td>
+                                                <td>lyon@gmail.com</td>
+                                                <td>Samk</td>
+                                                <td>IA_admin</td>
+                                                <td>Samsung</td>
+                                                <td>
+                                                   <span>admin</span> <a class="device_settings setting-open" href="javascript:void(0);"><img alt="Settings" src="images/devices-settings-icon.png"></a>
+                                                   <ul class="settings-in-open">
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Show Devices"><img alt="Show Devices" src="images/setting-icon-view.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Edit"><img alt="Edit" src="images/setting-icon-edit.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Delete"><img alt="Delete" src="images/setting-icon-delete.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Copy"><img alt="Copy" src="images/setting-icon-folder.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="rate"><img alt="Rate" src="images/setting-icon-star-orange.png"></a></li>
+                                                      <li><a href="javascript:void(0)" class="icon-close"><img alt="Rate" src="images/refresh-icon.png"></a></li>
+                                                   </ul>
+                                                </td>
+                                             </tr>
+                                             <tr>
+                                                <td>Devman</td>
+                                                <td>Mick</td>
+                                                <td>Lyon</td>
+                                                <td>lyon@gmail.com</td>
+                                                <td>Samk</td>
+                                                <td>IA_admin</td>
+                                                <td>Samsung</td>
+                                                <td>
+                                                   <span>admin</span> <a class="device_settings setting-open" href="javascript:void(0);"><img alt="Settings" src="images/devices-settings-icon.png"></a>
+                                                   <ul class="settings-in-open">
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Show Devices"><img alt="Show Devices" src="images/setting-icon-view.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Edit"><img alt="Edit" src="images/setting-icon-edit.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Delete"><img alt="Delete" src="images/setting-icon-delete.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Copy"><img alt="Copy" src="images/setting-icon-folder.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="rate"><img alt="Rate" src="images/setting-icon-star-orange.png"></a></li>
+                                                      <li><a href="javascript:void(0)" class="icon-close"><img alt="Rate" src="images/refresh-icon.png"></a></li>
+                                                   </ul>
+                                                </td>
+                                             </tr>
+                                             <tr>
+                                                <td>Devman</td>
+                                                <td>Mick</td>
+                                                <td>Lyon</td>
+                                                <td>lyon@gmail.com</td>
+                                                <td>Samk</td>
+                                                <td>IA_admin</td>
+                                                <td>Samsung</td>
+                                                <td>
+                                                   <span>admin</span> <a class="device_settings setting-open" href="javascript:void(0);"><img alt="Settings" src="images/devices-settings-icon.png"></a>
+                                                   <ul class="settings-in-open">
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Show Devices"><img alt="Show Devices" src="images/setting-icon-view.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Edit"><img alt="Edit" src="images/setting-icon-edit.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Delete"><img alt="Delete" src="images/setting-icon-delete.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Copy"><img alt="Copy" src="images/setting-icon-folder.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="rate"><img alt="Rate" src="images/setting-icon-star-orange.png"></a></li>
+                                                      <li><a href="javascript:void(0)" class="icon-close"><img alt="Rate" src="images/refresh-icon.png"></a></li>
+                                                   </ul>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </div>
+                                 </div>
+									  </div>
+									  <div id="menu1" class="tab-pane fade ">
+										<h3>Role</h3>
+										<p>Data not yet receive</p>
+									  </div>
+									  <div id="menu2" class="tab-pane fade">
+										<div class="device-table group-table">
+									<div class="">
+									<a href="javascript:void(0)" class="table-AdministrationAdd"><img src="images/device-plus-icon.png" alt="add"/></a>
+										<div class="popup-AdministrationAdd AdministrationAdd">
+											<form>
+											  <div class="form-group">
+												<label for="username-1" class="control-label col-sm-4 col-md-4 col-lg-4">Group id</label>
+												<div class="col-sm-8 col-md-8 col-lg-8">
+												  <input type="text" id="username-1" class="form-control">
+												</div>
+											  </div>
+											  <div class="form-group">
+												<label for="name-1" class="control-label col-sm-4 col-md-4 col-lg-4">Name</label>
+												<div class="col-sm-8 col-md-8 col-lg-8">
+												  <input type="text" id="name-1" class="form-control">
+												</div>
+											  </div>
+											  <div class="form-group">
+												<label for="customer-1" class="control-label col-sm-4 col-md-4 col-lg-4">Customer</label>
+												<div class="col-sm-8 col-md-8 col-lg-8">
+												  <input type="text" id="customer-1" class="form-control">
+												</div>
+											  </div>
+											  <div class="form-group ot-btn-data">
+												<button type="button" class="btn btn-info ot-btn">Save</button>
+												<button type="button" class="btn btn-info ot-btn">Cancel</button>
+											  </div>
+											</form>
+										</div>
+									</div>
+                                    <div class="table-responsive">
+                                       <table class="table">
+                                          <thead>
+                                             <tr>
+                                                <th>Group Name</th>
+                                                <th>Group ID</th>
+                                                <th>Customer</th>
+                                                <th>Created By</th>
+                                                <th>&nbsp;</th>
+                                             </tr>
+                                             <tr>
+                                                <th><label class="hide" for="selectall-1">Select All</label><input type="text" class="device_col_search" id="selectall-1" name="selectall-1"></th>
+                                                <th><label class="hide" for="deviceID-1">Device ID</label><input type="text" class="device_col_search" id="deviceID-1" name="deviceId-1"></th>
+                                                <th><label class="hide" for="deviceName-1">Device Name</label><input type="text" class="device_col_search" id="deviceName-1" name="deviceName-1"></th>
+                                                <th><label class="hide" for="workurl-1">all</label><input type="text" class="device_col_search" id="workurl-1" name="workurl-1"></th>
+                                                <th>&nbsp;</th>
+                                             </tr>
+                                          </thead>
+                                          <tbody>
+                                             <tr>
+                                                <td>Wifigroup1</td>
+                                                <td>rp_12</td>
+                                                <td>Samsung</td>
+                                                <td>admin</td>
+                                                <td>
+                                                   <a class="device_settings setting-open" href="javascript:void(0);"><img alt="Settings" src="images/devices-settings-icon.png"></a>
+                                                   <ul class="settings-in-open">
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Show Devices"><img alt="Show Devices" src="images/setting-icon-view.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Edit"><img alt="Edit" src="images/setting-icon-edit.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Delete"><img alt="Delete" src="images/setting-icon-delete.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Copy"><img alt="Copy" src="images/setting-icon-folder.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="rate"><img alt="Rate" src="images/setting-icon-star-orange.png"></a></li>
+                                                      <li><a href="javascript:void(0)" class="icon-close"><img alt="Rate" src="images/refresh-icon.png"></a></li>
+                                                   </ul>
+                                                </td>
+                                             </tr>
+											 <tr>
+                                                <td>Wifigroup2</td>
+                                                <td>rp_13</td>
+                                                <td>Samsung</td>
+                                                <td>admin</td>
+                                                <td>
+                                                  <a class="device_settings setting-open" href="javascript:void(0);"><img alt="Settings" src="images/devices-settings-icon.png"></a>
+                                                   <ul class="settings-in-open">
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Show Devices"><img alt="Show Devices" src="images/setting-icon-view.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Edit"><img alt="Edit" src="images/setting-icon-edit.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Delete"><img alt="Delete" src="images/setting-icon-delete.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Copy"><img alt="Copy" src="images/setting-icon-folder.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="rate"><img alt="Rate" src="images/setting-icon-star-orange.png"></a></li>
+                                                      <li><a href="javascript:void(0)" class="icon-close"><img alt="Rate" src="images/refresh-icon.png"></a></li>
+                                                   </ul>
+                                                </td>
+                                             </tr>
+											 <tr>
+                                                <td>Wifigroup3</td>
+                                                <td>rp_14</td>
+                                                <td>Samsung</td>
+                                                <td>admin</td>
+                                                <td>
+                                                  <a class="device_settings setting-open" href="javascript:void(0);"><img alt="Settings" src="images/devices-settings-icon.png"></a>
+                                                   <ul class="settings-in-open">
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Show Devices"><img alt="Show Devices" src="images/setting-icon-view.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Edit"><img alt="Edit" src="images/setting-icon-edit.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Delete"><img alt="Delete" src="images/setting-icon-delete.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="Copy"><img alt="Copy" src="images/setting-icon-folder.png"></a></li>
+                                                      <li><a title="" data-placement="top" data-toggle="tooltip" href="javascript:void(0)" data-original-title="rate"><img alt="Rate" src="images/setting-icon-star-orange.png"></a></li>
+                                                      <li><a href="javascript:void(0)" class="icon-close"><img alt="Rate" src="images/refresh-icon.png"></a></li>
+                                                   </ul>
+                                                </td>
+                                             </tr>                                            
+                                          </tbody>
+                                       </table>
+                                    </div>
+                                 </div>
+									  </div>
+									</div>
+                                    <div class="clearfix"></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+					 <div id="Device" class="tab-pane fade">
+                        <div class="orchestra_devices_table">
+                           <div class="row">
+                              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+								 <div class="table-header">
+									<ul class="userAdministration-btn">
+									  <li id ="deviceone" class="active" ng-click ="showDeviceAdministrationSubDiv($event)"><a  data-toggle="tab" aria-expanded="true">Device ID</a></li>
+									  <li id ="devicetwo" ng-click ="showDeviceAdministrationSubDiv($event)"><a  data-toggle="tab" aria-expanded="true">Device Group</a></li>
+									 
+									</ul>
+
+									<div class="tab-content">
+									  <div class="tab-pane fade in active" id="deviceid">
+										<div class="device-table group-table">
+									
+                                    <div class="table-responsive">
+                                       <table class="table">
+                                          <thead>
+                                             <tr>
+                                                <th>Device ID</th>
+                                                <th>Device Name</th>
+                                                <th>Created By</th>
+                                                <th>Customer</th>
+                                                <th>Status</th>
+                                             </tr>
+                                             <tr>
+                                                <th><label for="selectall-2" class="hide">Select All</label><input type="text" name="selectall-2" id="selectall-2" class="device_col_search"></th>
+                                                <th><label for="deviceID-2" class="hide">Device ID</label><input type="text" name="deviceId-2" id="deviceID-2" class="device_col_search"></th>
+                                                <th><label for="deviceName-2" class="hide">Device Name</label><input type="text" name="deviceName-2" id="deviceName-2" class="device_col_search"></th>
+                                                <th><label for="workurl-2" class="hide">all</label><input type="text" name="workurl-2" id="workurl-2" class="device_col_search"></th>
+                                                <th>&nbsp;</th>
+                                             </tr>
+                                          </thead>
+                                          <tbody>
+                                             <tr>
+                                                <td>as12</td>
+                                                <td>Wifigroup1</td>
+                                                <td>admin</td>
+                                                <td>Samsung</td>
+                                                <td>Approved</td>
+                                             </tr>
+											<tr>
+                                                <td>as13</td>
+                                                <td>Wifigroup2</td>
+                                                <td>admin</td>
+                                                <td>Samsung</td>
+                                                <td>Approved</td>
+                                             </tr>
+											 <tr>
+                                                <td>as14</td>
+                                                <td>Wifigroup3</td>
+                                                <td>admin</td>
+                                                <td>Samsung</td>
+                                                <td>Approved</td>
+                                             </tr>
+											                                          
+                                          </tbody>
+                                       </table>
+                                    </div>
+									<div class="col-sm-12 text-center">
+									  <button class="btn btn-info ot-btn" type="button">Approve</button>
+									  <button class="btn btn-info ot-btn" type="button">Reject</button>
+									</div>
+                                 </div>
+								</div>
+								 <div class="tab-pane fade " id="devicegroup">
+										<div class="device-table group-table">
+										<div class="">
+									<a class="table-AdministrationAdd" href="javascript:void(0)"><img alt="add" src="images/device-plus-icon.png"></a>
+										<div class="popup-AdministrationAdd AdministrationAdd">
+											<form>
+											  <div class="form-group">
+												<label class="control-label col-sm-4 col-md-4 col-lg-4" for="username-3">Group id</label>
+												<div class="col-sm-8 col-md-8 col-lg-8">
+												  <input type="text" class="form-control" id="username-3">
+												</div>
+											  </div>
+											  <div class="form-group">
+												<label class="control-label col-sm-4 col-md-4 col-lg-4" for="name-2">Name</label>
+												<div class="col-sm-8 col-md-8 col-lg-8">
+												  <input type="text" class="form-control" id="name-2">
+												</div>
+											  </div>
+											  <div class="form-group">
+												<label class="control-label col-sm-4 col-md-4 col-lg-4" for="customer-2">Customer</label>
+												<div class="col-sm-8 col-md-8 col-lg-8">
+												  <input type="text" class="form-control" id="customer-2">
+												</div>
+											  </div>
+											  <div class="form-group ot-btn-data">
+												<button class="btn btn-info ot-btn" type="button">Save</button>
+												<button class="btn btn-info ot-btn" type="button">Cancel</button>
+											  </div>
+											</form>
+										</div>
+									</div>
+                                    <div class="table-responsive">
+                                       <table class="table">
+                                          <thead>
+                                             <tr>
+                                                <th>Group ID</th>
+                                                <th>Group Name</th>
+                                                <th>Created By</th>
+                                                <th>Customer</th>
+                                                <th>&nbsp;</th>
+                                             </tr>
+                                             <tr>
+                                                <th><label for="selectall-4" class="hide">Select All</label><input type="text" name="selectall-4" id="selectall-4" class="device_col_search"></th>
+                                                <th><label for="deviceID-4" class="hide">Device ID</label><input type="text" name="deviceId-4" id="deviceID-4" class="device_col_search"></th>
+                                                <th><label for="deviceName-4" class="hide">Device Name</label><input type="text" name="deviceName-4" id="deviceName-4" class="device_col_search"></th>
+                                                <th><label for="workurl-4" class="hide">all</label><input type="text" name="workurl-4" id="workurl-4" class="device_col_search"></th>
+                                                <th>&nbsp;</th>
+                                             </tr>
+                                          </thead>
+                                          <tbody>
+                                             <tr>
+                                                <td>as12</td>
+                                                <td>Wifigroup1</td>
+                                                <td>admin</td>
+                                                <td>Samsung</td>
+                                                <td>
+                                                   <a href="javascript:void(0);" class="device_settings setting-open"><img src="images/devices-settings-icon.png" alt="Settings"></a>
+                                                   <ul class="settings-in-open">
+                                                      <li><a data-original-title="Show Devices" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title=""><img src="images/setting-icon-view.png" alt="Show Devices"></a></li>
+                                                      <li><a data-original-title="Edit" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title=""><img src="images/setting-icon-edit.png" alt="Edit"></a></li>
+                                                      <li><a data-original-title="Delete" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title=""><img src="images/setting-icon-delete.png" alt="Delete"></a></li>
+                                                      <li><a data-original-title="Copy" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title=""><img src="images/setting-icon-folder.png" alt="Copy"></a></li>
+                                                      <li><a data-original-title="rate" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title=""><img src="images/setting-icon-star-orange.png" alt="Rate"></a></li>
+                                                      <li><a class="icon-close" href="javascript:void(0)"><img src="images/refresh-icon.png" alt="Rate"></a></li>
+                                                   </ul>
+                                                </td>
+                                             </tr>
+											<tr>
+                                                <td>as13</td>
+                                                <td>Wifigroup2</td>
+                                                <td>admin</td>
+                                                <td>Samsung</td>
+                                                <td>
+                                                   <a href="javascript:void(0);" class="device_settings setting-open"><img src="images/devices-settings-icon.png" alt="Settings"></a>
+                                                   <ul class="settings-in-open">
+                                                      <li><a data-original-title="Show Devices" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title=""><img src="images/setting-icon-view.png" alt="Show Devices"></a></li>
+                                                      <li><a data-original-title="Edit" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title=""><img src="images/setting-icon-edit.png" alt="Edit"></a></li>
+                                                      <li><a data-original-title="Delete" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title=""><img src="images/setting-icon-delete.png" alt="Delete"></a></li>
+                                                      <li><a data-original-title="Copy" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title=""><img src="images/setting-icon-folder.png" alt="Copy"></a></li>
+                                                      <li><a data-original-title="rate" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title=""><img src="images/setting-icon-star-orange.png" alt="Rate"></a></li>
+                                                      <li><a class="icon-close" href="javascript:void(0)"><img src="images/refresh-icon.png" alt="Rate"></a></li>
+                                                   </ul>
+                                                </td>
+                                             </tr>
+											 <tr>
+                                                <td>as14</td>
+                                                <td>Wifigroup3</td>
+                                                <td>admin</td>
+                                                <td>Samsung</td>
+                                                <td>
+                                                   <a href="javascript:void(0);" class="device_settings setting-open"><img src="images/devices-settings-icon.png" alt="Settings"></a>
+                                                   <ul class="settings-in-open">
+                                                      <li><a data-original-title="Show Devices" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title=""><img src="images/setting-icon-view.png" alt="Show Devices"></a></li>
+                                                      <li><a data-original-title="Edit" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title=""><img src="images/setting-icon-edit.png" alt="Edit"></a></li>
+                                                      <li><a data-original-title="Delete" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title=""><img src="images/setting-icon-delete.png" alt="Delete"></a></li>
+                                                      <li><a data-original-title="Copy" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title=""><img src="images/setting-icon-folder.png" alt="Copy"></a></li>
+                                                      <li><a data-original-title="rate" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title=""><img src="images/setting-icon-star-orange.png" alt="Rate"></a></li>
+                                                      <li><a class="icon-close" href="javascript:void(0)"><img src="images/refresh-icon.png" alt="Rate"></a></li>
+                                                   </ul>
+                                                </td>
+                                             </tr>
+											                                          
+                                          </tbody>
+                                       </table>
+                                    </div>
+                                 </div>
+								</div>
+									</div>
+                                    <div class="clearfix"></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+					 <div id="Jobs" class="tab-pane fade">
+                        <div class="orchestra_devices_table">
+                           <div class="row">
+                              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                 <div class="userAdministration-btn">&nbsp;</div>
+                                 <div class="device-table group-table">
+									<div class="table-responsive">
+                                       <table class="table">
+                                          <thead>
+                                             <tr>
+                                                <th>Job Name</th>
+                                                <th>Job ID</th>
+                                                <th>Created By</th>
+                                                <th>Customer</th>
+                                             </tr>
+                                             <tr>
+                                                <th><label class="hide" for="selectall-6">Select All</label><input type="text" class="device_col_search" id="selectall-6" name="selectall-6"></th>
+                                                <th><label class="hide" for="deviceID-6">Device ID</label><input type="text" class="device_col_search" id="deviceID-6" name="deviceId-6"></th>
+                                                <th><label class="hide" for="deviceName-6">Device Name</label><input type="text" class="device_col_search" id="deviceName-6" name="deviceName-6"></th>
+												<th>&nbsp;</th>
+                                             </tr>
+                                          </thead>
+                                          <tbody>
+                                             <tr>
+                                                <td>as12</td>
+                                                <td>Wifigroup1</td>
+                                                <td>admin</td>
+                                                <td>Samsung</td>
+                                             </tr>
+											<tr>
+                                                <td>as13</td>
+                                                <td>Wifigroup2</td>
+                                                <td>admin</td>
+                                                <td>Samsung</td>
+                                             </tr>
+											 <tr>
+                                                <td>as14</td>
+                                                <td>Wifigroup3</td>
+                                                <td>admin</td>
+                                                <td>Samsung</td>
+                                             </tr>
+											                                          
+                                          </tbody>
+                                       </table>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+			   <div class="ot-userAdministration">
+                  <ul class="nav nav-tabs">
+                     <li class="active" id="form1" ng-click ="showformpages($event)"><a data-toggle="tab" >User Account</a></li>
+                     <li id="form2" ng-click ="showformpages($event)"><a data-toggle="tab" >Assign Users</a></li>
+                     <li id="form3" ng-click ="showformpages($event)"><a data-toggle="tab" >Assign Reports</a></li>
+                  </ul>
+                  <div class="tab-content">
+                     <div id="account" class="tab-pane fade in active">
+                        <div class="orchestra_devices_table">
+                           <div class="row">
+                              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+									<form class="form-horizontal">
+									  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+										  <div class="form-group">
+											<label class="control-label col-sm-5 col-md-4 col-lg-4" for="username-7">Username</label>
+											<div class="col-sm-7 col-md-8 col-lg-8">
+											  <input type="text" class="form-control" id="username-7">
+											</div>
+										  </div>
+										  <div class="form-group">
+											<label class="control-label col-sm-5 col-md-4 col-lg-4" for="firstname">Firstname</label>
+											<div class="col-sm-7 col-md-8 col-lg-8">
+											  <input type="text" class="form-control" id="firstname">
+											</div>
+										  </div>
+										  <div class="form-group">
+											<label class="control-label col-sm-5 col-md-4 col-lg-4" for="password">Password</label>
+											<div class="col-sm-7 col-md-8 col-lg-8">
+											  <input type="password" class="form-control" id="password">
+											</div>
+										  </div>
+										  <div class="form-group">
+											<label class="control-label col-sm-5 col-md-4 col-lg-4" for="cnfpassword">Conform Password</label>
+											<div class="col-sm-7 col-md-8 col-lg-8">
+											  <input type="password" class="form-control" id="cnfpassword">
+											</div>
+										  </div>
+										  <div class="form-group">
+											<label class="control-label col-sm-5 col-md-4 col-lg-4" for="role">Role</label>
+											<div class="col-sm-7 col-md-8 col-lg-8">
+											<select class="form-control" id="role">
+												<option value="one">One</option>
+												<option value="two">Two</option>
+												<option value="three">Three</option>
+												<option value="four">Four</option>
+												<option value="five">Five</option>
+											</select>
+											</div>
+										  </div>
+									  </div>
+									   <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+										  <div class="form-group hidden-xs">
+											<label class="control-label col-sm-2 col-md-2 col-lg-2" for="username">&nbsp;</label>
+											<div class="col-sm-8 col-md-8 col-lg-8">&nbsp;</div>
+										  </div>
+										  <div class="form-group">
+											<label class="control-label col-sm-3 col-md-2 col-lg-2" for="lastname">Lastname</label>
+											<div class="col-sm-8 col-md-8 col-lg-8">
+											  <input type="text" class="form-control" id="lastname">
+											</div>
+										  </div>
+										  <div class="form-group">
+											<div class="">
+												<a class="table-emailAdd" href="javascript:void(0)">+</a>
+													<div class="popup-AdministrationAdd emailAdd">
+														
+														  <div class="form-group">
+															<label class="control-label col-sm-5 col-md-4 col-lg-4" for="username-8">Customer ID</label>
+															<div class="col-sm-7 col-md-7 col-lg-7">
+															  <input type="text" class="form-control" id="username-8">
+															</div>
+														  </div>
+														  <div class="form-group">
+															<label class="control-label col-sm-5 col-md-4 col-lg-4" for="name-8">Customer Name</label>
+															<div class="col-sm-7 col-md-7 col-lg-7">
+															  <input type="text" class="form-control" id="name-8">
+															</div>
+														  </div>
+														  
+														  <div class="form-group ot-btn-data">
+															<button class="btn btn-info ot-btn" type="button">Save</button>
+															<button class="btn btn-info ot-btn" type="button">Cancel</button>
+														  </div>
+														
+													</div>
+												</div>
+											<label class="control-label col-sm-3 col-md-2 col-lg-2" for="customer-8">Customer</label>
+											<div class="col-sm-8 col-md-8 col-lg-8">
+											  <input type="text" class="form-control" id="customer-8">
+											</div>
+										  </div>
+										  <div class="form-group">
+											
+											<label class="control-label col-sm-3 col-md-2 col-lg-2" for="email-8">Email</label>
+											<div class="col-sm-8 col-md-8 col-lg-8">
+											  <input type="email" class="form-control" id="email-8">
+											</div>
+										  </div>
+										  <div class="form-group">
+											<label class="control-label col-sm-3 col-md-2 col-lg-2" for="role-8">Group</label>
+											<div class="col-sm-8 col-md-8 col-lg-8">
+												<select class="form-control" id="role-8">
+													<option value="one">One</option>
+													<option value="two">Two</option>
+													<option value="three">Three</option>
+													<option value="four">Four</option>
+													<option value="five">Five</option>
+												</select>
+											</div>
+										  </div>
+									  </div>
+									  <div class="form-group ot-btn-data"> 
+										<div class="col-sm-offset-2 col-sm-10  text-center">
+										  <button type="button" class="btn btn-info ot-btn">Save</button>
+										  <button type="button" class="btn btn-info ot-btn">Cancel</button>
+										</div>
+									  </div>
+									</form>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+					 <div id="assign" class="tab-pane fade">
+                        <div class="orchestra_devices_table assign-table">                          
+						   <div class="row">
+								<div class="ot-center">
+								<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+									<div class="assign-tableTitle">
+										<p> Selected Group : <span class="groupname">Wifigroup1</span></p>
+								   </div>
+							   </div>
+                              <div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+                                 <div class="device-table">
+									<p>Available Users</p>
+                                    <div class="table-responsive">
+                                       <table class="table">
+                                          <thead>
+                                             <tr>                                              
+                                                <th>First Name</th>
+                                                <th>Last Name</th>
+												<th>Username</th>
+                                             </tr>
+                                             <tr>
+                                                <th><label class="hide" for="selectall-8">Select All</label><input type="text" class="device_col_search" id="selectall-8" name="selectall-8"></th>
+                                                <th><label class="hide" for="deviceID-8">Device ID</label><input type="text" class="device_col_search" id="deviceID-8" name="deviceId-8"></th>
+                                                <th><label class="hide" for="deviceName-8">Device Name</label><input type="text" class="device_col_search" id="deviceName-8" name="deviceName-8"></th>                                               
+                                             </tr>
+                                          </thead>
+                                          <tbody>
+                                             <tr>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                             </tr>
+											  <tr>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                             </tr>
+											  <tr>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </div>
+                                 </div>
+                              </div>
+							  <div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
+								<div class="ot-toggle">
+									<div><button type="button" class="">&gt;</button></div>
+									<div><button type="button" class="">&lt;</button></div>
+								</div>
+							  </div>
+							   <div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+                                 <div class="device-table">
+									<p>Selected Users</p>
+                                    <div class="table-responsive">
+                                       <table class="table">
+                                          <thead>
+                                             <tr>                                              
+                                                <th>First Name</th>
+                                                <th>Last Name</th>
+												<th>Username</th>
+                                             </tr>
+                                             <tr>
+                                                <th><label class="hide" for="selectall-9">Select All</label><input type="text" class="device_col_search" id="selectall-9" name="selectall-9"></th>
+                                                <th><label class="hide" for="deviceID-9">Device ID</label><input type="text" class="device_col_search" id="deviceID-9" name="deviceId-9"></th>
+                                                <th><label class="hide" for="deviceName-9">Device Name</label><input type="text" class="device_col_search" id="deviceName-9" name="deviceName-9"></th>                                               
+                                             </tr>
+                                          </thead>
+                                          <tbody>
+                                             <tr>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                             </tr>
+											  <tr>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                             </tr>
+											  <tr>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </div>
+                                 </div>
+                              </div>
+							  </div>
+								<div class="col-sm-12 text-center ot-btn-data">
+								  <button class="btn btn-info ot-btn" type="button">Save</button>
+								  <button class="btn btn-info ot-btn" type="button">Cancel</button>
+								</div>
+                           </div>
+                        </div>
+                     </div>
+					 <div id="reports" class="tab-pane fade">
+                        <div class="orchestra_devices_table assign-table">                          
+						   <div class="row">
+								<div class="ot-assignCenter">
+								<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+									<div class="assign-tableTitle">
+										<p>&nbsp;</p>
+								   </div>
+							   </div>
+                              <div class="col-xs-12 col-sm-5 col-md-4 col-lg-4">
+                                 <div class="device-table">
+									<p>AvailableReports</p>
+                                    <div class="table-responsive">
+                                       <table class="table">
+                                          <thead>
+                                             <tr>                                              
+                                                <th>Report name</th>
+                                                <th>Category</th>
+                                            </tr>
+                                             <tr>
+                                                <th><label class="hide" for="selectall-10">Select All</label><input type="text" class="device_col_search" id="selectall-10" name="selectall-10"></th>
+                                                <th><label class="hide" for="deviceID-10">Device ID</label><input type="text" class="device_col_search" id="deviceID-10" name="deviceId-10"></th> 
+                                             </tr>
+                                          </thead>
+                                          <tbody>
+                                             <tr>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                             </tr>
+											  <tr>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                             </tr>
+											  <tr>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </div>
+                                 </div>
+                              </div>
+							  <div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
+								<div class="ot-toggle">
+									<div><button type="button" class="">&gt;</button></div>
+									<div><button type="button" class="">&lt;</button></div>
+								</div>
+							  </div>
+							   <div class="col-xs-12 col-sm-5 col-md-4 col-lg-4">
+                                 <div class="device-table">
+									<p>SelectedReports</p>
+                                    <div class="table-responsive">
+                                       <table class="table">
+                                          <thead>
+                                             <tr>                                              
+                                                <th>Report name</th>
+                                                <th>Category</th>
+                                            </tr>
+                                             <tr>
+                                                <th><label class="hide" for="selectall-11">Select All</label><input type="text" class="device_col_search" id="selectall-11" name="selectall-11"></th>
+                                                <th><label class="hide" for="deviceID-11">Device ID</label><input type="text" class="device_col_search" id="deviceID-11" name="deviceId-11"></th> 
+                                             </tr>
+                                          </thead>
+                                          <tbody>
+                                             <tr>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                             </tr>
+											  <tr>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                             </tr>
+											  <tr>
+                                                <td>&nbsp;</td>
+                                                <td>&nbsp;</td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </div>
+                                 </div>
+                              </div>
+							  </div>
+								<div class="col-sm-12 text-center ot-btn-data">
+								  <button class="btn btn-info ot-btn" type="button">Save</button>
+								  <button class="btn btn-info ot-btn" type="button">Cancel</button>
+								</div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+				</div>
+				<div ng-include="'app/views/favourites.html'"></div>
+			</div>
+         </div>
+      </div>
+	  

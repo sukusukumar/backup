@@ -1,0 +1,589 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Bhaskar Thammali <bhaskar.thammali@valuelabs.com>, 2016. #zanata
+# Daniel Sobiech <dsobiech@aer.de>, 2016. #zanata
+# Marko Vitense <marko.vitense@fti.de>, 2016. #zanata
+# Patrick Krause <pkrause@aer.de>, 2016. #zanata
+# Uta Burkert <uta.burkert@fti.de>, 2016. #zanata
+# Anne Kremer <akremer@aer.de>, 2017. #zanata
+# Daniel Sobiech <dsobiech@aer.de>, 2017. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2017-01-30 02:13+0100\n"
+"Last-Translator: Daniel Sobiech <dsobiech@aer.de>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/flight_search/partials/payment/payment_data.html:107
+msgid ""
+"\"Reservation\" only will create a PNR, a form of payment is not necessary "
+"and you need to order the ticket separately before the ticket time limit "
+"expires."
+msgstr ""
+"Bitte beachten: Preisgarantie nur am Tag der Reservierung, Ticketbestellung "
+"muss bei \"Nur Reservierung\" vor Ablauf der Ticketfrist mit einem "
+"tagesaktuellen Preis erfolgen. "
+
+#: app/scripts/constants/flight_search/payment_constants.js:21
+msgid "APIS data is missing"
+msgstr "APIS-Daten fehlen"
+
+#: app/scripts/constants/flight_search/payment_constants.js:24
+msgid ""
+"APIS data is required for ticket order. Please click on “OK” to complete "
+"data. If data is not available yet, create a reservation alternatively."
+msgstr ""
+"Für die Ticketbestellung ist die Eingabe der APIS-Daten erforderlich. Bitte "
+"klicken Sie auf \"OK\", um die Daten zu vervollständigen. Falls die Daten "
+"noch nicht vorliegen, legen Sie bitte alternativ eine Reservierung an."
+
+#: app/views/flight_search/partials/payment/airplus_cc_details.html:20
+msgid "Account no."
+msgstr "IK"
+
+#: app/views/flight_search/partials/payment/airplus_cc_details.html:40
+msgid "Accounting unit"
+msgstr "AE"
+
+#: app/views/flight_search/partials/payment/airplus_cc_details.html:36
+msgid "Action code"
+msgstr "AK"
+
+#: app/views/flight_search/partials/payment/available_payment_details.html:12
+#: app/views/flight_search/partials/payment/payment_data.html:19
+#: app/views/flight_search/partials/payment/payment_data.html:26
+msgid "Additional markup"
+msgstr "Korrektur Gesamtentgelt (Fee):"
+
+#: app/views/flight_search/partials/payment/billing_address.html:30
+msgid "Address"
+msgstr "Straße"
+
+#: app/scripts/constants/flight_search/payment_constants.js:33
+msgid "Alternate Flight"
+msgstr "Alternativer Flug"
+
+#: app/scripts/constants/flight_search/payment_constants.js:45
+msgid ""
+"An unexpected error has occured during the ticket order process. please "
+"contact your service team."
+msgstr ""
+"Ein unerwarteter Fehler ist aufgetreten. Bitte kontaktieren Sie Ihr "
+"Serviceteam."
+
+#: app/scripts/constants/flight_search/payment_constants.js:38
+msgid ""
+"An unexpected error has occured. Please retry your operation or contact your "
+"service team."
+msgstr ""
+"Ein unerwarteter Fehler ist aufgetreten. Bitte erneut versuchen oder Ihr "
+"Serviceteam kontaktieren."
+
+#: app/scripts/constants/flight_search/payment_constants.js:40
+msgid ""
+"Authorisation for payment has failed, the ticket order is incomplete. Please "
+"retry later or change form of payment."
+msgstr ""
+"Autorisierung ist fehlgeschlagen. Bitte versuchen Sie es erneut oder ändern "
+"Sie die Zahlungsart."
+
+#: app/scripts/constants/flight_search/payment_constants.js:10
+msgid "Bank transfer"
+msgstr "Überweisung"
+
+#: app/views/flight_search/partials/payment/billing_address.html:3
+msgid "Billing address"
+msgstr "Rechnungsadresse"
+
+#: app/scripts/constants/flight_search/payment_constants.js:35
+#: app/scripts/constants/flight_search/payment_constants.js:48
+msgid "Booking could not be confirmed, please select:"
+msgstr "Die Buchung konnte nicht bestätigt werden, bitte wählen Sie:"
+
+#: app/views/flight_search/partials/payment/travellerInfo.html:37
+msgid "CC Fee %s"
+msgstr "CC-Fee %s"
+
+#: app/views/flight_search/partials/payment/bookingPriceDetails.html:10
+#: app/views/flight_search/partials/payment/bookingPriceDetails.html:11
+msgid "CC fee %s"
+msgstr "CC fee %s"
+
+#: app/views/flight_search/partials/payment/available_payment_details.html:34
+msgid "CVC"
+msgstr "CVC"
+
+#: app/views/flight_search/partials/payment/payment_data.html:58
+msgid "CVC:"
+msgstr "CVC:"
+
+#: app/views/flight_search/partials/payment/available_payment_details.html:38
+msgid "Card holder"
+msgstr "Karteninhaber"
+
+#: app/views/flight_search/partials/payment/available_payment_details.html:22
+msgid "Card number"
+msgstr "Kartennummer"
+
+#: app/scripts/constants/flight_search/payment_constants.js:8
+msgid "Cash"
+msgstr "Barzahlung"
+
+#: app/views/flight_search/partials/payment/billing_address.html:38
+msgid "City"
+msgstr "Stadt"
+
+#: app/scripts/constants/flight_search/payment_constants.js:41
+msgid "Code"
+msgstr "Code"
+
+#: app/views/flight_search/partials/payment/billing_address.html:9
+msgid "Company"
+msgstr "Firma"
+
+#: app/views/flight_search/partials/payment/airplus_cc_details.html:16
+msgid "Cost account no"
+msgstr "KS"
+
+#: app/views/flight_search/partials/payment/billing_address.html:49
+msgid "Country"
+msgstr "Land"
+
+#: app/scripts/constants/flight_search/payment_constants.js:7
+#: app/views/flight_search/partials/payment/available_payment_details.html:4
+msgid "Credit card"
+msgstr "Kreditkarte"
+
+#: app/views/flight_search/partials/payment/paymentHeader.html:16
+msgid "Date"
+msgstr "Datum"
+
+#: app/scripts/constants/flight_search/payment_constants.js:11
+msgid "Debit note"
+msgstr "Lastschrift"
+
+#: app/views/flight_search/partials/payment/airplus_cc_details.html:24
+msgid "Department code"
+msgstr "DS"
+
+#: app/scripts/constants/flight_search/payment_constants.js:42
+msgid "Description"
+msgstr "Beschreibung"
+
+#: app/views/flight_search/partials/payment/airplus_cc_details.html:4
+msgid "Destination"
+msgstr "RZ"
+
+#: app/scripts/constants/flight_search/payment_constants.js:43
+msgid "Detailed message"
+msgstr "Detaillierte Info"
+
+#: app/scripts/constants/flight_search/payment_constants.js:5
+msgid "Direct debit"
+msgstr "Abbuchung"
+
+#: app/views/flight_search/partials/payment/billing_address.html:60
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: app/views/flight_search/partials/payment/billing_address.html:78
+msgid "Email Address"
+msgstr "E-Mail Adresse"
+
+#: app/scripts/constants/flight_search/payment_constants.js:26
+msgid "Error"
+msgstr "Fehler"
+
+#: app/views/flight_search/partials/payment/paymentHeader.html:22
+msgid "Export to PDF"
+msgstr "als PDF anzeigen"
+
+#: app/views/flight_search/partials/payment/bookingPriceDetails.html:9
+msgid "Extras"
+msgstr "Extras"
+
+#: app/views/flight_search/partials/payment/paymentFlightSummary.html:14
+#: app/views/flight_search/partials/payment/paymentFlightSummary.html:15
+msgid "Fare Family %1$s"
+msgstr "Fare Family %1$s"
+
+#: app/views/flight_search/partials/payment/airplus_cc_details.html:28
+msgid "File date"
+msgstr "BD"
+
+#: app/views/flight_search/partials/payment/billing_address.html:20
+msgid "First name"
+msgstr "Vorname"
+
+#: app/views/flight_search/partials/payment/paymentFlightSummary.html:2
+msgid "Flight details"
+msgstr "Flugdetails"
+
+#: app/views/flight_search/partials/payment/available_payment_details.html:3
+#: app/views/flight_search/partials/payment/payment_data.html:2
+msgid "Form of payment"
+msgstr "Zahlungsart"
+
+#: app/views/flight_search/partials/payment/payment_data.html:11
+msgid "Form of payment:"
+msgstr "Zahlungsart:"
+
+#: app/scripts/constants/flight_search/payment_constants.js:17
+msgid "Hide"
+msgstr "ausblenden"
+
+#: app/scripts/constants/flight_search/payment_constants.js:32
+msgid "Ignore booking"
+msgstr "Buchung ignorieren"
+
+#: app/views/flight_search/partials/payment/cc_methods.html:9
+msgid "Invoice"
+msgstr "Rechnung"
+
+#: app/views/flight_search/partials/payment/billing_address.html:16
+msgid "Last name"
+msgstr "Nachname"
+
+#: app/views/flight_search/partials/payment/bookingPriceDetails.html:17
+msgid "Less"
+msgstr "weniger"
+
+#: app/views/flight_search/partials/payment/billing_address.html:72
+msgid "Login for Easyjet"
+msgstr "Login für Lowcost Airline"
+
+#: app/views/flight_search/partials/payment/bookingPriceDetails.html:14
+msgid "Markup"
+msgstr "Entgelt"
+
+#: app/views/flight_search/partials/payment/cc_methods.html:21
+msgid "Method %s"
+msgstr "Variante %s"
+
+#: app/views/flight_search/partials/payment/available_payment_details.html:42
+msgid "Modify payment"
+msgstr "Zahlung ändern"
+
+#: app/scripts/constants/flight_search/payment_constants.js:31
+msgid "OK"
+msgstr "OK"
+
+#: app/views/flight_search/partials/payment/airplus_cc_details.html:32
+msgid "Order no."
+msgstr "AU"
+
+#: app/views/flight_search/partials/payment/billing_address.html:82
+msgid "Password"
+msgstr "Passwort"
+
+#: app/views/flight_search/partials/payment/bookingPriceDetails.html:4
+msgid "Pax"
+msgstr "Passagiere"
+
+#: app/views/flight_search/accordions/payment.html:26
+msgid "Pay & order"
+msgstr "Tickets bestellen"
+
+#: app/views/flight_search/partials/payment/travellerInfo.html:36
+msgid "Payment Fee"
+msgstr "Zahlungsentgelt"
+
+#: app/scripts/constants/flight_search/payment_constants.js:36
+msgid ""
+"Payment could not be processed. Please choose one of the following options:"
+msgstr ""
+"Zahlung fehlgeschlagen. Bitte wählen Sie eine der folgenden Möglichkeiten:"
+
+#: app/views/flight_search/partials/payment/cc_methods.html:3
+msgid "Payment type of charge info text will follow"
+msgstr ""
+"*Variante 1* - NET-CC-Verfahren: der Gesamtpreis wird in einem einzigen "
+"Betrag von der Kreditkarte belastet.\\n*Variante 2* - Kombination aus BSP-CC "
+"- und NET-CC-Verfahren: der Gesamtpreis wird in zwei Beträgen von der "
+"Kreditkarte belastet.\\n*Betrag 1* = BSP-CC: Flugpreis (ohne Entgelte)/Tax/"
+"Sitzplätze/Extras/CC-Fee der Airline.\\n*Betrag 2* = NET-CC: Zug zum Flug/"
+"Tkt.-Entgelte AER/Entgelte Agentur/CC-Fee AER. "
+
+#: app/views/flight_search/partials/payment/airplus_cc_details.html:12
+msgid "Personal ID"
+msgstr "PK"
+
+#: app/views/flight_search/partials/payment/payment_data.html:95
+msgid "Please confirm:"
+msgstr "Bitte bestätigen:"
+
+#: app/scripts/constants/flight_search/payment_constants.js:29
+msgid "Please enter valid credit card data"
+msgstr "Bitte geben Sie gültige Kreditkartendaten ein."
+
+#: app/scripts/constants/flight_search/payment_constants.js:12
+msgid "Please select"
+msgstr "Bitte wählen"
+
+#: app/views/flight_search/partials/payment/payment_data.html:101
+msgid "Please select before proceeding!"
+msgstr "Bitte bestätigen Sie mithilfe der Checkbox o. g. Hinweis."
+
+#: app/scripts/constants/flight_search/payment_constants.js:52
+msgid "Please wait, price is being calculated."
+msgstr "Bitte warten"
+
+#: app/scripts/constants/flight_search/payment_constants.js:44
+msgid "Please wait, price is being recalculated."
+msgstr "Bitte warten"
+
+#: app/scripts/constants/flight_search/payment_constants.js:51
+msgid "Please wait, your booking is being generated."
+msgstr "Bitte warten"
+
+#: app/views/flight_search/partials/payment/bookingPriceDetails.html:5
+msgid "Price"
+msgstr "Preis"
+
+#: app/views/flight_search/partials/payment/bookingPriceDetails.html:6
+msgid "Price Incl. ZZF"
+msgstr "Preis inkl. ZzF"
+
+#: app/views/flight_search/partials/payment/paymentFlightSummary.html:37
+msgid "Price details"
+msgstr "Preisdetails"
+
+#: app/views/flight_search/partials/payment/paymentHeader.html:21
+msgid "Print"
+msgstr "Drucken"
+
+#: app/views/flight_search/partials/payment/airplus_cc_details.html:8
+msgid "Project no."
+msgstr "PR"
+
+#: app/scripts/constants/flight_search/payment_constants.js:27
+msgid "Reservation created but payment authorization failed"
+msgstr "Reservierung erfolgreich, aber Zahlungsautorisierung fehlgeschlagen."
+
+#: app/scripts/constants/flight_search/payment_constants.js:30
+msgid ""
+"Reservation created but pricing failed and tickets could not be ordered. "
+"Please address to your service team."
+msgstr ""
+"Reservierung erfolgreich, aber Fehler bei Preisberechnung. Bitte wenden Sie "
+"sich zwecks Ticketbestellung an Ihr Serviceteam."
+
+#: app/scripts/constants/flight_search/payment_constants.js:34
+msgid "Reservation only"
+msgstr "Nur Reservierung"
+
+#: app/views/flight_search/accordions/payment.html:29
+msgid "Reservation_only_payment"
+msgstr "Nur Reservierung"
+
+#: app/views/flight_search/partials/payment/billing_address.html:65
+msgid "Reset form"
+msgstr "Eingaben löschen"
+
+#: app/scripts/constants/flight_search/payment_constants.js:6
+msgid "SEPA direct debit"
+msgstr "SEPA-Lastschrift"
+
+#: app/views/flight_search/partials/payment/payment_data.html:38
+#: app/views/flight_search/partials/payment/payment_data.html:80
+msgid "Save payment"
+msgstr "Zahlung speichern"
+
+#. translation for 'saving' in price table of payment and confirmation pages
+#: app/views/flight_search/partials/payment/bookingPriceDetails.html:12
+msgid "Saving_priceTablePayment"
+msgstr "Ersparnis"
+
+#: app/views/flight_search/partials/payment/bookingPriceDetails.html:8
+msgid "Seats"
+msgstr "Sitzplätze"
+
+#: app/views/flight_search/partials/payment/paymentHeader.html:23
+msgid "Send via email"
+msgstr "per E-Mail versenden"
+
+#: app/scripts/constants/flight_search/payment_constants.js:16
+msgid "Show"
+msgstr "anzeigen"
+
+#: app/views/flight_search/partials/payment/bookingPriceDetails.html:16
+msgid "Show more"
+msgstr "mehr"
+
+#: app/scripts/constants/flight_search/payment_constants.js:9
+msgid "Sofort"
+msgstr "Sofortüberweisung"
+
+#: app/scripts/constants/flight_search/payment_constants.js:22
+msgid "TSA and APIS data are missing"
+msgstr "TSA- und APIS-Daten fehlen"
+
+#: app/scripts/constants/flight_search/payment_constants.js:25
+msgid ""
+"TSA and/or APIS data is required for ticket order. Please click on “OK” to "
+"complete data. If data is not available yet, create a reservation "
+"alternatively."
+msgstr ""
+"Für die Ticketbestellung ist die Eingabe der TSA - und/oder APIS-Daten "
+"erforderlich. Bitte klicken Sie auf \"OK\", um die Daten zu vervollständigen."
+" Falls die Daten noch nicht vorliegen, legen Sie bitte alternativ eine "
+"Reservierung an."
+
+#: app/scripts/constants/flight_search/payment_constants.js:20
+msgid "TSA data is missing"
+msgstr "TSA-Daten fehlen"
+
+#: app/scripts/constants/flight_search/payment_constants.js:23
+msgid ""
+"TSA data is required for ticket order. Please click on “OK” to complete data."
+" If data is not available yet, create a reservation alternatively."
+msgstr ""
+"Für die Ticketbestellung ist die Eingabe der TSA-Daten erforderlich. Bitte "
+"klicken Sie auf \"OK\", um die Daten zu vervollständigen. Falls die Daten "
+"noch nicht vorliegen, legen Sie bitte alternativ eine Reservierung an."
+
+#: app/views/flight_search/partials/payment/bookingPriceDetails.html:7
+msgid "Tax"
+msgstr "Tax"
+
+#: app/views/flight_search/partials/payment/billing_address.html:53
+msgid "Telephone"
+msgstr "Telefon"
+
+#: app/scripts/constants/flight_search/payment_constants.js:47
+msgid "Thank you for your order"
+msgstr "Vielen Dank für Ihre Ticketbestellung."
+
+#: app/views/flight_search/partials/payment/billing_address.html:5
+msgid ""
+"The airline or the tour operator will issue and mail tickets to the email "
+"address you have entered below."
+msgstr ""
+"Die Bestätigung/Tickets erhalten Sie von der Airline/vom Veranstalter per E-"
+"Mail, an unten eingetragene E-Mail Adresse."
+
+#: app/views/flight_search/partials/payment/cc_methods.html:29
+msgid "The amount will be charged in 2 separate transactions."
+msgstr "Der Gesamtpreis wird in 2 Beträgen von der Kreditkarte belastet."
+
+#: app/views/flight_search/partials/payment/cc_methods.html:28
+msgid "The amount will be charged in a single transaction."
+msgstr "Der Gesamtpreis wird in einem Betrag von der Kreditkarte belastet."
+
+#: app/scripts/constants/flight_search/payment_constants.js:46
+msgid "Ticket order error"
+msgstr "Ticketbestellung konnte nicht ausgeführt werden."
+
+#: app/scripts/constants/flight_search/payment_constants.js:28
+msgid "Ticket order failed"
+msgstr "Ticketbestellung fehlgeschlagen"
+
+#: app/views/flight_search/partials/payment/bookingPriceDetails.html:13
+msgid "Tkt-fee"
+msgstr "Tkt.-Entgelt"
+
+#: app/views/flight_search/partials/payment/bookingPriceDetails.html:50
+msgid "Total:"
+msgstr "Gesamt:"
+
+#: app/views/flight_search/partials/payment/cc_methods.html:1
+msgid "Type of charge"
+msgstr "Kreditkartenverfahren"
+
+#: app/views/flight_search/partials/payment/available_payment_details.html:8
+msgid "Type of credit card"
+msgstr "Kreditkarte"
+
+#: app/views/flight_search/partials/payment/payment_data.html:15
+msgid "Type of credit card:"
+msgstr "Kreditkarte:"
+
+#: app/scripts/constants/flight_search/payment_constants.js:13
+msgid "V_Payment"
+msgstr "V_Payment"
+
+#: app/views/flight_search/partials/payment/available_payment_details.html:26
+msgid "Validity"
+msgstr "Gültigkeit"
+
+#: app/views/flight_search/partials/payment/payment_data.html:105
+msgid ""
+"With \"Pay & order\" the tickets will be automatically ordered using the "
+"form of payment you have selected."
+msgstr ""
+"Bei Klick auf \"Tickets bestellen\" erfolgt eine verbindliche Buchung und "
+"sofortige Ticketausstellung mit der ausgewählten Zahlungsart. Klicken Sie "
+"auf \"Nur Reservierung\", ist die Eingabe der Zahlungsart optional."
+
+#: app/views/flight_search/partials/payment/payment_data.html:98
+msgid ""
+"You have selected a Tour Operator fare which can only be booked in "
+"combination with a hotel service of our assortment."
+msgstr ""
+"Sie haben einen Veranstaltertarif ausgewählt. Dieser Tarif darf nur in "
+"Verbindung mit einem Hotel aus unserer Hotel-IBE AERHOTELS verkauft werden."
+
+#: app/views/flight_search/partials/payment/payment_data.html:99
+msgid ""
+"You have selected a Tour Operator fare which can only be booked in "
+"combination with a sea passage."
+msgstr ""
+"Sie haben einen Veranstaltertarif ausgewählt. Dieser Tarif darf nur in "
+"Kombination mit einer Kreuzfahrt verkauft werden."
+
+#: app/scripts/constants/flight_search/payment_constants.js:37
+msgid ""
+"Your payment terms do not allow the booking for this airline offer. Please "
+"choose an alternate or contact your service team."
+msgstr ""
+"Sie haben keine Berechtigung für die erforderliche Zahlungsart. Bitte wählen "
+"Sie ein alternatives Angebot aus der Ergebnisliste oder wenden Sie sich an "
+"Ihr Serviceteam."
+
+#: app/scripts/constants/flight_search/payment_constants.js:39
+msgid ""
+"Your reservation was created, but payment failed. Please complete your order "
+"by editing payment details via \"Edit booking\" button."
+msgstr ""
+"Reservierung erfolgreich, aber die Zahlung ist fehlgeschlagen. Bitte klicken "
+"Sie auf \"Buchung bearbeiten\", ändern Sie die Zahlungsart und führen Sie "
+"eine erneute Ticketbestellung durch."
+
+#: app/views/flight_search/partials/payment/billing_address.html:34
+msgid "ZIP code"
+msgstr "PLZ"
+
+#: app/views/flight_search/partials/payment/paymentFlightSummary.html:30
+msgid "Zum zug Flug"
+msgstr "Zum zug Flug"
+
+#: app/views/flight_search/partials/payment/payment_data.html:39
+#: app/views/flight_search/partials/payment/payment_data.html:81
+msgid "discard changes"
+msgstr "Änderungen verwerfen"
+
+#: app/views/flight_search/partials/payment/travellerInfo.html:35
+msgid "no extras selected"
+msgstr "Keine Extras ausgewählt"
+
+#: app/views/flight_search/partials/payment/travellerInfo.html:34
+msgid "no seats selected"
+msgstr "Keine Sitzplätze ausgewählt"
+
+#: app/views/flight_search/partials/payment/cc_methods.html:27
+msgid "not supported"
+msgstr "Nicht unterstützt"
+
+#: app/views/flight_search/partials/payment/paymentFlightSummary.html:29
+msgid "offered and invoiced by"
+msgstr "Im Namen und auf Rechnung von "
+
+#: app/views/flight_search/partials/payment/cc_methods.html:8
+msgid "{{consoId.toUpperCase() + ' CC'}}"
+msgstr "{{consoId.toUpperCase() + ' CC'}}"
+
