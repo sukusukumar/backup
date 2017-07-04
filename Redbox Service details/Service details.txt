@@ -1,0 +1,66 @@
+To get Results
+------------------------------
+Type: POST
+URL: https://aerpackitpreproduction.flightconex.de/redbox/api/{{sessionId}}/availableFare/{{fareSearchId}}
+Data: {"pageNumber":1,"resultsPerPage":20,"filterCriteria":{},"showFilters":true}
+
+
+
+For Expanded View
+------------------------
+Type: GET
+URL: https://aerpackitpreproduction.flightconex.de/redbox/api/{{sessionId}}/availableFare/{{fareSearchId}}/detail?fareIds={{fareIds}}
+
+
+
+To select Flight
+----------------------
+Type: POST
+URL: https://aerpackitpreproduction.flightconex.de/redbox/api/{{sessionId}}/shoppingCart/addAndCheckOut
+Data: attached in the mail
+
+
+
+To Submit Passenger Data
+-----------------------------
+Type: POST
+URL: https://aerpackitpreproduction.flightconex.de/redbox/api/{{sessionId}}/shoppingCart/{{shoppingCartId}}/items
+Data: attached in the email
+
+
+
+To check if Extras are available
+---------------------------------
+Type: POST
+URL: https://aerpackitpreproduction.flightconex.de/redbox/api/{{sessionId}}/ancillary/searchAirExtrasByFlightItem?flightItemId={{flightItemId}}&shoppingCartId={{shoppingCartId}}
+
+Note: This service returns us 'ancillarySearchId'. Complete extras details are picked with the help of this id
+
+Type: GET
+URL: https://aerpackitpreproduction.flightconex.de/redbox/api/{{sessionId}}/ancillary/getAirExtras?ancillarySearchId={{ancillarySearchId}}
+
+
+
+To submit additional service (Not a mandatory step)
+--------------------------------------------------
+Type: POST
+URL: https://aerpackitpreproduction.flightconex.de/redbox/api/{{sessionId}}/shoppingCart/{{shoppingCartId}}/addAndCheckOut
+Data: attached in the email
+
+
+
+To get payment items
+-------------------------
+Type: GET
+URL: https://aerpackitpreproduction.flightconex.de/redbox/api/{{sessionID}}/payment/shoppingCart/{{shoppingCartId}}
+
+
+
+To add payment items
+------------------------
+Type: POST
+URL: https://aerpackitpreproduction.flightconex.de/redbox/api/{{sessionId}}/shoppingCart/{{shoppingCartId}}/items
+Data: attached in the email
+
+
+

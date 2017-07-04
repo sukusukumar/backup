@@ -1,0 +1,52 @@
+# Daniel Sobiech <dsobiech@aer.de>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-09-14 09:53+0200\n"
+"Last-Translator: Daniel Sobiech <dsobiech@aer.de>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/scripts/constants/orderManager/om_search_constants.js:8
+#: app/views/orderManager/accordions/search.html:35
+msgid "All Bookings"
+msgstr "Alle Buchungen"
+
+#: app/views/orderManager/accordions/search.html:9
+msgid "Enter Last name or Booking reference"
+msgstr "Nachname oder Buchungsnummer eingeben"
+
+#: app/scripts/constants/orderManager/om_search_constants.js:7
+#: app/views/orderManager/accordions/search.html:26
+msgid "Open Bookings"
+msgstr "Offene Reservierungen"
+
+#: app/scripts/constants/orderManager/om_search_constants.js:4
+msgid "Please wait, Quick Links Summary is loading."
+msgstr "Bitte warten"
+
+#: app/scripts/constants/orderManager/om_search_constants.js:5
+msgid "Please wait, results are loading."
+msgstr "Die Ergebnisse werden geladen."
+
+#: app/views/orderManager/accordions/search.html:22
+msgid "Quick Links"
+msgstr "Schnellsuche"
+
+#: app/views/orderManager/accordions/search.html:13
+msgid "Search"
+msgstr "Suche"
+
+#: app/views/orderManager/accordions/search.html:41
+msgid "Ticket timelimit"
+msgstr "Ticketfrist"
+
+#: app/views/orderManager/accordions/search.html:48
+msgid "expired"
+msgstr "abgelaufen"
+

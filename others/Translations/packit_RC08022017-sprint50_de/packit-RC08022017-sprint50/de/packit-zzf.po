@@ -1,0 +1,81 @@
+# Daniel Sobiech <dsobiech@aer.de>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-12-16 07:13+0100\n"
+"Last-Translator: Daniel Sobiech <dsobiech@aer.de>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:89
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:86
+msgid "1st class, RT"
+msgstr "1. Klasse - Hin- und Rückfahrt"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:47
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:68
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:44
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:65
+msgid "2nd class, OW"
+msgstr "2. Klasse - einfache Fahrt"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:25
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:22
+msgid "2nd class, RT"
+msgstr "2. Klasse - Hin- und Rückfahrt"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:125
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:122
+msgid "Proceed"
+msgstr "Weiter"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:28
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:50
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:73
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:92
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:25
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:47
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:70
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:89
+msgid "Railway Germany"
+msgstr "Railway Germany"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:14
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:11
+msgid "Total for all pax"
+msgstr "Gesamtpreis für alle Passagiere"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:7
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:4
+msgid "ZZF: information will follow"
+msgstr ""
+"Zug zum Flug-Tickets können nur für alle Passagiere hinzugebucht werden. Für "
+"Kinder bis einschl. 11 Jahren ist das Zug zum Flug-Ticket kostenlos, dies "
+"wird vom System automatisch berücksichtigt. Für z. B. innerdeutsche Flüge "
+"kann kein Zug zum Flug-Ticket hinzugebucht werden, dies wird systemseitig "
+"automatisch geprüft."
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:6
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:3
+msgid "Zug zum Flug"
+msgstr "Zug zum Flug"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:10
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:7
+msgid ""
+"Zug-zum-Flug tickets are sold and invoiced by tour operator team Fernreisen "
+"GmbH (TFR)."
+msgstr ""
+"Der Verkauf der Zug zum Flug-Tickets erfolgt im Namen und auf Rechnung des "
+"Veranstalters team Fernreisen GmbH (TFR)."
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:111
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:108
+msgid "no ZZF"
+msgstr "Kein Zug zum Flug"
+

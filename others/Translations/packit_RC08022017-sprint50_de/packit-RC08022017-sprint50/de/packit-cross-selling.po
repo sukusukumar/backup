@@ -1,0 +1,184 @@
+# Daniel Sobiech <dsobiech@aer.de>, 2016. #zanata
+# Sukumar Vummadisetty <sukumar.vummadisetty@valuelabs.com>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-12-16 06:47+0100\n"
+"Last-Translator: Daniel Sobiech <dsobiech@aer.de>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/flight_search/popups/cross_selling/atmosfair.html:20
+msgid "Abort"
+msgstr "Abbrechen"
+
+#: app/views/flight_search/popups/cross_selling/atmosfair.html:17
+msgid "Accept"
+msgstr "Weiter"
+
+#: app/views/flight_search/accordions/additionalServices.html:18
+#: app/views/flight_search/accordions/additionalServices.html:40
+#: app/views/flight_search/accordions/additionalServices.html:64
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: app/views/flight_search/accordions/additionalServices.html:36
+msgid "Add baggage, meals etc. to your reservation."
+msgstr "Gepäck, Mahlzeiten und SSR-/OSI-Elemente hinzufügen."
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:17
+msgid "Baggage"
+msgstr "Gepäck"
+
+#: app/views/flight_search/accordions/additionalServices.html:59
+msgid "Bookable for international flights from Germany."
+msgstr "Buchbar für internationale Flüge ab Deutschland."
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:26
+msgid "Do you really want to reset all extras you previously selected"
+msgstr "Möchten Sie wirklich alle selektierten EXTRA-Leistungen verwerfen?"
+
+#: app/views/flight_search/accordions/additionalServices.html:19
+#: app/views/flight_search/accordions/additionalServices.html:41
+#: app/views/flight_search/accordions/additionalServices.html:63
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: app/views/flight_search/accordions/additionalServices.html:32
+msgid "Extras & SSR/OSI"
+msgstr "Extras & SSR/OSI"
+
+#: app/views/flight_search/accordions/additionalServices.html:33
+msgid "Extras: information will follow"
+msgstr ""
+"Die Buchung von EXTRAS erfolgt vorbehaltlich der Bestätigung durch die "
+"Airline(s). Für kostenpflichtige EXTRAS ist die Ausstellung der Flugtickets "
+"und EMD spätestens innerhalb 24h erforderlich. Die Eingabe von SSR- & OSI-"
+"Elementen ist derzeit noch nicht möglich."
+
+#: app/views/flight_search/accordions/additionalServices.html:3
+msgid "Flight services"
+msgstr "Flug"
+
+#: app/views/flight_search/accordions/additionalServices.html:125
+msgid "Holiday Extras"
+msgstr "Holiday Extras"
+
+#: app/views/flight_search/accordions/additionalServices.html:105
+msgid "Insurances"
+msgstr "Versicherungen"
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:22
+msgid "Meals_beverages"
+msgstr "Mahlzeiten und Getränke"
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:18
+msgid "Medical"
+msgstr "Medizinischer Service"
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:19
+msgid "Misc"
+msgstr "Sonstiges"
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:27
+msgid "No"
+msgstr "Nein"
+
+#: app/views/flight_search/accordions/additionalServices.html:112
+#: app/views/flight_search/accordions/additionalServices.html:132
+#: app/views/flight_search/accordions/additionalServices.html:17
+#: app/views/flight_search/accordions/additionalServices.html:39
+#: app/views/flight_search/accordions/additionalServices.html:62
+msgid "Not available"
+msgstr "Nicht verfügbar"
+
+#: app/views/flight_search/accordions/additionalServices.html:92
+msgid "Open"
+msgstr "Öffnen"
+
+#: app/views/flight_search/accordions/additionalServices.html:78
+msgid "Other travel services"
+msgstr "Weitere Leistungen"
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:21
+msgid "Pets"
+msgstr "Haustiere"
+
+#: app/views/flight_search/popups/cross_selling/atmosfair.html:6
+msgid "Please note"
+msgstr "Bitte beachten"
+
+#: app/views/flight_search/accordions/additionalServices.html:147
+msgid "Proceed"
+msgstr "Weiter"
+
+#: app/views/flight_search/accordions/additionalServices.html:14
+msgid "Reserve a chargeable or non chargeable seat."
+msgstr "Sitzplätze reservieren."
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:25
+msgid "Reset all extras"
+msgstr "Alle Extras zurücksetzen"
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:20
+msgid "Seat"
+msgstr "Sitzplätze"
+
+#: app/views/flight_search/accordions/additionalServices.html:11
+msgid "Seat map: information will follow"
+msgstr ""
+"Die Buchung von Sitzplätzen erfolgt vorbehaltlich der Bestätigung durch die "
+"Airline(s). Für kostenpflichtige Sitzplätze ist die Ausstellung der "
+"Flugtickets und EMD spätestens innerhalb 24h erforderlich. "
+
+#: app/views/flight_search/accordions/additionalServices.html:10
+msgid "Seat reservation"
+msgstr "Sitzplatzreservierung"
+
+#: app/scripts/constants/flight_search/additional_services_constants.js:28
+msgid "Yes, reset all extras"
+msgstr "Ja"
+
+#: app/views/flight_search/popups/cross_selling/atmosfair.html:11
+msgid ""
+"You are leaving the booking engine and will be transferred to an external "
+"website."
+msgstr ""
+"Die Webseite der gemeinnützigen Klimaschutzorganisation atmosfair öffnet "
+"sich in einer neuen Registerkarte Ihres Browsers."
+
+#: app/views/flight_search/accordions/additionalServices.html:109
+#: app/views/flight_search/accordions/additionalServices.html:129
+#: app/views/flight_search/accordions/additionalServices.html:89
+msgid "You will be transferred to an external website."
+msgstr "Sie werden auf die Webseite unseres Partners weitergeleitet."
+
+#: app/views/flight_search/accordions/additionalServices.html:56
+msgid "ZZF: information will follow"
+msgstr ""
+"Zug zum Flug-Tickets können nur für alle Passagiere innerhalb eines PNRs "
+"gebucht werden. Für Kinder bis einschl. 11 Jahren ist das Zug zum Flug-"
+"Ticket kostenlos, dies wird vom System automatisch berücksichtigt. Für z. B. "
+"innerdeutsche Flüge kann kein Zug zum Flug-Ticket hinzugebucht werden, dies "
+"wird systemseitig automatisch geprüft."
+
+#: app/views/flight_search/accordions/additionalServices.html:55
+msgid "Zug zum Flug"
+msgstr "Zug zum Flug"
+
+#: app/views/flight_search/accordions/additionalServices.html:85
+msgid "atmosfair"
+msgstr "atmosfair"
+
+#: app/views/flight_search/accordions/additionalServices.html:86
+msgid "atmosfair: information will follow"
+msgstr ""
+"Hier gelangen Sie zum CO2-Rechner der gemeinnützigen Klimaschutzorganisation "
+"atmosfair. Die Webseite öffnet sich in einer neuen Registerkarte Ihres "
+"Browsers."
+

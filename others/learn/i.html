@@ -1,0 +1,19 @@
+<html>
+	<script
+  src="https://code.jquery.com/jquery-3.1.1.js"
+  integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
+  crossorigin="anonymous"></script>
+	<script>
+		var startTime = new Date;
+		var x = setTimeout(function(){
+		console.log('SetTimeout is executed after ' + ((new Date())- startTime) + 'ms')
+		}, 500)
+		$.ajax({
+		url: 'https://aerpackitstage.flightconex.de/redbox/api/49p48ni77nq1n18v2mnga4jutq/superPNR/S013IC9/details',
+		method: 'GET'
+		}).then(function () {
+			while(((new Date) - startTime) < 10000) {}
+		})
+	</script>
+</html>
+

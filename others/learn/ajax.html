@@ -1,0 +1,18 @@
+<html>
+	<body>
+		<script>
+			var xhttp = new XMLHttpRequest();
+			
+			xhttp.open("GET", "https://aerpackitpreproduction.flightconex.de/redbox/api/2bc8jhr1nhi12o2t1mjiv9ljb7/superPNR/S013H94/details", true);
+			
+			xhttp.send();
+			
+			xhttp.onreadystatechange = function () {
+				if (this.readyState == 4) {
+					console.log(this);
+				}
+			}
+			alert('a');
+		</script>
+	</body>
+</html>

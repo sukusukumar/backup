@@ -1,0 +1,30 @@
+# Caro Eickhoff <traduction@carolei.de>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-11-17 02:01+0100\n"
+"Last-Translator: Marylise Dumont <machaselavy@gmail.com>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: app/scripts/constants/iframe_constants.js:7
+msgid "CVC"
+msgstr "CVC"
+
+#: app/scripts/constants/iframe_constants.js:8
+msgid "Card Holder"
+msgstr "Titulaire de la carte"
+
+#: app/scripts/constants/iframe_constants.js:5
+msgid "Card Number"
+msgstr "Numéro de carte"
+
+#: app/scripts/constants/iframe_constants.js:6
+msgid "Validity"
+msgstr "Validité"
+

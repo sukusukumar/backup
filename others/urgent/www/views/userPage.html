@@ -1,0 +1,51 @@
+<div class="bar bar-header bar-positive">
+	<button class="button icon ion-arrow-left-a" ng-click="gotoHome()"></button>
+  <h1 class="title">{{'Welcome' + ' user'}}</h1>
+	<button class="button icon ion-android-person" ng-click="showDetails()"></button>
+</div>
+<ion-content class="padding has-header has-footer">
+	<form name="form.pnrForm">
+		<div class="list">
+			<label class="item item-input item-floating-label">
+        <span class="input-label">Search PNR</span>
+        <input type="text" placeholder="Search PNR" ng-model="pnrData.pnr" name="pnr" ng-required="true">
+      </label>
+			<label class="item">
+        <button class="button button-block button-positive" type="submit" ng-click="search()">Search</button>
+      </label>
+		</div>
+	</form>
+	<div class="list" style="margin-top: 20px;" ng-show="searchClicked">
+		<div class="item item-divider">Your PNR Status</div>
+		<div class="row">
+			<div class = "col">Name</div>
+			<div class = "col">{{userDetails.firstName + ' ' + userDetails.lastName}}</div>
+		</div>
+		<div class="row">
+			<div class = "col">Berth</div>
+			<div class = "col">{{pnrDetails.berth}}</div>
+		</div>
+		<div class="row">
+			<div class = "col">Available</div>
+			<div class = "col">{{pnrDetails.available}}</div>
+		</div>
+		<div class="row">
+			<div class = "col">Journey date</div>
+			<div class = "col">{{pnrDetails.journeyDate}}</div>
+		</div>
+	</div>
+	<div class="item item-input-inset">
+		<button class="button button-block button-assertive" ng-click="cancelPnr()" ng-show="searchClicked" ng-disabled="pnrDetails.available == '0'">
+			Cancel Reservation
+		</button>
+		<button class="button button-block button-positive" ng-click="getTrainLocation()" ng-show="searchClicked" ng-disabled="pnrDetails.available == '0'">
+			Get Train Location
+		</button>
+	</div>
+	<div class="list" style="margin-top: 20px;" ng-show="noResults">
+		<div class="item item-divider">No Result(s) found</div>
+	</div>
+</ion-content>
+<div class="bar bar-footer bar-positive">
+   <h1 class="title">@2017 All rights reserved</h1>
+</div>

@@ -1,0 +1,76 @@
+# Jose Oliver <joliver@aerticket.es>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-12-09 02:29+0100\n"
+"Last-Translator: Jose Oliver <joliver@aerticket.es>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:89
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:86
+msgid "1st class, RT"
+msgstr "1º clase, ida y vuelta"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:47
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:68
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:44
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:65
+msgid "2nd class, OW"
+msgstr "2º clase, solo ida"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:25
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:22
+msgid "2nd class, RT"
+msgstr "2º clase, ida y vuelta"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:125
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:122
+msgid "Proceed"
+msgstr "Proceder"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:28
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:50
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:73
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:92
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:25
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:47
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:70
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:89
+msgid "Railway Germany"
+msgstr "Ferrocarril Alemania"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:14
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:11
+msgid "Total for all pax"
+msgstr "Total para todos los pasajeros"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:7
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:4
+msgid "ZZF: information will follow"
+msgstr "ZZF: información a continuación"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:6
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:3
+msgid "Zug zum Flug"
+msgstr "Tren al avión"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:10
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:7
+msgid ""
+"Zug-zum-Flug tickets are sold and invoiced by tour operator team Fernreisen "
+"GmbH (TFR)."
+msgstr ""
+"Los billetes Zug-zum-Flug son vendidos y facturados por el tour operador "
+"Fernreisen GmbH (TFR)."
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:111
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:108
+msgid "no ZZF"
+msgstr "sin ZZF"
+

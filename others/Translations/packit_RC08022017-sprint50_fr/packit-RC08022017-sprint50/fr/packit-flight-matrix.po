@@ -1,0 +1,22 @@
+# Caro Eickhoff <traduction@carolei.de>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-09-21 03:22+0200\n"
+"Last-Translator: Marylise Dumont <machaselavy@gmail.com>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: app/views/flight_search/partials/matrix/cell.html:15
+msgid ""
+"No calendar availablity found, please preform regular search for more "
+"accuracy."
+msgstr ""
+"Aucune disponibilité de calendrier n'a été trouvée. Veuillez effectuer une "
+"recherche régulière pour plus de précision. "
+

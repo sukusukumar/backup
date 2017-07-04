@@ -1,0 +1,16 @@
+<html>
+	<body>
+		<div id="s1">
+			<div id="s2">
+				<div id="s3">
+					<script>
+						var scriptTag = document.getElementsByTagName('script');
+						scriptTag = scriptTag[scriptTag.length - 1];
+						var parentTag = scriptTag.parentNode;
+						console.log(parentTag);
+					</script>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

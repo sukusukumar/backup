@@ -1,0 +1,53 @@
+<div ng-include="'app/views/header.html'"></div>
+<div class="maincontainer" style="padding:15px">
+    <div class="maincontent"     style="margin-left: 0px;">
+        <div class="container-fluid">
+            <div class="ot-deviceData" style="max-width:100%;margin-left:0px">
+                <div class="tab-content">
+                    <div id="devices" class="tab-pane fade in active">
+                        <div class="orchestra_devices_table" style="height: auto;max-width: 72%">
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="max-width:100%">
+                                    <div ncy-breadcrumb></div>
+
+                                    <div class="row">
+
+                                        <div class="col-md-8 margin_top" >
+                                            <h1 style="color: red">{{notAvailableMsg}}</h1>
+
+                                            <tree-grid 
+                                                tree-data     = "tree_data"
+                                                col-defs      = "col_defs"
+                                                on-click      = "TestRunCmndPrms(branch, 'md')"
+                                                expand-level ="4"
+                                                icon-leaf     = "glyphicon glyphicon-file"
+                                                icon-expand   = "glyphicon glyphicon-folder-close"
+                                                icon-collapse = "glyphicon glyphicon-folder-open"
+                                                >
+                                            </tree-grid>
+                                        </div>
+                                        <div class="col-md-4 margin_top" >
+                                            <div id="firstGrid" ui-grid="TestRunRealDevicesOption" ui-grid-selection ui-grid-cellNav class="grid"></div>
+                                        </div>
+
+
+
+                                    </div>
+                                </div>
+                                <a class="btn btn-info center" ng-click="CreateTestrun();TestRunForTestPlans()" >Next</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div ng-include="'app/views/favourites.html'" ></div>	
+<div ng-include="'app/views/popUp.html'"></div>
+
+
+
+
+

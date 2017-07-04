@@ -1,0 +1,35 @@
+<ion-modal-view>
+	<ion-header-bar>
+    <h1 class="title">{{'Welcome user'}}</h1>
+		<button class="button icon ion-android-cancel" ng-click="closeDetails()"></button>
+  </ion-header-bar>
+	<ion-content>
+		<div class="list">
+			<div class="item item-divider">Your Personal Details</div>
+			<div class="row">
+				<div class = "col">First Name</div>
+				<div class = "col">{{userDetails.firstName}}</div>
+			</div>
+			<div class="row">
+				<div class = "col">Last Name</div>
+				<div class = "col">{{userDetails.lastName}}</div>
+			</div>
+			<div class="row">
+				<div class = "col">Address</div>
+				<div class = "col">{{userDetails.address}}</div>
+			</div>
+			<div class="row">
+				<div class = "col">Date of birth</div>
+				<div class = "col">{{userDetails.dateOfBirth}}</div>
+			</div>
+			<div class="row">
+				<div class = "col">Mobile</div>
+				<div class = "col">{{userDetails.mobile}}</div>
+			</div>
+			<div class="row">
+				<div class = "col">Email</div>
+				<div class = "col">{{userDetails.email}}</div>
+			</div>
+		</div>
+	</ion-content>
+</ion-modal-view>

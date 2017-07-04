@@ -1,0 +1,67 @@
+{
+  "cartItemList": [
+    {
+      "type": "SEAT",
+      "rowNumber": "18",
+      "columnValue": "F",
+      "segmentId": "J28868632p_ROUNDTRIP_1_0_0_2_0",
+      "flightIdList": [
+        1
+      ],
+      "passengerIdList": [
+        "3"
+      ]
+    },
+    {
+      "referenceNumber": 0,
+      "type": "ZZF",
+      "flightIdList": [
+        1
+      ],
+      "zzfType": "OUTBOUND_SECOND"
+    },
+    {
+      "type": "ANCILLARY",
+      "segmentIdList": [
+        "J28868632p_ROUNDTRIP_1_0_0_2_0",
+        "J28868632p_ROUNDTRIP_1_0_0_2_1",
+        "J28868632p_ROUNDTRIP_1_0_0_2_2"
+      ],
+      "ancillarySearchId": "3",
+      "ancillaryId": "DF28edaa25832p_7",
+      "flightIdList": [
+        1
+      ],
+      "formatPartList": [
+        {
+          "id": "TYPE",
+          "value": "HOCKEY"
+        }
+      ],
+      "passengerIdList": [
+        "3"
+      ]
+    },
+    {
+      "type": "ANCILLARY",
+      "segmentIdList": [
+        "J28868632p_ROUNDTRIP_1_0_1_1_0",
+        "J28868632p_ROUNDTRIP_1_0_1_1_1"
+      ],
+      "ancillarySearchId": "3",
+      "ancillaryId": "DF28edaa25832p_48",
+      "flightIdList": [
+        1
+      ],
+      "formatPartList": [
+        {
+          "id": "TYPE",
+          "value": "KAYAK"
+        }
+      ],
+      "passengerIdList": [
+        "3"
+      ]
+    }
+  ]
+}

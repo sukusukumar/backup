@@ -1,0 +1,14 @@
+<html>
+	<script>
+		var time = "12:45:54PM";
+		var timeArr = time.split(":");
+		var meridian = timeArr[2].substring(2, 4);
+		timeArr[2] = timeArr[2].substring(0, 2);
+		if (meridian == 'PM' && timeArr[0] != '12') {
+			timeArr[0] = parseInt(timeArr[0]) + 12;
+		} else if (meridian == 'AM' && timeArr[0] == '12') {
+			timeArr[0] = '0';
+		}
+		console.log(timeArr.join(':'));
+	</script>
+</html>

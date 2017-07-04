@@ -1,0 +1,98 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Caro Eickhoff <traduction@carolei.de>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-12-06 04:25+0100\n"
+"Last-Translator: Anne Kremer <akremer@aer.de>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: app/views/flight_search/accordions.html:104
+msgid "Additional services"
+msgstr "Services additionnels"
+
+#: app/views/flight_search/accordions.html:78
+msgid "Alternatives"
+msgstr "Alternatives"
+
+#: app/views/flight_search/accordions.html:28
+msgid "Calendar matrix"
+msgstr "Formulaire de calendrier"
+
+#: app/views/flight_search/accordions.html:14
+msgid "Change"
+msgstr "Modifier"
+
+#: app/views/flight_search/accordions.html:61
+msgid "Collapse all"
+msgstr "Tout réduire"
+
+#: app/views/flight_search/accordions.html:91
+msgid "Details / Passenger Data"
+msgstr "Détails / Infos passager"
+
+#: app/views/flight_search/accordions.html:60
+msgid "Expand all"
+msgstr "Développer tout"
+
+#: app/views/flight_search/accordions.html:17
+msgid "New Search"
+msgstr "Nouvelle recherche"
+
+#: app/views/flight_search/accordions.html:117
+msgid "Payment"
+msgstr "Paiement"
+
+#: app/views/flight_search/accordions.html:124
+msgid "Print & e-mail"
+msgstr "Imprimer & envoyer un e-mail"
+
+#: app/views/flight_search/accordions.html:42
+msgid "Results"
+msgstr "Résultats"
+
+#: app/views/flight_search/accordions.html:5
+msgid "Search"
+msgstr "Recherche"
+
+#: app/views/flight_search/accordions.html:107
+#: app/views/flight_search/accordions.html:121
+#: app/views/flight_search/accordions.html:31
+#: app/views/flight_search/accordions.html:51
+#: app/views/flight_search/accordions.html:81
+#: app/views/flight_search/accordions.html:94
+msgid "Show"
+msgstr "Afficher"
+
+#: app/views/flight_search/accordions.html:57
+msgid "Show calendar matrix"
+msgstr "Afficher le calendrier"
+
+#: app/views/flight_search/accordions.html:46
+msgid "{{numberOfResults}} Result with {{numberOfAirlines}} Airline found"
+msgid_plural ""
+"{{numberOfResults}} Results with {{numberOfAirlines}} Airline found"
+msgstr[0] ""
+"{{numberOfResults}} Résultat avec {{numberOfAirlines}} Cies aériennes "
+"trouvées"
+msgstr[1] ""
+"{{numberOfResults}} Résultats avec {{numberOfAirlines}} Cies aériennes "
+"trouvées"
+
+#: app/views/flight_search/accordions.html:45
+msgid "{{numberOfResults}} Result with {{numberOfAirlines}} Airlines found"
+msgid_plural ""
+"{{numberOfResults}} Results with {{numberOfAirlines}} Airlines found"
+msgstr[0] ""
+"{{numberOfResults}} Résultat avec {{numberOfAirlines}} Cies aériennes "
+"trouvées"
+msgstr[1] ""
+"{{numberOfResults}} Résultats avec {{numberOfAirlines}} Cies aériennes "
+"trouvées"
+

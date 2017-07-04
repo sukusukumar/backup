@@ -1,0 +1,75 @@
+<html>
+	<style>
+		* {	
+			padding: 0px;
+			margin: 0px;
+		}
+		#b1, #b2 {
+			width: 30px;
+			height: 30px;
+			border: 1px solid red;
+			position: relative;
+			float: left;
+			top: 200px;
+			border-radius: 15px;
+		}
+		#b2 {
+			left: 200px;
+		}
+		input {
+			position: relative;
+			top: 250px;
+		}
+		#wall {
+			width: 30px;
+			height: 400px;
+			position: relative;
+			float: left;
+			left: 430px;
+		}
+		.balls {
+			border: 1px solid red;
+			border-radius: 50%;
+			position: absolute;
+			width: 30px;
+			height: 30px;
+			-webkit-animation: mymove 2s;
+		}
+		@-webkit-keyframes mymove {
+			0% {left: -260px; top: 190px;}
+			100% {}
+		}
+		.buttonMove {
+			-webkit-animation: basicMove 1s;
+		}
+		@-webkit-keyframes basicMove {
+			0% {left: 0px;}
+			100% {left: 232px}
+		}
+	</style>
+	<body>
+		<div id="b1"></div>
+		<div id="b2"></div>
+		<div id="wall">
+		</div>
+		<input type="button" value="start" id="start"></input>
+	</body>
+	<script>
+		document.getElementById('start').addEventListener('click', function () {
+			document.getElementById('b1').className = "buttonMove";
+		});
+		document.getElementById('b1').addEventListener("animationend", function () {
+			document.getElementById('b1').style.visibility = "hidden";
+			document.getElementById('b2').style.visibility = "hidden";
+			createBalls();
+		}, false);
+		function createBalls () {
+			var balls = "";
+			for (var i = 0; i < 12; i++) {
+				balls += "<div class='balls' style='top: "+ (i+1)*30 +";left: "+ 0 +"'></div>";
+			}
+			document.getElementById('wall').innerHTML = balls;
+		}
+		
+	</script>
+</html>

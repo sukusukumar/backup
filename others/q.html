@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	</head>
+	<body>
+		<input type="text" value="suku" id="suku" />
+		<input type="button" value="button" id="btn"></input>
+	</body>
+	<script>
+		console.log($("#suku").on("focus", function () {
+			console.log('focus');
+		}).on("blur", function () {
+			console.log('blur');
+		}));
+		
+		$(document).on("suku", function () {
+			$("#suku").select();
+			console.log('came');
+		});
+		$("#btn").on("click", function () {
+			$("#suku").select();
+		})
+	</script>
+</html>

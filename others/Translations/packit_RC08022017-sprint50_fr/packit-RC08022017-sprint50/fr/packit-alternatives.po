@@ -1,0 +1,78 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Caro Eickhoff <traduction@carolei.de>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-11-30 09:16+0100\n"
+"Last-Translator: Marylise Dumont <machaselavy@gmail.com>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: app/views/flight_search/partials/alternative/alternativeDccOptions.html:5
+msgid "Alternative Offers Tooltip"
+msgstr ""
+
+#: app/views/flight_search/partials/alternative/alternativeDccOptions.html:3
+msgid "Alternative offers"
+msgstr "Offres alternatives"
+
+#: app/views/flight_search/partials/alternative/alternativeDccOptions.html:30
+msgid "Alternative validating carrier: %s"
+msgstr "Transporteur principal alternatif : %s"
+
+#: app/views/flight_search/partials/alternative/alternativeDccOptions.html:31
+msgid "Direct Connect Offer"
+msgstr "Offre Direct Connect"
+
+#: app/views/flight_search/partials/alternative/alternativeFlightSummary.html:42
+msgid "Fare Family %1$s"
+msgstr "Cat. tarifaire %1$s"
+
+#: app/views/flight_search/partials/alternative/alternativeFlightSummary.html:25
+msgid "Flight details"
+msgstr "Détails du vol"
+
+#: app/scripts/constants/flight_search/alternatives_constants.js:5
+msgid "Important information"
+msgstr "Information importante"
+
+#: app/views/flight_search/partials/alternative/alternativeDccOptions.html:34
+msgid "Incl. %1$s DCC fee p.p."
+msgstr "Incl. %1$s frais DCC  p. pers."
+
+#: app/scripts/constants/flight_search/alternatives_constants.js:6
+msgid ""
+"Please immediately address to your service team in order to issue the EMD."
+msgstr ""
+"Veuillez vous adresser immédiatement à votre service-clientèle pour "
+"l'émission de votre EMD."
+
+#: app/scripts/constants/flight_search/alternatives_constants.js:4
+msgid "Please wait, the fare is being revalidated."
+msgstr "Veuillez patienter, le tarif va être revalidé."
+
+#: app/views/flight_search/partials/alternative/alternativeDccOptions.html:8
+msgid "Saving p.p."
+msgstr "Réduction p. pers."
+
+#: app/views/flight_search/partials/alternative/alternativeDccOptions.html:9
+msgid "Savings total"
+msgstr "Réduction total"
+
+#: app/views/flight_search/partials/alternative/alternativeFlightSummary.html:16
+msgid ""
+"Selected recommendation is not available anymore and was removed from the "
+"results list. Please select another recommendation"
+msgstr ""
+"Le vol choisi n'est plus disponible et n'apparaît plus dans la liste des "
+"vols affichés, veuillez choisir une alternative."
+
+#: app/views/flight_search/partials/alternative/alternativeDccOptions.html:29
+msgid "Your selected GDS - offer"
+msgstr "Votre offre GDS selectionnée"
+

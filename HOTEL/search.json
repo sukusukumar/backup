@@ -1,0 +1,35 @@
+{
+	"flightAndHotelDetails": {
+		"segmentList": [{
+			"departure": {
+				"code": "FRA"
+			},
+			"departureRadius": {
+				"unit": "KM",
+				"value": 0
+			},
+			"destination": {
+				"code": "BKK"
+			},
+			"destinationRadius": {
+				"unit": "KM",
+				"value": 0
+			},
+			"departureDate": "2017-06-10"
+		}],
+		"passengerTypeCountList": [{
+			"type": "ADT",
+			"count": 1
+		}],
+		"cabinClassList": ["ECONOMY"],
+		"cabinClassListMandatoryAllSegments": false
+	},
+	"hotelDetails": {
+		"ageOfChildren": [{
+			"child": "child1",
+			"age": "1"
+		}],
+		"numberOfRooms": 1,
+		"hotelForOnlyPartOfTrip": false
+	}
+}

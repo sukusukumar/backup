@@ -1,0 +1,111 @@
+# Daniel Sobiech <dsobiech@aer.de>, 2016. #zanata
+# Sukumar Vummadisetty <sukumar.vummadisetty@valuelabs.com>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-12-01 09:59+0100\n"
+"Last-Translator: Sukumar Vummadisetty <sukumar.vummadisetty@valuelabs.com>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/common/partials/ancillary/baggage.html:47
+#: app/views/common/partials/ancillary/meals_bevarages.html:63
+#: app/views/common/partials/ancillary/other_travel_services.html:63
+#: app/views/common/partials/ancillary/pets.html:63
+#: app/views/common/partials/ancillary/special_equipment.html:62
+msgid "Deselect all"
+msgstr "Zurücksetzen"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:69
+msgid "Discard changes"
+msgstr "Änderungen verwerfen"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:39
+msgid "Extras"
+msgstr "Extras"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:6
+msgid "Extras & SSR/OSI"
+msgstr "Extras & SSR- und OSI-Eingaben"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:34
+msgid "Extras Price Details"
+msgstr "Preisdetails Extras"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:11
+msgid ""
+"For SSR & OSI elements, please use the standard AMADEUS inputs. Airline "
+"confirmation required."
+msgstr ""
+"SSR- & OSI-Elemente geben Sie bitte im AMADEUS-Format ein. Bestätigung "
+"seitens der Airline erforderlich."
+
+#: app/views/common/partials/ancillary/meals_bevarages.html:6
+msgid "Meal and bevarages"
+msgstr "Mahlzeiten und Getränke"
+
+#: app/views/common/partials/ancillary/other_travel_services.html:6
+msgid "Other travel services"
+msgstr "Weitere Angebote"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:38
+msgid "Pax"
+msgstr "Passagiere"
+
+#: app/views/common/partials/ancillary/pets.html:6
+msgid "Pets"
+msgstr "Haustiere"
+
+#: app/views/common/partials/ancillary/baggage.html:28
+#: app/views/common/partials/ancillary/meals_bevarages.html:30
+#: app/views/common/partials/ancillary/other_travel_services.html:30
+#: app/views/common/partials/ancillary/pets.html:30
+#: app/views/common/partials/ancillary/special_equipment.html:29
+msgid "Price"
+msgstr "Preis"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:66
+msgid "Proceed"
+msgstr "Weiter"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:13
+msgid "Reset all"
+msgstr "Alles zurücksetzen"
+
+#: app/views/common/partials/ancillary/baggage.html:19
+#: app/views/common/partials/ancillary/meals_bevarages.html:21
+#: app/views/common/partials/ancillary/other_travel_services.html:21
+#: app/views/common/partials/ancillary/pets.html:21
+#: app/views/common/partials/ancillary/special_equipment.html:20
+msgid "Service"
+msgstr "Leistung"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:10
+msgid "The booking of EXTRAS is subject to airline confirmation."
+msgstr ""
+"Die Buchung von EXTRAS erfolgt vorbehaltlich der Bestätigung durch die "
+"Airline(s). Für kostenpflichtige EXTRAS ist die Ausstellung der Flugtickets "
+"und EMD spätestens innerhalb 24h erforderlich."
+
+#: app/views/common/partials/ancillary/baggage.html:43
+#: app/views/common/partials/ancillary/meals_bevarages.html:59
+#: app/views/common/partials/ancillary/other_travel_services.html:59
+#: app/views/common/partials/ancillary/pets.html:59
+#: app/views/common/partials/ancillary/special_equipment.html:58
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:42
+msgid "Total"
+msgstr "Gesamt"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:57
+msgid "Total:"
+msgstr "Gesamt:"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:26
+msgid "Unfortunately we could not find Extras for your selection."
+msgstr "Für dieses Angebot konnten wir keine Extras finden."
+

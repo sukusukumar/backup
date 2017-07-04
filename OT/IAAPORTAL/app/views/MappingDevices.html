@@ -1,0 +1,76 @@
+<div ng-include="'app/views/header.html'"></div>
+<div class="maincontainer" style="padding:15px">
+    <div class="maincontent"     style="margin-left: 0px;">
+        <div class="container-fluid">
+            <div class="ot-deviceData" style="max-width:100%;margin-left:0px">
+
+                <div class="tab-content">
+                    <div id="devices" class="tab-pane fade in active">
+                        <div class="orchestra_devices_table" style="height: auto;max-width: 72%">
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="max-width:100%">
+                                    <div ncy-breadcrumb></div>
+                                    <div class="row">
+                                        <div class="col-md-2"><h3 class="margin_topnone lead"><strong>Test Run</strong></h3></div>
+                                        <!--<div class="col-md-1"><input type="text" value="{{testPlanID}}" ng-readonly="true" class="width_50 text-center"></div>-->
+                                        <div class="col-md-1"><input type="text" class="width_50 text-center" value="{{TestRuns}}"></div>
+                                    </div>
+                                    <div class="row">
+                                        
+                                        <div class="col-md-3 margin_top">
+                                            <h4 class="margin_topnone lead"><strong>Virtual Devices</strong></h4>
+                                            <div id="firstGrid" ui-grid="VirtualDevicesOptions" ui-grid-selection ui-grid-cellNav class="grid"></div>
+                                        </div>
+                                        <div class="col-md-1 arrow_center">
+                                            <div class="ot-toggle">
+<!--                                                <div><button type="button" class="" ng-click = "">&gt;</button></div>
+                                                -->
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3 margin_top">
+                                            <h4 class="margin_topnone lead"><strong>Real Devices</strong></h4>
+                                            <div id="firstGrid" ui-grid="RealDevicesOptions" ui-grid-selection ui-grid-cellNav class="grid"></div>
+                                        </div>
+                                        <div class="col-md-1 arrow_center">
+                                            <div class="ot-toggle">
+                                                <div><button type="button" class="" ng-click = "addVirtualDevices();addRealDevices();TestRunCreate_Data();">&gt;</button></div>
+                                                
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 margin_top">
+                                            <h4 class="margin_topnone lead"><strong>Devices Mapping</strong></h4>
+                                            <table class="table table-bordered">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Virtual Devices</th>
+                                                        <th>Real Devices</th>
+                                                        <th>Action</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr ng-repeat="Device in DeviceMapping | unique:'VirtulaDeviceName' && 'RealDeviceName'">
+                                                        <td ng-model="Device.VirtulaDeviceName">{{Device.VirtulaDeviceName}}</td>
+                                                        <td ng-model="Device.RealDeviceName">{{Device.RealDeviceName}}</td>
+                                                        <td><button type="button" class="btn btn-danger" ng-click="deleteDevices(Device)">Delete</button></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            <p>{{msg}}</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a ui-sref=".createTestRunScheduleSel" class="btn btn-info center" ng-click="CreateTestrun()" >Next</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div ng-include="'app/views/favourites.html'" ></div>	
+
+
+
+

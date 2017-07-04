@@ -1,0 +1,153 @@
+# Jose Oliver <joliver@aerticket.es>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-12-09 02:30+0100\n"
+"Last-Translator: Jose Oliver <joliver@aerticket.es>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:58
+msgid "Airline Filekey(s):"
+msgstr "Localizador(es) de la aerolínea:"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:12
+msgid "Booking"
+msgstr "Reserva"
+
+#: app/views/flight_search/confirmation/confirmationSummary.html:18
+msgid "Booking date"
+msgstr "Fecha de reserva"
+
+#: app/views/flight_search/confirmation/confirmationMain.html:5
+msgid "Confirmation"
+msgstr "Confirmación"
+
+#: app/views/flight_search/confirmation/confirmationHeader.html:15
+msgid "Date"
+msgstr "Fecha"
+
+#: app/views/flight_search/confirmation/confirmationMain.html:51
+msgid "Edit booking"
+msgstr "Editar reserva"
+
+#: app/views/flight_search/confirmation/confirmationHeader.html:21
+msgid "Export to PDF"
+msgstr "Exportar a PDF"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:38
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:39
+msgid "Fare Family %1$s"
+msgstr "Fare Family %1$s"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:27
+msgid "Flight details"
+msgstr "Detalles de vuelo"
+
+#: app/scripts/constants/confirmation_constants.js:10
+msgid "MR"
+msgstr "Sr"
+
+#: app/scripts/constants/confirmation_constants.js:11
+msgid "MRS"
+msgstr "Sra"
+
+#: app/views/flight_search/confirmation/confirmationMain.html:48
+msgid "New search"
+msgstr "Nueva búsqueda"
+
+#: app/scripts/constants/confirmation_constants.js:5
+msgid "No information available"
+msgstr "Información no disponible"
+
+#: app/views/flight_search/confirmation/confirmationMain.html:54
+msgid "OrderManager"
+msgstr "Gestor de órdenes"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:80
+msgid "Passenger details"
+msgstr "Detalles de pasajero"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:92
+msgid "Price details:"
+msgstr "Detalles de precio:"
+
+#: app/views/flight_search/confirmation/confirmationHeader.html:20
+msgid "Print"
+msgstr "Imprimir"
+
+#: app/views/flight_search/confirmation/confirmationMain.html:8
+msgid "Print & email"
+msgstr "Imprimir y enviar"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:13
+msgid "Reservation only"
+msgstr "Sólo reserva"
+
+#: app/views/flight_search/confirmation/confirmationSummary.html:8
+msgid "SPNR"
+msgstr "SPNR"
+
+#: app/views/flight_search/confirmation/confirmationHeader.html:22
+msgid "Send via email"
+msgstr "Enviar via Email"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:52
+msgid "TKTL"
+msgstr "TKTL"
+
+#: app/views/flight_search/confirmation/confirmationSummary.html:28
+msgid "TOTAL:"
+msgstr "TOTAL:"
+
+#: app/views/flight_search/confirmation/confirmationMain.html:28
+msgid ""
+"Thank you for your ticket order. Tickets will follow shortly via email."
+msgstr ""
+"Gracias por su petición de emisión. Los billetes le llegaran en un momento "
+"vía email."
+
+#: app/views/flight_search/confirmation/confirmationHeader.html:11
+msgid ""
+"The redress number is a 7 digit number provided by the Department of "
+"Homeland Security under there Traveler Redress Inquiry Program (TRIP). If a "
+"traveler already has a redress number e.g. due to watch list issues, "
+"screening problems at ports of entry or any other difficulties, it can be "
+"provided here."
+msgstr ""
+"El \"redress number\" es un número de 7 dígitos otorgado por el Departamento "
+"de Seguridad Nacional bajo el \"Traveler Redress Inquiry Program (TRIP)\". "
+"Si un viajero ya dispone de \"redress number\" p.e. lista de búsqueda y "
+"captura, detección de problemas en aduanas u otra problemática, puede ser "
+"introducido aquí."
+
+#: app/views/flight_search/confirmation/confirmationHeader.html:11
+msgid ""
+"The reminder will create an entry in your standard calendar automatically."
+msgstr "El recordatorio creará una entrada en su calendario automáticamente."
+
+#: app/views/flight_search/confirmation/confirmationSummary.html:12
+msgid "Travel dates"
+msgstr "Fechas de viaje"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:70
+msgid "Zum zug Flug"
+msgstr "Tren al avión"
+
+#: app/scripts/constants/confirmation_constants.js:6
+msgid "issued"
+msgstr "emitido"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:69
+msgid "offered and invoiced by"
+msgstr "ofrecida y facturada por "
+
+#: app/scripts/constants/confirmation_constants.js:7
+msgid "ordered"
+msgstr "solicitado"
+

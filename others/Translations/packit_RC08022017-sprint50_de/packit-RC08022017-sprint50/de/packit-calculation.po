@@ -1,0 +1,185 @@
+# Daniel Sobiech <dsobiech@aer.de>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-11-18 11:26+0100\n"
+"Last-Translator: Daniel Sobiech <dsobiech@aer.de>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/scripts/constants/agent_markup_constants.js:47
+msgid "According to BMF"
+msgstr "Anwendung gem. BMF"
+
+#: app/views/settings/agentMarkupManagerMain.html:5
+msgid "Agent markup calculation"
+msgstr "Kalkulation Serviceentgelte Agentur"
+
+#: app/views/settings/partials/agent/ownPublishedFare.html:34
+msgid "Airlines excluded"
+msgstr "Airlines exklusive"
+
+#: app/views/settings/partials/agent/ownPublishedFare.html:26
+msgid "Airlines included"
+msgstr "Airlines inklusive"
+
+#: app/views/settings/partials/agent/ownPublishedFare.html:116
+#: app/views/settings/partials/agent/ownPublishedFare.html:90
+msgid "All"
+msgstr "Alle"
+
+#: app/scripts/constants/agent_markup_constants.js:46
+msgid "Always apply"
+msgstr "immer anwenden"
+
+#: app/views/settings/partials/agent/ownPublishedFare.html:83
+msgid "Cabin class"
+msgstr "Kabinenklasse"
+
+#: app/views/settings/agentMarkupManagerMain.html:68
+#: app/views/settings/popups/agentCalculation/agentOwnCalculation.html:6
+msgid "Clear all fields"
+msgstr "Eingabefelder löschen"
+
+#: app/scripts/constants/agent_markup_constants.js:19
+msgid "Conso NET fares"
+msgstr "Conso-Tarife"
+
+#: app/views/settings/agentMarkupManagerMain.html:23
+msgid "Define your flight calculation:"
+msgstr "Kalkulationsvariante:"
+
+#: app/views/settings/agentMarkupManagerMain.html:65
+msgid "Discard changes"
+msgstr "Änderungen verwerfen"
+
+#: app/scripts/constants/agent_markup_constants.js:5
+msgid "Domestic"
+msgstr "Domestic"
+
+#: app/views/settings/partials/agent/standardMarkupCalculation.html:8
+msgid "Domestic and IATA Europe:"
+msgstr "Domestic und IATA-Europa:"
+
+#: app/views/settings/partials/agent/standardMarkupCalculation.html:16
+msgid "Exception"
+msgstr "Ausnahme"
+
+#: app/scripts/constants/agent_markup_constants.js:41
+msgid "Flat calculation"
+msgstr "Flat-Kalkulation"
+
+#: app/views/settings/agentMarkupManagerMain.html:20
+msgid "Flight calculation"
+msgstr "Kalkulation für Flüge"
+
+#: app/scripts/constants/agent_markup_constants.js:9
+msgid "IATA Europe"
+msgstr "IATA-Europa"
+
+#: app/scripts/constants/agent_markup_constants.js:50
+msgid "Information"
+msgstr "Information"
+
+#: app/scripts/constants/agent_markup_constants.js:34
+msgid "LOW/DIR/CHA"
+msgstr "LOW/DIR/CHA"
+
+#: app/views/settings/partials/agent/standardMarkupCalculation.html:19
+msgid "LOW/DIR/CHA:"
+msgstr "LOW/DIR/CHA:"
+
+#: app/views/settings/partials/agent/ownPublishedFare.html:47
+msgid "Markup"
+msgstr "Entgelt"
+
+#: app/views/settings/partials/agent/ownPublishedFare.html:65
+msgid "Minimum"
+msgstr "Minimum"
+
+#: app/scripts/constants/agent_markup_constants.js:29
+msgid "Nego/Unifares"
+msgstr "Nego-Tarife"
+
+#: app/views/settings/partials/agent/ownPublishedFare.html:8
+msgid "Net fare from"
+msgstr "Nettopreis ab"
+
+#: app/views/settings/partials/agent/ownPublishedFare.html:17
+msgid "Net fare to"
+msgstr "Nettopreis bis"
+
+#: app/scripts/constants/agent_markup_constants.js:48
+msgid "Never apply"
+msgstr "niemals anwenden"
+
+#: app/views/settings/popups/agentCalculation/agentOwnCalculation.html:17
+msgid "No"
+msgstr "Nein"
+
+#: app/scripts/constants/agent_markup_constants.js:40
+msgid "No calculation"
+msgstr "Keine Kalkulation"
+
+#: app/scripts/constants/agent_markup_constants.js:24
+#: app/views/settings/partials/agent/ownFareGroup.html:2
+msgid "Published fares"
+msgstr "Published-Tarife"
+
+#: app/views/settings/partials/agent/ownPublishedFare.html:107
+msgid "Routing"
+msgstr "Routing"
+
+#: app/views/settings/agentMarkupManagerMain.html:62
+msgid "Save"
+msgstr "Speichern"
+
+#: app/scripts/constants/agent_markup_constants.js:53
+msgid ""
+"This is a duplicate of another rule. Your changes haven not been saved. "
+"Please update and save again."
+msgstr ""
+
+#: app/views/settings/popups/agentCalculation/agentOwnCalculation.html:11
+msgid ""
+"This will clear all calculation rules. They cannot be restored. Are you "
+"really sure, that you want to clear all rules?"
+msgstr "Möchten Sie wirklich alle Regeln unwiderruflich löschen? "
+
+#: app/views/settings/partials/agent/standardMarkupCalculation.html:5
+msgid "Valid for all tariffs."
+msgstr "Gültig für alle Tarife."
+
+#: app/scripts/constants/agent_markup_constants.js:13
+msgid "Worldwide"
+msgstr "Weltweit"
+
+#: app/views/settings/partials/agent/standardMarkupCalculation.html:12
+msgid "Worldwide:"
+msgstr "Weltweit:"
+
+#: app/views/settings/popups/agentCalculation/agentOwnCalculation.html:20
+msgid "Yes, clear all rules"
+msgstr "Ja"
+
+#: app/scripts/constants/agent_markup_constants.js:51
+msgid ""
+"Your calculation has been saved successfully. Please mind, that it can take "
+"a few minutes until your new calculation will be applied to search results."
+msgstr ""
+"Ihre Kalkulation wurde erfolgreich gespeichert. Die neue Kalkulation steht "
+"Ihnen in Kürze zur Verfügung."
+
+#: app/scripts/constants/agent_markup_constants.js:52
+msgid "Your changes haven not been saved. Please update and save again."
+msgstr ""
+
+#: app/views/settings/partials/agent/flatMarkupCalculation.html:3
+msgid "Your markup"
+msgstr "Ihr Entgelt p. P."
+

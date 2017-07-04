@@ -1,0 +1,77 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Bhaskar Thammali <bhaskar.thammali@valuelabs.com>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-12-14 04:03+0100\n"
+"Last-Translator: Anne Kremer <akremer@aer.de>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:89
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:86
+msgid "1st class, RT"
+msgstr "1st class, RT"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:47
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:68
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:44
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:65
+msgid "2nd class, OW"
+msgstr "2nd class, OW"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:25
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:22
+msgid "2nd class, RT"
+msgstr "2nd class, RT"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:125
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:122
+msgid "Proceed"
+msgstr "Proceed"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:28
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:50
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:73
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:92
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:25
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:47
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:70
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:89
+msgid "Railway Germany"
+msgstr "Railway Germany"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:14
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:11
+msgid "Total for all pax"
+msgstr "Total for all pax"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:7
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:4
+msgid "ZZF: information will follow"
+msgstr "ZZF: information will follow"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:6
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:3
+msgid "Zug zum Flug"
+msgstr "Zug zum Flug"
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:10
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:7
+msgid ""
+"Zug-zum-Flug tickets are sold and invoiced by tour operator team Fernreisen "
+"GmbH (TFR)."
+msgstr ""
+"Zug-zum-Flug tickets are sold and invoiced by tour operator team Fernreisen "
+"GmbH (TFR)."
+
+#: app/views/flight_search/partials/additionalServices/zzfselection.html:111
+#: app/views/orderManager/partials/additionalServices/zzfselection.html:108
+msgid "no ZZF"
+msgstr "no ZZF"
+

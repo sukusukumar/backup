@@ -1,0 +1,110 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Caro Eickhoff <traduction@carolei.de>, 2016. #zanata
+# Sukumar Vummadisetty <sukumar.vummadisetty@valuelabs.com>, 2016. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2016-12-01 10:48+0100\n"
+"Last-Translator: Sukumar Vummadisetty <sukumar.vummadisetty@valuelabs.com>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: app/views/common/partials/ancillary/baggage.html:47
+#: app/views/common/partials/ancillary/meals_bevarages.html:63
+#: app/views/common/partials/ancillary/other_travel_services.html:63
+#: app/views/common/partials/ancillary/pets.html:63
+#: app/views/common/partials/ancillary/special_equipment.html:62
+msgid "Deselect all"
+msgstr "Tout désélectionner"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:69
+msgid "Discard changes"
+msgstr "Annuler les changements"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:39
+msgid "Extras"
+msgstr "Extras"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:6
+msgid "Extras & SSR/OSI"
+msgstr "Extras & SSR/OSI"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:34
+msgid "Extras Price Details"
+msgstr "Prix détaillés pour Extras"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:11
+msgid ""
+"For SSR & OSI elements, please use the standard AMADEUS inputs. Airline "
+"confirmation required."
+msgstr ""
+"Pour les éléments SSR & OSI, veuillez utiliser les  entrées standard AMADEUS."
+" La confirmation de la compagnie aérienne est nécessaire."
+
+#: app/views/common/partials/ancillary/meals_bevarages.html:6
+msgid "Meal and bevarages"
+msgstr "Repas et boissons"
+
+#: app/views/common/partials/ancillary/other_travel_services.html:6
+msgid "Other travel services"
+msgstr "Autres prestations de voyage"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:38
+msgid "Pax"
+msgstr "Passagers"
+
+#: app/views/common/partials/ancillary/pets.html:6
+msgid "Pets"
+msgstr "Animaux domestiques"
+
+#: app/views/common/partials/ancillary/baggage.html:28
+#: app/views/common/partials/ancillary/meals_bevarages.html:30
+#: app/views/common/partials/ancillary/other_travel_services.html:30
+#: app/views/common/partials/ancillary/pets.html:30
+#: app/views/common/partials/ancillary/special_equipment.html:29
+msgid "Price"
+msgstr "Prix"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:66
+msgid "Proceed"
+msgstr "Poursuivre"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:13
+msgid "Reset all"
+msgstr "Tout réinitialiser "
+
+#: app/views/common/partials/ancillary/baggage.html:19
+#: app/views/common/partials/ancillary/meals_bevarages.html:21
+#: app/views/common/partials/ancillary/other_travel_services.html:21
+#: app/views/common/partials/ancillary/pets.html:21
+#: app/views/common/partials/ancillary/special_equipment.html:20
+msgid "Service"
+msgstr "Service"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:10
+msgid "The booking of EXTRAS is subject to airline confirmation."
+msgstr "La réservation d' EXTRAS doit être confirmée par la cie aérienne."
+
+#: app/views/common/partials/ancillary/baggage.html:43
+#: app/views/common/partials/ancillary/meals_bevarages.html:59
+#: app/views/common/partials/ancillary/other_travel_services.html:59
+#: app/views/common/partials/ancillary/pets.html:59
+#: app/views/common/partials/ancillary/special_equipment.html:58
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:42
+msgid "Total"
+msgstr "Total"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:57
+msgid "Total:"
+msgstr "Total :"
+
+#: app/views/flight_search/partials/additionalServices/extrasSelection.html:26
+msgid "Unfortunately we could not find Extras for your selection."
+msgstr ""
+"Malheureusement, nous n'avons pas trouvé d'extras s'appliquant à vos choix. "
+

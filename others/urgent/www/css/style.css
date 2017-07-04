@@ -1,0 +1,42 @@
+/* Empty. Add your own CSS if you like */
+*{
+	padding: 0px; 
+	margin: 0px;
+}
+.outer {
+	display: table;
+	width: 100%;
+	height: 100%;
+}
+.middle {
+	display: table-cell;
+}
+.content {
+	width: 120px;
+	margin: 0 auto;
+}
+.users{
+	height: 150px;
+	text-align: center;
+	position: relative;
+}
+.users p{
+	position: absolute;
+	bottom: -5px;
+	width: 100%
+}
+.form-errors {
+  margin: 5px 0
+	
+}
+
+.form-error {
+  padding: 2px 0 2px 16px;
+  color: red;
+}
+.no-top-border {
+	border-top: none;
+}
+.scroll {
+	height: 100%;
+}

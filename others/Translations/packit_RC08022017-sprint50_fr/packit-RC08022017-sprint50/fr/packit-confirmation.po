@@ -1,0 +1,158 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Caro Eickhoff <traduction@carolei.de>, 2016. #zanata
+# Anne Kremer <akremer@aer.de>, 2017. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2017-01-17 08:30+0100\n"
+"Last-Translator: Anne Kremer <akremer@aer.de>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:58
+msgid "Airline Filekey(s):"
+msgstr "Réf. Cie:"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:12
+msgid "Booking"
+msgstr "Réservation"
+
+#: app/views/flight_search/confirmation/confirmationSummary.html:18
+msgid "Booking date"
+msgstr "Date de réservation"
+
+#: app/views/flight_search/confirmation/confirmationMain.html:5
+msgid "Confirmation"
+msgstr "Confirmation"
+
+#: app/views/flight_search/confirmation/confirmationHeader.html:15
+msgid "Date"
+msgstr "Date"
+
+#: app/views/flight_search/confirmation/confirmationMain.html:51
+msgid "Edit booking"
+msgstr "Modifier la réservation"
+
+#: app/views/flight_search/confirmation/confirmationHeader.html:21
+msgid "Export to PDF"
+msgstr "Exporter vers PDF"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:38
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:39
+msgid "Fare Family %1$s"
+msgstr "Cat. tarifaire %1$s"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:27
+msgid "Flight details"
+msgstr "Détails du vol"
+
+#: app/scripts/constants/confirmation_constants.js:10
+msgid "MR"
+msgstr "M."
+
+#: app/scripts/constants/confirmation_constants.js:11
+msgid "MRS"
+msgstr "Mme"
+
+#: app/views/flight_search/confirmation/confirmationMain.html:48
+msgid "New search"
+msgstr "Nouvelle recherche"
+
+#: app/scripts/constants/confirmation_constants.js:5
+msgid "No information available"
+msgstr "Aucune information disponible"
+
+#: app/views/flight_search/confirmation/confirmationMain.html:54
+msgid "OrderManager"
+msgstr "Mes réservations"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:80
+msgid "Passenger details"
+msgstr "Données des passagers"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:92
+msgid "Price details:"
+msgstr "Infos sur les tarifs :"
+
+#: app/views/flight_search/confirmation/confirmationHeader.html:20
+msgid "Print"
+msgstr "Imprimer"
+
+#: app/views/flight_search/confirmation/confirmationMain.html:8
+msgid "Print & email"
+msgstr "Imprimer & envoyer e-mail"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:13
+msgid "Reservation only"
+msgstr "Poser une option"
+
+#: app/views/flight_search/confirmation/confirmationSummary.html:8
+msgid "SPNR"
+msgstr "SPNR"
+
+#: app/views/flight_search/confirmation/confirmationHeader.html:22
+msgid "Send via email"
+msgstr "Envoyer par e-mail"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:52
+msgid "TKTL"
+msgstr "TKTL"
+
+#: app/views/flight_search/confirmation/confirmationSummary.html:28
+msgid "TOTAL:"
+msgstr "TOTAL :"
+
+#: app/views/flight_search/confirmation/confirmationMain.html:28
+msgid ""
+"Thank you for your ticket order. Tickets will follow shortly via email."
+msgstr ""
+"Merci pour votre commande. Vous recevrez sous peu les billets par e-mail. "
+
+#: app/views/flight_search/confirmation/confirmationHeader.html:11
+msgid ""
+"The redress number is a 7 digit number provided by the Department of "
+"Homeland Security under there Traveler Redress Inquiry Program (TRIP). If a "
+"traveler already has a redress number e.g. due to watch list issues, "
+"screening problems at ports of entry or any other difficulties, it can be "
+"provided here."
+msgstr ""
+"Le numéro de recours est un nombre à 7 chiffres octroyé par le ministère "
+"américain de la sécurité intérieure dans le cadre du programme réservé aux "
+"procédures de recours - Traveler Redress Inquiry Program (TRIP). Si un "
+"voyageur possède déjà un numéro de recours p. ex. à cause d'un fichage sur "
+"les listes de surveillance, de problèmes lors de contrôle aux points "
+"d'entrée ou en raison de toute autre difficulté, il peut être inséré ici-"
+"même."
+
+#: app/views/flight_search/confirmation/confirmationHeader.html:11
+msgid ""
+"The reminder will create an entry in your standard calendar automatically."
+msgstr ""
+"Le rappel va automatiquement créer une entrée dans votre calendrier standard."
+""
+
+#: app/views/flight_search/confirmation/confirmationSummary.html:12
+msgid "Travel dates"
+msgstr "Dates de voyage"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:70
+msgid "Zum zug Flug"
+msgstr "Train+avion"
+
+#: app/scripts/constants/confirmation_constants.js:6
+msgid "issued"
+msgstr "émis"
+
+#: app/views/flight_search/confirmation/confirmationBookingDetails.html:69
+msgid "offered and invoiced by"
+msgstr "proposé et facturé par"
+
+#: app/scripts/constants/confirmation_constants.js:7
+msgid "ordered"
+msgstr "commandé"
+

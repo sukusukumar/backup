@@ -1,0 +1,655 @@
+# Anne Kremer <akremer@aer.de>, 2016. #zanata
+# Caro Eickhoff <traduction@carolei.de>, 2016. #zanata
+# Sukumar Vummadisetty <sukumar.vummadisetty@valuelabs.com>, 2016. #zanata
+# Anne Kremer <akremer@aer.de>, 2017. #zanata
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2017-01-26 11:31+0100\n"
+"Last-Translator: Anne Kremer <akremer@aer.de>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"X-Generator: Zanata 3.7.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:18
+#: app/views/flight_search/partials/passengerData/TSAFields.html:19
+msgid "1st given name as per passport"
+msgstr "1er prénom figurant sur le passeport"
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:24
+#: app/views/flight_search/partials/passengerData/TSAFields.html:26
+msgid "2nd and additional given name(s) as per passport"
+msgstr "2nd(s) prénom(s) figurant sur le(s) passeport(s)"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:20
+msgid "A - Identity card"
+msgstr "A - Carte d'identité"
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:1
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:75
+msgid "APIS"
+msgstr "APIS"
+
+#: app/views/flight_search/popups/passenger_data/missing_additional_passenger_data.html:10
+msgid "APIS data is missing"
+msgstr "Les données APIS manquent"
+
+#: app/views/flight_search/popups/passenger_data/missing_additional_passenger_data.html:20
+msgid ""
+"APIS data is required for ticket order. Please click on “OK” to complete "
+"data. If data is not available yet, create a reservation alternatively."
+msgstr ""
+"Pour commander un billet, les données APIS sont requises. Veuillez cliquer "
+"sur \"OK\" afin de compléter vos données. Si les données ne sont pas encore "
+"disponibles, veuillez créer une réservation autrement. "
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:26
+#: app/scripts/constants/flight_search/passenger_data_constants.js:76
+msgid "AT, Austria"
+msgstr "AT, Autriche"
+
+#: app/views/flight_search/partials/passengerData/passengerDetails.html:22
+msgid ""
+"According to IATA resolution #830d contact details (mobile phone number and/"
+"or e-mail address) at destination have to be provided for each booking, in "
+"order to allow the airline to inform passengers in case of urgent schedule "
+"changes."
+msgstr ""
+"Conformément à la résolution IATA 830d, les coordonnées (numéro de téléphone "
+"portable et/ou adresse électronique) à destination doivent être fournis pour "
+"chaque réservation, afin que la compagnie aérienne puisse informer les "
+"passagers en cas de changement d'horaire urgent.  "
+
+#: app/views/flight_search/partials/passengerData/selectedFarePriceBreakDown.html:35
+#: app/views/flight_search/partials/passengerData/selectedFarePriceBreakDown.html:40
+msgid "Agent markup"
+msgstr "Commission de l'agent"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:67
+msgid "Airport change"
+msgstr "Changement d'aéroport"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:27
+#: app/scripts/constants/flight_search/passenger_data_constants.js:77
+msgid "BE, Belgium"
+msgstr "BE, Belgique"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:39
+msgid "Baggage allowance"
+msgstr "Franchise de bagages"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:21
+msgid "C - Identity card"
+msgstr "C - Carte d'identité"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:28
+#: app/scripts/constants/flight_search/passenger_data_constants.js:78
+msgid "CH, Switzerland"
+msgstr "CH, Suisse"
+
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:78
+msgid "CUBA"
+msgstr "CUBA"
+
+#: app/views/flight_search/partials/passengerData/CUBAFields.html:30
+#: app/views/flight_search/partials/passengerData/FFNFields.html:33
+msgid "Close & ignore"
+msgstr "Fermer & ignorer"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:69
+msgid "Companion fare"
+msgstr "Tarif accompagnateur"
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:65
+#: app/views/flight_search/partials/passengerData/CUBAFields.html:26
+#: app/views/flight_search/partials/passengerData/FFNFields.html:29
+#: app/views/flight_search/partials/passengerData/TSAFields.html:39
+msgid "Confirm"
+msgstr "Confirmer"
+
+#: app/views/flight_search/partials/passengerData/passengerDetails.html:20
+msgid "Contact at destination"
+msgstr "Contact à destination"
+
+#: app/views/flight_search/partials/passengerData/passengerDetails.html:31
+msgid "Country code"
+msgstr "Code de pays"
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:48
+msgid "Country of issuance"
+msgstr "Pays d'émission"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:29
+#: app/scripts/constants/flight_search/passenger_data_constants.js:79
+msgid "DE, Germany"
+msgstr "DE, Allemagne"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:10
+msgid "DR"
+msgstr "Dr"
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:2
+msgid "Data for the Advanced Passenger Information System."
+msgstr "Données pour le système de renseignement avancé pour les passagers."
+
+#: app/views/flight_search/partials/passengerData/TSAFields.html:2
+msgid ""
+"Data for the Secure Flight Program of the Transport Security Administration "
+"of the United States of America for flights from, to, via or crossing the "
+"airspace of the USA and/or with US-American carriers."
+msgstr ""
+"Données pour le programme pour la sécurité des vols de l'agence nationale "
+"américaine de sécurité dans les transports (TSA) pour les vols depuis, vers, "
+"via ou traversant l'espace aérien des USA et/ou avec des transporteurs "
+"américains. "
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:30
+#: app/views/flight_search/partials/passengerData/TSAFields.html:33
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:61
+msgid "Date of Birth"
+msgstr "Date de naissance"
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:7
+msgid ""
+"Date of birth entered in APIS data does not match the date of birth entered "
+"for passenger TSA. Please verify and adjust."
+msgstr ""
+"La date de naissance saisie dans les données APIS ne correspond pas à celle "
+"qui a été enregistrée pour le voyageur à la TSA. Veuillez vérifier et "
+"corriger. "
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:6
+msgid ""
+"Date of birth entered in APIS data does not match the date of birth entered "
+"for this passenger. Please verify and adjust."
+msgstr ""
+"La date de naissance saisie dans les données APIS ne correspond pas à celle "
+"qui a été enregistrée pour ce voyageur. Veuillez vérifier et corriger. "
+
+#: app/views/flight_search/partials/passengerData/TSAFields.html:6
+msgid ""
+"Date of birth entered in TSA data does not match the date of birth entered "
+"for this passenger. Please verify and adjust."
+msgstr ""
+"La date de naissance saisie dans les données TSA ne correspond pas à celle "
+"qui a été enregistrée pour ce voyageur. Veuillez vérifier et corriger. "
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:40
+msgid "Different baggage rules per leg"
+msgstr "Règles relatives aux bagages différentes pour chaque segment"
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:37
+msgid "Document type"
+msgstr "Type de document"
+
+#: app/views/flight_search/partials/passengerData/passengerDetails.html:43
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:71
+msgid "Exclusive fares"
+msgstr "Tarif Direct Connect LH Group"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:16
+msgid "FEMALE"
+msgstr "FÉMININ"
+
+#: app/views/flight_search/partials/passengerData/FFNFields.html:1
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:69
+msgid "FFN"
+msgstr "FFN"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:30
+#: app/scripts/constants/flight_search/passenger_data_constants.js:80
+msgid "FR, France"
+msgstr "FR. France"
+
+#: app/views/flight_search/accordions/passenger-data.html:46
+msgid "Fare Family %1$s"
+msgstr "Cat. tarifaire %1$s"
+
+#: app/views/flight_search/accordions/passenger-data.html:29
+msgid "Flight details"
+msgstr "Détails du vol"
+
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:69
+msgid "Frequent Flyer Number"
+msgstr "Numéro de voyageur fréquent"
+
+#: app/views/flight_search/partials/passengerData/FFNFields.html:18
+msgid "Frequent flyer number"
+msgstr "Numéro de voyageur fréquent"
+
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:41
+msgid "Gender"
+msgstr "Genre"
+
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:42
+msgid "Gender for infant"
+msgstr "Genre du bébé"
+
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:55
+msgid "Given name(s)"
+msgstr "Prénom(s) "
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:66
+msgid "High yield offer"
+msgstr "Offre à haut rendement"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:22
+msgid "I - Identity card"
+msgstr "I - Carte d'identité"
+
+#: app/views/flight_search/partials/passengerData/ISICFields.html:13
+msgid "ISIC number"
+msgstr "Numéro ISIC "
+
+#: app/views/flight_search/partials/passengerData/ISICFields.html:15
+msgid "ITIC number"
+msgstr "Numéro ITIC"
+
+#: app/views/flight_search/partials/passengerData/ISICFields.html:14
+msgid "IYIC number"
+msgstr "Numéro IYIC "
+
+#: app/views/flight_search/partials/passengerData/ISICFields.html:3
+msgid ""
+"International Student Identification Card as a legitimation for student "
+"fares."
+msgstr ""
+"Carte d'Etudiant internationale comme pièce justificative pour les tarifs "
+"étudiants."
+
+#: app/views/flight_search/partials/passengerData/ISICFields.html:5
+msgid ""
+"International Teacher Identification Card as a legitimation for student "
+"fares."
+msgstr ""
+"Carte de Professeur internationale comme pièce justificative pour les tarifs "
+"étudiants."
+
+#: app/views/flight_search/partials/passengerData/ISICFields.html:4
+msgid ""
+"International Youth Identification Card as a legitimation for student fares."
+msgstr ""
+"Carte Jeune internationale comme pièce justificative pour les tarifs "
+"étudiants."
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:72
+msgid "International fares"
+msgstr "Tarifs internationaux"
+
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:16
+msgid "Invalid characters name field(s). Please correct."
+msgstr "Le nom contient des caractères invalides. Veuillez corriger. "
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:31
+#: app/scripts/constants/flight_search/passenger_data_constants.js:81
+msgid "LU, Luxembourg"
+msgstr "LU, Luxembourg"
+
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:49
+msgid "Last name"
+msgstr "Nom de famille"
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:12
+#: app/views/flight_search/partials/passengerData/TSAFields.html:11
+msgid "Lastname as per passport"
+msgstr "Nom de famille figurant sur le passeport"
+
+#: app/views/flight_search/partials/passengerData/selectedFarePriceBreakDown.html:18
+msgid "Less"
+msgstr "Moins"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:15
+msgid "MALE"
+msgstr "MASCULIN"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:5
+msgid "MR"
+msgstr "M."
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:6
+msgid "MRS"
+msgstr "Mme"
+
+#: app/views/flight_search/partials/passengerData/selectedFarePriceBreakDown.html:14
+msgid "Markup"
+msgstr "Commission"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:62
+msgid "N/A"
+msgstr "N/A"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:32
+#: app/scripts/constants/flight_search/passenger_data_constants.js:82
+msgid "NL, Netherlands"
+msgstr "NL, Pays-Bas"
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:53
+msgid "Nationality"
+msgstr "Nationalité"
+
+#: app/views/flight_search/accordions/passenger-data.html:20
+msgid "No Alternatives Found"
+msgstr "Aucune alternative n'a été trouvée"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:42
+msgid "No baggage included"
+msgstr "Aucun bagage inclus"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:45
+msgid "No baggage information available"
+msgstr "Aucune information relative aux bagages n'est disponible"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:57
+#: app/scripts/constants/flight_search/passenger_data_constants.js:61
+msgid "No information available"
+msgstr "Aucune information disponible"
+
+#: app/views/flight_search/partials/passengerData/selectedFarePriceBreakDown.html:7
+msgid "No."
+msgstr "Nbre"
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:42
+msgid "Number of document"
+msgstr "N° de document"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:56
+msgid "Number of technical stops"
+msgstr "Nbre d'escales techniques"
+
+#: app/views/flight_search/partials/passengerData/CUBAFields.html:17
+msgid "OFAC license"
+msgstr "OFAC licence"
+
+#: app/views/flight_search/popups/passenger_data/missing_additional_passenger_data.html:27
+msgid "Ok"
+msgstr "Ok"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:11
+msgid "PROF"
+msgstr "Prof."
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:12
+msgid "PROF DR"
+msgstr "Prof. Dr."
+
+#: app/views/flight_search/partials/passengerData/passengerDetails.html:50
+msgid "Passenger association"
+msgstr "Association de voyageurs"
+
+#: app/views/flight_search/partials/passengerData/passengerDetails.html:5
+msgid "Passenger data"
+msgstr "Données relatives aux voyageurs"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:19
+msgid "Passenger passport"
+msgstr "Passeport du passager"
+
+#: app/views/flight_search/partials/passengerData/selectedFarePriceBreakDown.html:8
+msgid "Pax"
+msgstr "Passagers"
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:8
+msgid "Please confirm APIS data before proceeding."
+msgstr "Veuillez svp confirmer les données APIS avant de poursuivre."
+
+#: app/views/flight_search/partials/passengerData/FFNFields.html:7
+msgid "Please confirm FFN data before proceeding."
+msgstr ""
+"Veuillez confirmer le No de voyageur fréquent (FFN) avant de poursuivre."
+
+#: app/views/flight_search/partials/passengerData/TSAFields.html:7
+msgid "Please confirm TSA data before proceeding."
+msgstr "Veuillez confirmer les données TSA avant de poursuivre."
+
+#: app/views/flight_search/partials/passengerData/FFNFields.html:6
+msgid "Please enter a valid frequent flyer number (6-20 digits)."
+msgstr "Veuillez saisir un No de voyageur fréquent valide (6-20 chiffres)."
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:5
+#: app/views/flight_search/partials/passengerData/ISICFields.html:9
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:13
+#: app/views/flight_search/partials/passengerData/passengerDetails.html:27
+msgid "Please enter missing data"
+msgstr "Veuillez saisir les données manquantes"
+
+#: app/views/flight_search/partials/passengerData/TSAFields.html:5
+msgid "Please enter missing data."
+msgstr "Veuillez saisir les données manquantes."
+
+#: app/views/flight_search/partials/passengerData/FFNFields.html:5
+msgid "Please select a frequent flyer program from the list."
+msgstr "Veuillez sélectionner un programme voyageur fréquent dans la liste:"
+
+#: app/views/flight_search/partials/passengerData/FFNFields.html:2
+msgid ""
+"Please select an airline/frequent flyer program from the list and enter the "
+"frequent flyer number (FFN) as printed on the card. Only those airlines "
+"offering an agreement with the validating carrier are being displayed."
+msgstr ""
+"Veuillez sélectionner une compagnie aérienne/programme Voyageur fréquent "
+"dans la liste et saisissez le numéro de voyageur fréquent (FFN) tel qu'il "
+"est imprimé sur la carte.  Seules les compagnies aériennes offrant un accord "
+"attestant de la validation du transporteur aérien sont affichées."
+
+#: app/views/flight_search/partials/passengerData/selectedFarePriceBreakDown.html:9
+msgid "Price"
+msgstr "Prix"
+
+#: app/views/flight_search/partials/passengerData/selectedFarePriceBreakDown.html:3
+msgid "Price details"
+msgstr "Infos sur les tarifs"
+
+#: app/views/flight_search/partials/passengerData/passengerDetails.html:64
+msgid "Proceed"
+msgstr "Poursuivre"
+
+#: app/views/flight_search/partials/passengerData/FFNFields.html:11
+msgid "Program"
+msgstr "Programme"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:68
+msgid "Ready to fly"
+msgstr "Ready to fly"
+
+#: app/views/flight_search/partials/passengerData/TSAFields.html:43
+#: app/views/flight_search/partials/passengerData/TSAFields.html:48
+msgid "Redress number"
+msgstr "Numéro de recours"
+
+#: app/views/flight_search/popups/passenger_data/missing_additional_passenger_data.html:30
+msgid "Reservation only"
+msgstr "Réservation uniquement"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:70
+msgid "Resident Discounts"
+msgstr "Réductions pour les résidents"
+
+#: app/views/flight_search/partials/passengerData/passengerDetails.html:71
+msgid "Rules"
+msgstr "Règles"
+
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:29
+msgid "Salutation"
+msgstr "Civilité"
+
+#. translation for 'saving' in price table of alternatives and passengerdata pages
+#: app/views/flight_search/partials/passengerData/selectedFarePriceBreakDown.html:11
+msgid "Saving_priceTablePassengerData"
+msgstr "Réduction"
+
+#: app/views/flight_search/accordions/passenger-data.html:11
+#: app/views/flight_search/accordions/passenger-data.html:24
+msgid "Selected recommendation is bookable."
+msgstr "La recommandation sélectionnée peut être réservée."
+
+#: app/views/flight_search/accordions/passenger-data.html:16
+msgid ""
+"Selected recommendation is not available anymore and was removed from the "
+"results list. Please select another recommendation"
+msgstr ""
+"La recommandation sélectionnée n'est plus disponible et a été supprimée de "
+"la liste de résultats.  Veuillez svp sélectionner une autre recommandation"
+
+#: app/views/flight_search/partials/passengerData/selectedFarePriceBreakDown.html:17
+msgid "Show more"
+msgstr "Afficher plus"
+
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:19
+msgid "Sorry, please shorten the names or call help desk."
+msgstr ""
+"Pardon, veuillez svp raccourcir les noms ou appeler notre service "
+"d'assistance. "
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:65
+msgid "Special offer"
+msgstr "Offre spéciale"
+
+#: app/views/flight_search/partials/passengerData/TSAFields.html:1
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:72
+msgid "TSA"
+msgstr "TSA"
+
+#: app/views/flight_search/popups/passenger_data/missing_additional_passenger_data.html:14
+msgid "TSA and APIS data are missing"
+msgstr "Les données TSA et APIS sont manquantes"
+
+#: app/views/flight_search/popups/passenger_data/missing_additional_passenger_data.html:21
+msgid ""
+"TSA and/or APIS data is required for ticket order. Please click on “OK” to "
+"complete data. If data is not available yet, create a reservation "
+"alternatively."
+msgstr ""
+"Les données TSA et/ou APIS sont nécessaires pour commander le billet. "
+"Veuillez svp cliquer sur “OK” pour compléter les données. Si ces données ne "
+"sont encore disponibles pour le moment, veuillez créer une réservation "
+"séparément."
+
+#: app/views/flight_search/popups/passenger_data/missing_additional_passenger_data.html:6
+msgid "TSA data is missing"
+msgstr "Les données TSA sont manquantes"
+
+#: app/views/flight_search/popups/passenger_data/missing_additional_passenger_data.html:19
+msgid ""
+"TSA data is required for ticket order. Please click on “OK” to complete data."
+" If data is not available yet, create a reservation alternatively."
+msgstr ""
+"Les données TSA et/ou APIS sont nécessaires pour commander le billet. "
+"Veuillez svp cliquer sur “OK” pour compléter les données. Si ces données ne "
+"sont encore disponibles pour le moment, veuillez créer une réservation "
+"séparément."
+
+#: app/views/flight_search/partials/passengerData/selectedFarePriceBreakDown.html:10
+msgid "Tax"
+msgstr "Taxe"
+
+#: app/views/flight_search/partials/passengerData/passengerDetails.html:35
+msgid "Telephone number"
+msgstr "Numéro de téléphone"
+
+#: app/views/flight_search/accordions/passenger-data.html:25
+msgid "The following details have been changed"
+msgstr "Les détails suivants ont été changés"
+
+#: app/views/flight_search/partials/passengerData/TSAFields.html:44
+msgid ""
+"The redress number is a 7 digit number provided by the Department of "
+"Homeland Security under there Traveler Redress Inquiry Program (TRIP). If a "
+"traveler already has a redress number e.g. due to watch list issues, "
+"screening problems at ports of entry or any other difficulties, it can be "
+"provided here."
+msgstr ""
+"Le numéro de recours est un nombre à 7 chiffres octroyé par le ministère "
+"américain de la sécurité intérieure dans le cadre du programme réservé aux "
+"procédures de recours - Traveler Redress Inquiry Program (TRIP). Si un "
+"voyageur possède déjà un numéro de recours p. ex. à cause d'un fichage sur "
+"les listes de surveillance, de problèmes lors de contrôle aux points "
+"d'entrée ou en raison de toute autre difficulté, il peut être inséré ici-"
+"même."
+
+#: app/views/flight_search/partials/passengerData/passengerDetails.html:6
+msgid "Tips for name entries"
+msgstr ""
+"Aide: \\n Renseignez les noms tels qu’ils figurent sur la pièce d’identité.  "
+"\\n Ne renseignez que le 1er prénom. Un prénom avec un tiret sera considéré "
+"comme un seul prénom (ex : Jean-Pierre = JeanPierre). \\n N’utilisez pas les "
+"caractères spéciaux tels que / ? – ou ¨. \\n Si une abréviation de nom est "
+"nécessaire, merci de contacter votre service clientèle avant d’effectuer la "
+"réservation. \\n En cliquant sur TSA ou APIS, de nouveaux champs "
+"obligatoires seront à remplir. Merci de compléter cette fois-ci, tous les "
+"prénoms tels qu’ils figurent sur la pièce d’identité."
+
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:35
+msgid "Title"
+msgstr "Titre"
+
+#: app/views/flight_search/partials/passengerData/selectedFarePriceBreakDown.html:12
+msgid "Tkt-fee"
+msgstr "Frais d‘émission"
+
+#: app/views/flight_search/partials/passengerData/selectedFarePriceBreakDown.html:63
+msgid "Total"
+msgstr "Total"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:36
+msgid "Total markup"
+msgstr "Commission totale"
+
+#: app/views/flight_search/partials/passengerData/selectedFarePriceBreakDown.html:15
+msgid "Total p.p."
+msgstr "Total par pers."
+
+#: app/views/flight_search/partials/passengerData/CUBAFields.html:7
+msgid "Travel Purpose"
+msgstr "Raison du voyage"
+
+#: app/views/flight_search/partials/passengerData/CUBAFields.html:1
+msgid "US - Cuba travel"
+msgstr "US - Cuba voyage"
+
+#: app/views/flight_search/partials/passengerData/APISFields.html:58
+msgid "Validity"
+msgstr "Validité"
+
+#: app/views/flight_search/partials/passengerData/passengerDetails.html:40
+msgid "and / or"
+msgstr "et / ou"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:41
+msgid "kg allowed"
+msgstr "kg autorisés"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:48
+msgid "passenger"
+msgstr "passager"
+
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:5
+msgid "passenger %1$s(%2$s)"
+msgstr "passager %1$s(%2$s)"
+
+#: app/views/flight_search/partials/passengerData/passengerDataFields.html:8
+msgid "passenger %1$s(ADT and INF)"
+msgstr "passager %1$s(ADT et INF)"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:44
+msgid "piece allowed"
+msgstr "Élément autorisé"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:43
+msgid "pieces allowed"
+msgstr "Éléments autorisés"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:35
+msgid "price"
+msgstr "prix"
+
+#: app/scripts/constants/flight_search/passenger_data_constants.js:55
+msgid "technical stop(s)"
+msgstr "escale(s) technique(s)"
+
